@@ -1,0 +1,36 @@
+Y:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V27\RMS_Integration\RMS_Application_Package\bin\AnyCPU\Debug\resources.pri
+Y:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V27\RMS_Integration\RMS_Application_Package\obj\Debug\RMS_Application_Package.wapproj.CoreCompileInputs.cache
+Y:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V27\RMS_Integration\RMS_Application_Package\obj\Debug\priconfig.xml
+Y:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V27\RMS_Integration\RMS_Application_Package\obj\Debug\priconfig.xml.intermediate
+Y:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V27\RMS_Integration\RMS_Application_Package\obj\Debug\unfiltered.layout.resfiles
+Y:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V27\RMS_Integration\RMS_Application_Package\obj\Debug\unfiltered.layout.resfiles.intermediate
+Y:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V27\RMS_Integration\RMS_Application_Package\obj\Debug\filtered.layout.resfiles
+Y:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V27\RMS_Integration\RMS_Application_Package\obj\Debug\filtered.layout.resfiles.intermediate
+Y:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V27\RMS_Integration\RMS_Application_Package\obj\Debug\excluded.layout.resfiles
+Y:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V27\RMS_Integration\RMS_Application_Package\obj\Debug\excluded.layout.resfiles.intermediate
+Y:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V27\RMS_Integration\RMS_Application_Package\obj\Debug\resources.resfiles
+Y:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V27\RMS_Integration\RMS_Application_Package\obj\Debug\resources.resfiles.intermediate
+Y:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V27\RMS_Integration\RMS_Application_Package\obj\Debug\pri.resfiles
+Y:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V27\RMS_Integration\RMS_Application_Package\obj\Debug\pri.resfiles.intermediate
+Y:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V27\RMS_Integration\RMS_Application_Package\obj\Debug\qualifiers.txt
+Y:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V27\RMS_Integration\RMS_Application_Package\obj\Debug\qualifiers.txt.intermediate
+Y:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V27\RMS_Integration\RMS_Application_Package\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+Y:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V27\RMS_Integration\RMS_Application_Package\obj\Debug\ProjectArchitectures.txt
+C:\Users\masorian\Documents\RMS_Integration_V29\RMS_Integration\RMS_Application_Package\bin\AnyCPU\Debug\resources.pri
+C:\Users\masorian\Documents\RMS_Integration_V29\RMS_Integration\RMS_Application_Package\obj\Debug\RMS_Application_Package.wapproj.CoreCompileInputs.cache
+C:\Users\masorian\Documents\RMS_Integration_V29\RMS_Integration\RMS_Application_Package\obj\Debug\priconfig.xml
+C:\Users\masorian\Documents\RMS_Integration_V29\RMS_Integration\RMS_Application_Package\obj\Debug\priconfig.xml.intermediate
+C:\Users\masorian\Documents\RMS_Integration_V29\RMS_Integration\RMS_Application_Package\obj\Debug\unfiltered.layout.resfiles
+C:\Users\masorian\Documents\RMS_Integration_V29\RMS_Integration\RMS_Application_Package\obj\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\masorian\Documents\RMS_Integration_V29\RMS_Integration\RMS_Application_Package\obj\Debug\filtered.layout.resfiles
+C:\Users\masorian\Documents\RMS_Integration_V29\RMS_Integration\RMS_Application_Package\obj\Debug\filtered.layout.resfiles.intermediate
+C:\Users\masorian\Documents\RMS_Integration_V29\RMS_Integration\RMS_Application_Package\obj\Debug\excluded.layout.resfiles
+C:\Users\masorian\Documents\RMS_Integration_V29\RMS_Integration\RMS_Application_Package\obj\Debug\excluded.layout.resfiles.intermediate
+C:\Users\masorian\Documents\RMS_Integration_V29\RMS_Integration\RMS_Application_Package\obj\Debug\resources.resfiles
+C:\Users\masorian\Documents\RMS_Integration_V29\RMS_Integration\RMS_Application_Package\obj\Debug\resources.resfiles.intermediate
+C:\Users\masorian\Documents\RMS_Integration_V29\RMS_Integration\RMS_Application_Package\obj\Debug\pri.resfiles
+C:\Users\masorian\Documents\RMS_Integration_V29\RMS_Integration\RMS_Application_Package\obj\Debug\pri.resfiles.intermediate
+C:\Users\masorian\Documents\RMS_Integration_V29\RMS_Integration\RMS_Application_Package\obj\Debug\qualifiers.txt
+C:\Users\masorian\Documents\RMS_Integration_V29\RMS_Integration\RMS_Application_Package\obj\Debug\qualifiers.txt.intermediate
+C:\Users\masorian\Documents\RMS_Integration_V29\RMS_Integration\RMS_Application_Package\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\masorian\Documents\RMS_Integration_V29\RMS_Integration\RMS_Application_Package\obj\Debug\ProjectArchitectures.txt

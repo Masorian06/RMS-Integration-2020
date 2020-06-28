@@ -1,0 +1,2515 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>DiscreteLogics.TeaFiles</name>
+    </assembly>
+    <members>
+        <member name="T:TeaTime.ManagedMemoryMapping`1">
+            <summary>
+             Access items in TeaFiles via safe memory mapping using <see cref="T:System.IO.MemoryMappedFiles.MemoryMappedFile"/>.
+            </summary>
+             <remarks>
+             This safe way of memory mapping incurs significant overhead such that performance 
+             gains are far behind using unsafe P/Invoke Memory Mapping.<br/><br/>
+             
+             If pure managed code is required, this class might be prefered over <see cref="T:TeaTime.RawMemoryMapping`1"/>. It also
+             provides a type safe interface, while <see cref="T:TeaTime.RawMemoryMapping`1"/> provides raw byte* only. For
+             performance reasons however, MemoryMappedTeaFile is much faster.
+             </remarks>
+        </member>
+        <member name="M:TeaTime.ManagedMemoryMapping`1.Read(System.Int64)">
+            <summary>Reads an item at a given position. </summary>
+            <param name="itemIndex">The item index to read. </param>
+            <returns>The item at index <paramref name="itemIndex"/>. </returns>
+        </member>
+        <member name="M:TeaTime.ManagedMemoryMapping`1.Dispose">
+            <summary>Releases all resources. </summary>
+        </member>
+        <member name="P:TeaTime.ManagedMemoryMapping`1.Item(System.Int32)">
+            <summary>Indexer to get items within this collection using array index syntax. </summary>
+            <value>The indexed item. </value>
+        </member>
+        <member name="T:TeaTime.Extensions">
+            <summary>
+            Basic extensions on elementary types like strings or collections.
+            </summary>
+            <remarks>
+            These extensions remain internal, to prevent collisions with other TeaTime Extensions.
+            </remarks>
+        </member>
+        <member name="M:TeaTime.Extensions.SafeToString(System.Object,System.String)">
+            <summary>
+            Returns the object's string representation or the <paramref name="emptyValue"/> if the object reference is null.
+            </summary>
+            <param name="o">The object whose string representation shall be returned.</param>
+            <param name="emptyValue">The string to be returned if <paramref name="o"/> is null.</param>
+            <returns></returns>
+        </member>
+        <member name="M:TeaTime.Extensions.SafeToString(System.Object)">
+            <summary>
+            Returns the object's string representation or "empty" if the object reference is null.
+            </summary>
+            <param name="o">The object whose string representation shall be returned.</param>
+            <returns></returns>
+        </member>
+        <member name="M:TeaTime.Extensions.IsSet(System.String)">
+            <summary>
+            A more convenient writing of string.IsNullOrEmpty(s).
+            </summary>
+            <param name="s">The string that is checked for null or emptyness</param>
+            <returns>true if thee string is not null and not empty.</returns>
+        </member>
+        <member name="M:TeaTime.Extensions.IsDefined``1(System.Reflection.MemberInfo)">
+            <summary>
+            IsDefined formulated as generic method. This makes the code a little bit more concise.
+            </summary>
+            <typeparam name="A">The attribute type.</typeparam>
+            <param name="mi">The MemberInfo to be checked for the attribute.</param>
+            <returns>True if <paramref name="mi"/> is attributed with <typeparamref name="A"/>.</returns>
+        </member>
+        <member name="M:TeaTime.Extensions.Times(System.Int32,System.Action)">
+            <summary>
+            Execute <paramref name="a"/> <paramref name="n"/> times.
+            </summary>
+            <param name="n">Specifies how many times a() is executed.</param>
+            <param name="a">The action to execute.</param>
+        </member>
+        <member name="M:TeaTime.Extensions.ToStringFromFields(System.Object,System.String)">
+            <summary>
+            Returns a string representation of an objects fields using reflection.
+            </summary>
+            <param name="o">The object whose string representation shall be returned.</param>
+            <param name="separator">The separator between the name=fields parts.</param>
+            <returns>The string holding field names and values.</returns>
+        </member>
+        <member name="M:TeaTime.Extensions.ToStringFromFields(System.Object)">
+            <summary>
+            Returns a string representation of an objects fields using reflection. Between each name=value
+            pair, a space will be used as separator.
+            </summary>
+            <param name="o">The object whose string representation shall be returned.</param>
+            <returns>The string holding field names and values.</returns>
+        </member>
+        <member name="M:TeaTime.Extensions.Formatted(System.String,System.Object[])">
+            <summary>
+            Allows simpler formulation of string.Format("format", a, b, c) by
+                                          format.Formatted(a, b, c)
+            </summary>
+            <param name="s">The value to be formatted.</param>
+            <param name="values"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TeaTime.Extensions.Joined``1(System.Collections.Generic.IEnumerable{``0},System.String)">
+            <summary>
+            Joins the values to a string concatenting them with <paramref name="separator"/>.
+            </summary>
+            <param name="values">The values.</param>
+            <param name="separator">The separator.</param>
+            <returns></returns>
+        </member>
+        <member name="M:TeaTime.Extensions.GetFirstPart(System.String,System.Char)">
+            <summary>
+            Returns the first part of the string, until character <paramref name="stopCharacter"/> appears. If such 
+            chracter is not present, the whole string is returned.
+            </summary>
+            <param name="s"></param>
+            <param name="stopCharacter"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TeaTime.Extensions.ForEach``1(System.Collections.Generic.IEnumerable{``0},System.Action{``0})">
+            <summary>
+            Provides a ForEach extension for any IEnumerable.
+            </summary>
+            <typeparam name="T">The type of the enumerable.</typeparam>
+            <param name="collection">The enumerable collection.</param>
+            <param name="a">The action to execute for each item in the collection.</param>
+        </member>
+        <member name="M:TeaTime.Extensions.GetLanguageName(System.Type)">
+            <summary>
+            Composes a name for a type using template syntax used in programmming languages like C++ or C#.
+            Example: For the Type int, this method returns "int".
+            Example: For the Type Event&lt;double&gt; it returns Event&lt;double&gt; .
+            </summary>
+            <param name="t">The type whose name is composed.</param>
+            <returns></returns>
+        </member>
+        <member name="M:TeaTime.Extensions.ToEnumerable``1(``0)">
+            <summary>
+            Makes any object instance enumerable.
+            </summary>
+            <remarks>
+            Useful to use single instances in LINQ statements.
+            </remarks>
+            <typeparam name="T">The type of the instance.</typeparam>
+            <param name="value">The instance.</param>
+            <returns>An enumerable that returns the instance.</returns>
+        </member>
+        <member name="T:TeaTime.IItemCollection`1">
+            <summary>Provides access to items using typed <see cref="T:TeaTime.TeaFile`1"/>. </summary>
+            <remarks>
+            This interface adds direct access and count to <see cref="T:System.Collections.Generic.IEnumerable`1"/>.
+            </remarks>
+            <typeparam name="T">The item type.</typeparam>
+        </member>
+        <member name="P:TeaTime.IItemCollection`1.Count">
+            <summary>
+            The number of items in the file.
+            </summary>
+            <value>The number of items in the file.</value>
+        </member>
+        <member name="P:TeaTime.IItemCollection`1.Item(System.Int64)">
+            <summary>Indexer to get items within this collection using array index syntax. </summary>
+            <value>The indexed item. </value>
+        </member>
+        <member name="T:TeaTime.ItemCollection`1">
+            <summary>
+            A TeaFile holds a collection of items. In instance of this class exposes access to this collection.
+            </summary>
+            <remarks>
+            Access is provided by an enumerator. In addition, the number of items in the file 
+            is exposed via its <see cref="P:TeaTime.ItemCollection`1.Count"/> property.<br> </br>
+            Usage:<br></br>
+            <code>
+            using(var teaFile = TeaFile&lt;OHLCV&gt;.OpenRead("ohlcv.tea"))
+            {
+            	foreach(OHLCV item in teaFile.Items)
+            	{
+            		Console.WriteLine(item.Time);
+            		Console.WriteLine(item.Open);
+            	}
+            }
+            </code>
+            </remarks>
+        </member>
+        <member name="M:TeaTime.ItemCollection`1.#ctor(TeaTime.TeaFile{`0})">
+            <summary>
+            Contructs an instance, initializing it with a reference to the TeaFile it provides access to.
+            </summary>
+            <remarks>
+            This class shall be instantiated by an instance of a TeaFile only, thus it is internal.
+            </remarks>
+            <param name="teaFile">The tea file.</param>
+        </member>
+        <member name="M:TeaTime.ItemCollection`1.GetEnumerator">
+            <summary>Gets the enumerator. </summary>
+            <returns>The enumerator. </returns>
+        </member>
+        <member name="M:TeaTime.ItemCollection`1.TryRead(`0@)">
+            <summary>
+            Iterator implemented using the yield statement do not allow a yield return
+            statement inside a try catch block, so we encapsulate the necessary try catch
+            in this method.
+            </summary>
+            <param name="value">The value.</param>
+            <returns></returns>
+        </member>
+        <member name="P:TeaTime.ItemCollection`1.Count">
+            <summary>
+            The number of items in the file.
+            </summary>
+            <value>The number of items in the file.</value>
+        </member>
+        <member name="P:TeaTime.ItemCollection`1.Item(System.Int64)">
+            <summary>Indexer to get items within this collection using array index syntax. </summary>
+            <value>The indexed item. </value>
+        </member>
+        <member name="T:TeaTime.RawMemoryMapping`1">
+            <summary>
+            Access items in TeaFiles via unsafe raw memory mapping.
+            </summary>
+            <remarks>
+            <para>
+            Provides access to the item area via memory mapping. <see cref="P:TeaTime.RawMemoryMapping`1.ItemAreaStart"/> holds a raw byte pointer to the 
+            first item in the file, <see cref="P:TeaTime.RawMemoryMapping`1.ItemAreaEnd"/> a pointer past the last item. Such mapped access often provides 
+            best performance if large (many MB) or very large files (several GB or more) are accessed.
+            </para>
+            <para>    
+            While this class can boost performance it comes with some drawbacks:<br/>
+            1. Usage requires unsafe context and bugs might be much harder to detect in unsafe terrain.
+            2. The raw byte pointers must be casted to the item type in order to access the items.
+            3. The TeaTime environment encourages usage of the <seealso cref="T:TeaTime.Event`1"/> template as item type. Pointers to this 
+            type cannot be created however. Usage of this class is therefore restricted to plain structs.
+            </para>    
+            </remarks>
+        </member>
+        <member name="M:TeaTime.RawMemoryMapping`1.OpenRead(System.String)">
+            <summary>
+            Factory method to create a file mapping for read only access.
+            </summary>
+            <param name="fileName">The name of the file to open memory mapped.</param>
+            <returns></returns>
+        </member>
+        <member name="M:TeaTime.RawMemoryMapping`1.#ctor">
+            <summary>
+            Restrict instantiation to factory method.
+            </summary>
+        </member>
+        <member name="M:TeaTime.RawMemoryMapping`1.Dispose">
+            <summary>Releases all resources held by this instance.</summary>
+        </member>
+        <member name="P:TeaTime.RawMemoryMapping`1.ItemAreaStart">
+            <summary>Gets the item area start. </summary>
+            <value>The start of the item area. If the file is not empty, this points to the first item in the file. </value>
+        </member>
+        <member name="P:TeaTime.RawMemoryMapping`1.ItemAreaEnd">
+            <summary>Gets the item area end. </summary>
+            <value>The end of the item area. If the file is not empty, this points to the position where the next 
+            item to append would be placed.</value>
+        </member>
+        <member name="T:TeaTime.Item">
+             <summary>
+             Holds the values of an Item when reading a TeaFile untyped.
+             </summary>
+             <remarks>
+             If the type inside a TeaFile is not knnown or not available in the program, the file can be read untyped using <see cref="T:TeaTime.TeaFile"/>. 
+             In contrast to <see cref="T:TeaTime.TeaFile`1"/> which exposes each item by it's known type like <c>Tick</c>, <see cref="T:TeaTime.TeaFile"/> exposes the 
+             items as a collection of instances of this <see cref="T:TeaTime.Item"/> class. It wraps an array of objects, each holding the value of a field of the 
+             item. This item can be printed by calling its <see cref="M:TeaTime.Item.ToString"/> method, or using <see cref="M:TeaTime.ItemDescription.GetValueString(TeaTime.Item)"/> 
+             from <see cref="T:TeaTime.ItemDescription"/>.
+             <example>
+             <code>
+             struct Tick
+             {
+                 public Time Time;
+                 public double Price;
+                 public long Volume;
+             }
+            
+             ...
+                
+             // write typed
+             using (var tf = TeaFile&lt;Tick&gt;.Create("acme.tea"))
+             {
+                 tf.Write(new Tick { Time = new Time(2000, 3, 4), Price = 12.34, Volume = 7200 });
+             }
+            
+             // 1. read typed
+             using (var tf = TeaFile&lt;Tick&gt;.OpenRead("acme.tea"))
+             {
+                 Tick item = tf.Read();  // typed read is convenient: we get a tpyed Tick back,
+                 Time t = item.Time;     // so access to its fields simply means acessing the fields of a Tick struct.
+                 double p = item.Price;
+                 long v = item.Volume;
+             }
+            
+             // 2. read untyped
+             // if we do not have the type available or do not know what is inside the file,
+             // we can still read it untyped:
+             using (var tf = TeaFile.OpenRead("acme.tea"))
+             {
+                 Item item = tf.Read();      // Here an item of type Item is returned, which holds the field values as an object[].
+                 object t = item.Values[0];  // The field values can be accessed by their field index
+                 object p = item.Values[1];  // The values inside this array still have the types Time, double and long, but
+                 object v = item.Values[2];  // we might not always know this at compile time. If we know it,
+                                             // a casts can be added:
+                 Time tt = (Time) item.Values[0];
+                 Console.WriteLine(item);    // The implicit call of ToString() here will cause the output:
+                                             // 4.3.2000, 12.34, 7200
+             }
+             </code>
+             </example>
+             
+             Some GUI controls (like grids) accept an object[] as the value for a row, which allows very simple binding of items.
+             </remarks>
+        </member>
+        <member name="M:TeaTime.Item.#ctor(System.Int32)">
+            <summary>
+            Constructor.
+            </summary>
+            <remarks>
+            Items are constructed by the TeaFile class and exposed via its <see cref="P:TeaTime.TeaFile.Items"/> collection. This constructor is therefore not public.
+            </remarks>
+            <param name="fieldCount">The number of fields to be stored.</param>
+        </member>
+        <member name="M:TeaTime.Item.ToString">
+            <summary>
+            Returns a <see cref="T:System.String"/> composed by the item's values.
+            </summary>
+            <remarks>
+            This method allows easy printing of an item. The returned string is the concatenation of all values inside the item, separated by a blank.<br/>
+            Times will be represented by their underlying value, for instance as an Int64 value holding the number of ticks.
+            </remarks>
+            <returns>A <see cref="T:System.String"/> that represents the item.</returns>
+        </member>
+        <member name="P:TeaTime.Item.Values">
+            <summary>
+            Gets the field values.
+            </summary>
+            <value>The array holding the item's field values.</value>
+        </member>
+        <member name="T:TeaTime.IItemCollection">
+            <summary>Provides access to items of untyped <see cref="T:TeaTime.TeaFile"/>. </summary>
+        </member>
+        <member name="M:TeaTime.IItemCollection.GetEnumerator(System.Int32)">
+            <summary>Returns an enumerator that iterates through the items. </summary>
+            <param name="startIndex">the index of the first item the enumerator shall yield. </param>
+            <returns>The enumerator. </returns>
+        </member>
+        <member name="P:TeaTime.IItemCollection.Count">
+            <summary>Gets the number of items in the collectiion.  </summary>
+        </member>
+        <member name="P:TeaTime.IItemCollection.Item(System.Int32)">
+            <summary>Indexer to get items within this collection using array index syntax. </summary>
+            <value>The indexed item. </value>
+        </member>
+        <member name="M:TeaTime.ItemCollection.#ctor(TeaTime.IItemReader)">
+            <summary>
+            This class can be instantiated by a TeaFile only, thus it is internal.
+            </summary>
+        </member>
+        <member name="M:TeaTime.ItemCollection.GetEnumerator">
+            <summary>Gets the enumerator over all item. </summary>
+            <returns>The enumerator. </returns>
+        </member>
+        <member name="M:TeaTime.ItemCollection.GetEnumerator(System.Int32)">
+            <summary>Gets an enumerator of a range starting at <paramref name="startIndex"/>. </summary>
+            <param name="startIndex">The start index. </param>
+            <returns>The enumerator. </returns>
+        </member>
+        <member name="P:TeaTime.ItemCollection.Count">
+            <summary>Gets the number of items in the collectiion.  </summary>
+        </member>
+        <member name="P:TeaTime.ItemCollection.Item(System.Int32)">
+            <summary>Indexer to get items within this collection using array index syntax. </summary>
+            <value>The indexed item. </value>
+        </member>
+        <member name="T:TeaTime.Event`1">
+            <summary>
+            Represents an event.
+            </summary>
+            <remarks>
+            <para>
+            An event describes a value at a certain time. This value might be an observation
+            like the temperature in Costa Rica, the price of a transaction or an assumed value like number of people waiting in a queue computed by a simulation.
+            Such value might be represented by a scalar value, like a <see cref="T:System.Double"/> for a temperature or require a 
+            structured value like a "Tick" holding price and volume. While the type of such value differs, ab evene always associates it with 
+            a time value. This class abstracts this time property.
+            </para>
+            <para>
+            Instead of using<br></br>
+            <code>
+            struct Tick
+            {
+                [EventTime]
+                public Time Time;
+                public double Price;
+                public int Volume;
+            }
+            </code>
+            Event&lt;T&gt; allows to abbreviate
+            <code>
+            struct Tick
+            {
+                public double Price;
+                public int Volume;
+            }
+            // and then use
+            Event&lt;Tick&gt;
+            </code>
+            This has several advantages:
+            <list>
+            <item>Processing frameworks can isolate the value from <see cref="T:TeaTime.Event`1"/> or construct timestamped instances from values.</item>
+            <item>The fact that a type is an event is made explicit in code</item>
+            <item>It is shorted to write, <see cref="T:TeaTime.EventTimeAttribute"/> is packed into <see cref="T:TeaTime.Event`1"/>,</item>
+            <item>The type used for time repressentation is encapsulated in a single class.</item>
+            </list>
+            </para>
+            </remarks>
+            <typeparam name="T">The type of the event value.</typeparam>
+        </member>
+        <member name="M:TeaTime.Event`1.#ctor(TeaTime.Time,`0)">
+            <summary>
+            Constructor, this overload is often handy to create instances.
+            </summary>
+            <param name="time">The event time.</param>
+            <param name="value">The event value.</param>
+        </member>
+        <member name="F:TeaTime.Event`1.Time">
+            <summary>
+            The time of the event.
+            </summary>
+            <remarks>
+            The <see cref="F:TeaTime.Event`1.Time"/> type supports flexible epoch and resolution values.<br/>
+            </remarks>
+        </member>
+        <member name="F:TeaTime.Event`1.Value">
+            <summary>
+            The event value.
+            </summary>
+            <remarks>Dependent on the application domain, this might be a scalar value or a struct.</remarks>
+        </member>
+        <member name="M:TeaTime.Event`1.ToString">
+            <summary>Returns the fully qualified type name of this instance. </summary>
+            <returns>A <see cref="T:System.String" /> containing a fully qualified type name. </returns>
+        </member>
+        <member name="T:TeaTime.Timescale">
+            <summary>Describes how raw tick counts are converted to date and time values.</summary>
+            <remarks>
+            <h2>Time representation in TeaFiles</h2>
+            <para>
+            TeaFiles shall be usable by various applications and operatings systems. Each of 
+            these usually offer some system to deal with date, time or datetime values. TeaFiles 
+            can hold any of the values used by these systems. This class holds the values required 
+            to interpret raw time values.<br/><br/>
+            </para>
+            <example>
+            A TeaFile might store items like
+            <code>
+            struct Observation
+            {
+                public long     Time;
+                public double   Temperature;
+            }
+            </code>
+            Lets say an observation holds a time value of 86410. To get the date and time of this integer value, 
+            we need to know the interval between ticks and the date/time where the counting started. <see cref="T:TeaTime.Timescale"/>
+            provides these values as <see cref="P:TeaTime.Timescale.TicksPerDay"/> and <see cref="P:TeaTime.Timescale.Epoch"/>.
+            </example>
+            The combination of a raw value, this might be an unsigned or signed integer or a floating point value and 
+            a time scale stored once for a time series gives enough flexibility to store values used by any 
+            time system.
+            </remarks>
+        </member>
+        <member name="F:TeaTime.Timescale.SecondsPerDay">
+            <summary>The seconds per day = 86400. </summary>
+        </member>
+        <member name="F:TeaTime.Timescale.MillisecondsPerDay">
+            <summary>The milliseconds per day = 86400000. </summary>
+        </member>
+        <member name="F:TeaTime.Timescale.MicrosecondsPerDay">
+            <summary>The microseconds per day = 86400000000. </summary>
+        </member>
+        <member name="F:TeaTime.Timescale.epochOffsetInDays">
+            <summary>The epoch specified as number of days between 1.1.0000 and the epoch. </summary>
+        </member>
+        <member name="F:TeaTime.Timescale.ticksPerDay">
+            <summary>The ticks per day. </summary>
+        </member>
+        <member name="F:TeaTime.Timescale.netEpochIffsetInDays">
+            <summary>The epoch offsetin net ticks. </summary>
+        </member>
+        <member name="F:TeaTime.Timescale.netTicksPerDayTick">
+            <summary>The net ticks per scale tick. </summary>
+        </member>
+        <member name="M:TeaTime.Timescale.FromEpoch(System.Int32,System.Int32,System.Int32,System.Int64)">
+            <summary>Create a new Timescale instance from the epoch day/month/year and the number of ticks per day. </summary>
+            <remarks>Static factory methods are provided since Timescale is a struct. </remarks>
+            <exception cref="T:System.ArgumentException">Thrown when one or more arguments have unsupported or illegal values. </exception>
+            <param name="epochYear">The epoch year. </param>
+            <param name="epochMonth">The epoch month. </param>
+            <param name="epochDay">The epoch day. </param>
+            <param name="ticksPerDay">The ticks counted per day. </param>
+            <returns>A new Timescale instance. </returns>
+        </member>
+        <member name="M:TeaTime.Timescale.FromEpoch(System.Int64,System.Int64)">
+            <summary>Create a new Timescale instance from the epoch in days and the number of ticks per day. </summary>
+            <remarks>Static factory methods are provided since Timescale is a struct. </remarks>
+            <exception cref="T:System.ArgumentException">Thrown when one or more arguments have unsupported or illegal values. </exception>
+            <param name="epochOffsetInDays">The epoch specified as number of days between 1.1.0000 and the epoch. </param>
+            <param name="ticksPerDay">The ticks counted per day. </param>
+            <returns>A new Timescale instance. </returns>
+        </member>
+        <member name="M:TeaTime.Timescale.NetToScale(System.Int64)">
+            <summary>Converts Net scaled ticks to ticks in the scale of this instance. </summary>
+            <param name="netTicks">The number of ticks at .Net DateTime scale. </param>
+            <returns>The number of ticks in the scale of this instance. </returns>
+        </member>
+        <member name="M:TeaTime.Timescale.ScaleToNet(System.Int64)">
+            <summary>Converts ticks scaled in the scale of this instance to .Net DateTime ticks. </summary>
+            <param name="scaledTicks">The number ticks in this instance's scale. </param>
+            <returns>.Net based ticks. </returns>
+        </member>
+        <member name="M:TeaTime.Timescale.Equals(TeaTime.Timescale)">
+            <summary>Tests if this Timescale is considered equal to another. </summary>
+            <param name="other">The timescale to compare to this object. </param>
+            <returns>true if the objects are considered equal, false if they are not. </returns>
+        </member>
+        <member name="M:TeaTime.Timescale.op_Equality(TeaTime.Timescale,TeaTime.Timescale)">
+            <summary>Equality operator. </summary>
+            <param name="scale1">The first instance to compare. </param>
+            <param name="scale2">The second instance to compare. </param>
+            <returns>true if the parameters are considered equivalent. </returns>
+        </member>
+        <member name="M:TeaTime.Timescale.op_Inequality(TeaTime.Timescale,TeaTime.Timescale)">
+            <summary>Inequality operator. </summary>
+            <param name="scale1">The first instance to compare. </param>
+            <param name="scale2">The second instance to compare. </param>
+            <returns>true if the parameters are not considered equivalent. </returns>
+        </member>
+        <member name="M:TeaTime.Timescale.Equals(System.Object)">
+            <summary>Indicates whether this instance and a specified object are equal. </summary>
+            <param name="obj">Another object to compare to. </param>
+            <returns>
+            true if <paramref name="obj" /> and this instance are the same type and represent the same value; otherwise, false.
+            </returns>
+        </member>
+        <member name="M:TeaTime.Timescale.GetHashCode">
+            <summary>Returns the hash code for this instance. </summary>
+            <returns>A 32-bit signed integer that is the hash code for this instance. </returns>
+        </member>
+        <member name="M:TeaTime.Timescale.ToString">
+            <summary>Returns the fully qualified type name of this instance. </summary>
+            <returns>A <see cref="T:System.String" /> containing a fully qualified type name. </returns>
+        </member>
+        <member name="P:TeaTime.Timescale.Java">
+            <summary>A Timescale instance with an epoch of 1.1.1970 and Millisecond resolution.</summary>
+            <remarks>Since Java uses this epoch and resolution, we call it "Java" Timescale.</remarks>
+        </member>
+        <member name="P:TeaTime.Timescale.Net">
+            <summary>A Timescale instance with an epoch of 1.1.0000 and 0.1 Microsecond resolution.</summary>
+            <remarks>Since .Net uses this epoch and resolution, we call it "Net" Timescale.<br/>
+            TeaFiles that shall be universally accessible should not use this time scale, as the value range
+            causes problems on platforms that do not provide 64bit values, like the R application.
+            </remarks>
+        </member>
+        <member name="P:TeaTime.Timescale.Epoch">
+            <summary>The epoch as the number of days from 1.1.0000. </summary>
+        </member>
+        <member name="P:TeaTime.Timescale.TicksPerDay">
+            <summary>The number of ticks counted per day. </summary>
+        </member>
+        <member name="P:TeaTime.Timescale.WellKnownName">
+            <summary>Returns "Java" or "Net" if this instance has the epoch and ticks per day of these well known scales. "Custom" otherwise.</summary>
+        </member>
+        <member name="T:TeaTime.ScaleCollisionBehavior">
+            <summary>
+             Describes the behavior upon <see cref="T:TeaTime.Timescale"/> collision.
+            </summary>
+             <remarks>
+             Each TeaFile holds a <see cref="T:TeaTime.Timescale"/> value that defines how to interpret tick counts int the file.
+             For performance and simplicity reasons, this API a maintains a single process wide <see cref="T:TeaTime.Timescale"/> 
+             value in <see cref="P:TeaTime.Time.Scale"/> that allows simple conversion of time values like <see cref="P:TeaTime.Time.Day"/>. 
+             When a TeaFile is opened and it's Timescale conflicts with the default Timescale, then the <see cref="T:TeaTime.ScaleCollisionBehavior"/>
+             defines how to behave.
+             </remarks>
+        </member>
+        <member name="F:TeaTime.ScaleCollisionBehavior.ThrowException">
+            <summary>Throw a <see cref="T:TeaTime.TimescaleException"/>. </summary>
+        </member>
+        <member name="F:TeaTime.ScaleCollisionBehavior.Ignore">
+            <summary>Ignore the collision. </summary>
+        </member>
+        <member name="F:TeaTime.ScaleCollisionBehavior.UseNewScale">
+            <summary>Set the default scale to the new scale. </summary>
+        </member>
+        <member name="T:TeaTime.Time">
+            <summary>This class is designed after <see cref="T:System.DateTime"/> but allows configurable epoch and resolution via its 
+            <see cref="P:TeaTime.Time.Scale"/> property.
+            </summary>
+        </member>
+        <member name="M:TeaTime.Time.#ctor(System.Int32,System.Int32,System.Int32)">
+            <summary>Constructor. </summary>
+            <param name="year"> The year. </param>
+            <param name="month">The month. </param>
+            <param name="day">  The day. </param>
+        </member>
+        <member name="M:TeaTime.Time.#ctor(System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32)">
+            <summary>Constructor. </summary>
+            <param name="year">  The year. </param>
+            <param name="month"> The month. </param>
+            <param name="day">   The day. </param>
+            <param name="hour">  The hour. </param>
+            <param name="minute">The minute. </param>
+            <param name="second">The second. </param>
+        </member>
+        <member name="M:TeaTime.Time.#ctor(System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32)">
+            <summary>Constructor. </summary>
+            <param name="year">       The year. </param>
+            <param name="month">      The month. </param>
+            <param name="day">        The day. </param>
+            <param name="hour">       The hour. </param>
+            <param name="minute">     The minute. </param>
+            <param name="second">     The second. </param>
+            <param name="millisecond">The millisecond. </param>
+        </member>
+        <member name="M:TeaTime.Time.#ctor(System.Int64)">
+            <summary>Constructor. </summary>
+            <param name="ticks">The ticks. </param>
+        </member>
+        <member name="M:TeaTime.Time.ToString">
+            <summary>
+            Returns a <see cref="T:System.String"/> that represents this instance.
+            </summary>
+            <returns>A <see cref="T:System.String"/> that represents this instance.</returns>
+            <remarks>Internally, the string is converted into a System.DateTime instance whose ToString() method is then called.</remarks>
+        </member>
+        <member name="M:TeaTime.Time.ToString(System.String)">
+            <summary>
+            Describes the instance as a string.
+            </summary>
+            <returns>
+            A string representation of value of the current <see cref="T:System.DateTime"/> object as specified by <paramref name="format"/>.
+            If the date time value is invalid, the text "invalid" is returned.
+            </returns>
+            <remarks>
+            Time holds an underlying <see cref="T:System.Int64"/> value ticks that is converted to a <see cref="T:System.DateTime"/> value and then formatted as a <see cref="T:System.String"/>.
+            This conversion might fail if the tick value is out of range.
+            </remarks>
+            <param name="format">A standard or custom date and time format string. </param><exception cref="T:System.FormatException">The length of <paramref name="format"/> is 1, and it is not one of the format specifier characters defined for <see cref="T:System.Globalization.DateTimeFormatInfo"/>.-or- <paramref name="format"/> does not contain a valid custom format pattern. </exception><filterpriority>1</filterpriority>
+        </member>
+        <member name="M:TeaTime.Time.Equals(TeaTime.Time)">
+            <summary>Tests if this Time is considered equal to another. </summary>
+            <param name="other">The time to compare to this object. </param>
+            <returns>true if the objects are considered equal, false if they are not. </returns>
+        </member>
+        <member name="M:TeaTime.Time.op_Equality(TeaTime.Time,TeaTime.Time)">
+            <summary>Equality operator. </summary>
+            <param name="left"> The first instance to compare. </param>
+            <param name="right">The second instance to compare. </param>
+            <returns>true if the parameters are considered equivalent. </returns>
+        </member>
+        <member name="M:TeaTime.Time.op_Inequality(TeaTime.Time,TeaTime.Time)">
+            <summary>Inequality operator. </summary>
+            <param name="left"> The first instance to compare. </param>
+            <param name="right">The second instance to compare. </param>
+            <returns>true if the parameters are not considered equivalent. </returns>
+        </member>
+        <member name="M:TeaTime.Time.op_LessThan(TeaTime.Time,TeaTime.Time)">
+            <summary>Less-than comparison operator. </summary>
+            <param name="left"> The first instance to compare. </param>
+            <param name="right">The second instance to compare. </param>
+            <returns>true if the first parameter is less than the second. </returns>
+        </member>
+        <member name="M:TeaTime.Time.op_GreaterThan(TeaTime.Time,TeaTime.Time)">
+            <summary>Greater-than comparison operator. </summary>
+            <param name="left"> The first instance to compare. </param>
+            <param name="right">The second instance to compare. </param>
+            <returns>true if the first parameter is greater than to the second. </returns>
+        </member>
+        <member name="M:TeaTime.Time.op_LessThanOrEqual(TeaTime.Time,TeaTime.Time)">
+            <summary>Less-than-or-equal comparison operator. </summary>
+            <param name="left"> The first instance to compare. </param>
+            <param name="right">The second instance to compare. </param>
+            <returns>true if the first parameter is less than or equal to the second. </returns>
+        </member>
+        <member name="M:TeaTime.Time.op_GreaterThanOrEqual(TeaTime.Time,TeaTime.Time)">
+            <summary>Greater-than-or-equal comparison operator. </summary>
+            <param name="left"> The first instance to compare. </param>
+            <param name="right">The second instance to compare. </param>
+            <returns>true if the first parameter is greater than or equal to the second. </returns>
+        </member>
+        <member name="M:TeaTime.Time.op_Implicit(TeaTime.Time)~System.DateTime">
+            <summary>DateTime casting operator. </summary>
+            <param name="time">Allow to cast a <see cref="T:TeaTime.Time"/> value to <see cref="T:System.DateTime"/>. </param>
+        </member>
+        <member name="M:TeaTime.Time.op_Implicit(System.DateTime)~TeaTime.Time">
+            <summary>Time casting operator. </summary>
+            <param name="dateTime">Allow to create a <see cref="T:TeaTime.Time"/> value from a <see cref="T:System.DateTime"/> value. </param>
+        </member>
+        <member name="M:TeaTime.Time.op_Equality(TeaTime.Time,System.DateTime)">
+            <summary>Equality operator. </summary>
+            <param name="left"> The first instance to compare. </param>
+            <param name="right">The second instance to compare. </param>
+            <returns>true if the parameters are considered equivalent. </returns>
+        </member>
+        <member name="M:TeaTime.Time.op_Inequality(TeaTime.Time,System.DateTime)">
+            <summary>Inequality operator. </summary>
+            <param name="left"> The first instance to compare. </param>
+            <param name="right">The second instance to compare. </param>
+            <returns>true if the parameters are not considered equivalent. </returns>
+        </member>
+        <member name="M:TeaTime.Time.op_Equality(System.DateTime,TeaTime.Time)">
+            <summary>Equality operator. </summary>
+            <param name="left"> The first instance to compare. </param>
+            <param name="right">The second instance to compare. </param>
+            <returns>true if the parameters are considered equivalent. </returns>
+        </member>
+        <member name="M:TeaTime.Time.op_Inequality(System.DateTime,TeaTime.Time)">
+            <summary>Inequality operator. </summary>
+            <param name="left"> The first instance to compare. </param>
+            <param name="right">The second instance to compare. </param>
+            <returns>true if the parameters are not considered equivalent. </returns>
+        </member>
+        <member name="M:TeaTime.Time.Equals(System.Object)">
+            <summary>Indicates whether this instance and a specified object are equal. </summary>
+            <param name="obj">Another object to compare to. </param>
+            <returns>
+            true if <paramref name="obj" /> and this instance are the same type and represent the same value; otherwise, false.
+            </returns>
+        </member>
+        <member name="M:TeaTime.Time.GetHashCode">
+            <summary>Returns the hash code for this instance. </summary>
+            <returns>A 32-bit signed integer that is the hash code for this instance. </returns>
+        </member>
+        <member name="M:TeaTime.Time.Compare(TeaTime.Time)">
+            <summary>Compares this Time object to another to determine their relative ordering. </summary>
+            <param name="other">Another instance to compare. </param>
+            <returns>Negative if 'other' is less than '', 0 if they are equal, or positive if it is greater. </returns>
+        </member>
+        <member name="M:TeaTime.Time.AddDays(System.Double)">
+            <summary>Returns a new DateTime that adds the specified number of days to the value of this instance.</summary>
+            <param name="numberOfDays">A number of whole and fractional days. The parameter can be negative or positive.</param>
+            <returns>A new Time instance whose value is the sum of the date and time represented by this instance and 
+            <see paramref="numberOfDays"/>. </returns>
+        </member>
+        <member name="M:TeaTime.Time.AddHours(System.Double)">
+            <summary>Returns a new DateTime that adds the specified number of hours to the value of this instance.</summary>
+            <param name="hours">A number of whole and fractional hours. The parameter can be negative or positive.</param>
+            <returns>A new Time instance whose value is the sum of the date and time represented by this instance and 
+            <see paramref="hours"/>. </returns>
+        </member>
+        <member name="M:TeaTime.Time.AddMinutes(System.Double)">
+            <summary>Returns a new DateTime that adds the specified number of minutes to the value of this instance.</summary>
+            <param name="minutes">A number of whole and fractional minutes. The parameter can be negative or positive.</param>
+            <returns>A new Time instance whose value is the sum of the date and time represented by this instance and 
+            <see paramref="minutes"/>. </returns>
+        </member>
+        <member name="M:TeaTime.Time.AddSeconds(System.Double)">
+            <summary>Returns a new DateTime that adds the specified number of seconds to the value of this instance.</summary>
+            <param name="seconds">A number of whole and fractional seconds. The parameter can be negative or positive.</param>
+            <returns>A new Time instance whose value is the sum of the date and time represented by this instance and 
+            <see paramref="seconds"/>. </returns>
+        </member>
+        <member name="P:TeaTime.Time.Scale">
+            <summary>Gets or sets the scale. </summary>
+            <value>The <see cref="T:TeaTime.Timescale"/> used in computations of <see cref="T:TeaTime.Time"/>. 
+            In the common case, all Time instances inside an application use the same scale. For 
+            performance and simplicity reasons, this API therefore keeps a single process wide
+            scale value in this property.	   
+            </value>
+        </member>
+        <member name="P:TeaTime.Time.ScaleCollisionBehavior">
+            <summary>The behavior upon <see cref="T:TeaTime.Timescale"/> collision . </summary>
+            <remarks>Each TeaFile holds a <see cref="T:TeaTime.Timescale"/> value that defines how to interpret tick counts int the file.
+            For performance and simplicity reasons, this API a maintains a single process wide <see cref="T:TeaTime.Timescale"/>
+            value in <see cref="P:TeaTime.Time.Scale"/> that allows simple conversion of time values like <see cref="P:TeaTime.Time.Day"/>.
+            When a TeaFile is opened and it's Timescale conflicts with the default Timescale, then the <see cref="P:TeaTime.Time.ScaleCollisionBehavior"/>
+            defines how to behave.<br/><br/>
+            It is recommended to leave this value at its default of <see cref="F:TeaTime.ScaleCollisionBehavior.ThrowException"/> and 
+            to keep a uniform Timescale across all files used.
+            </remarks>
+        </member>
+        <member name="P:TeaTime.Time.Day">
+            <summary>
+            Gets the day of the month represented by this instance.
+            </summary>
+            <returns>
+            The day component, expressed as a value between 1 and 31.
+            </returns>
+            <filterpriority>1</filterpriority>
+        </member>
+        <member name="P:TeaTime.Time.DayOfWeek">
+            <summary>
+            Gets the day of the week represented by this instance.
+            </summary>
+            <returns>
+            A <see cref="T:System.DayOfWeek"/> enumerated constant that indicates the day of the week of this <see cref="T:System.DateTime"/> value. 
+            </returns>
+            <filterpriority>1</filterpriority>
+        </member>
+        <member name="P:TeaTime.Time.DayOfYear">
+            <summary>
+            Gets the day of the year represented by this instance.
+            </summary>
+            <returns>
+            The day of the year, expressed as a value between 1 and 366.
+            </returns>
+            <filterpriority>1</filterpriority>
+        </member>
+        <member name="P:TeaTime.Time.Hour">
+            <summary>
+            Gets the hour component of the date represented by this instance.
+            </summary>
+            <returns>
+            The hour component, expressed as a value between 0 and 23.
+            </returns>
+            <filterpriority>1</filterpriority>
+        </member>
+        <member name="P:TeaTime.Time.Millisecond">
+            <summary>
+            Gets the milliseconds component of the date represented by this instance.
+            </summary>
+            <returns>
+            The milliseconds component, expressed as a value between 0 and 999.
+            </returns>
+            <filterpriority>1</filterpriority>
+        </member>
+        <member name="P:TeaTime.Time.Minute">
+            <summary>
+            Gets the minute component of the date represented by this instance.
+            </summary>
+            <returns>
+            The minute component, expressed as a value between 0 and 59.
+            </returns>
+            <filterpriority>1</filterpriority>
+        </member>
+        <member name="P:TeaTime.Time.Month">
+            <summary>
+            Gets the month component of the date represented by this instance.
+            </summary>
+            <returns>
+            The month component, expressed as a value between 1 and 12.
+            </returns>
+            <filterpriority>1</filterpriority>
+        </member>
+        <member name="P:TeaTime.Time.Second">
+            <summary>
+            Gets the seconds component of the date represented by this instance.
+            </summary>
+            <returns>
+            The seconds, between 0 and 59.
+            </returns>
+            <filterpriority>1</filterpriority>
+        </member>
+        <member name="P:TeaTime.Time.Year">
+            <summary>
+            Gets the year component of the date represented by this instance.
+            </summary>
+            <returns>
+            The year, between 1 and 9999.
+            </returns>
+            <filterpriority>1</filterpriority>
+        </member>
+        <member name="P:TeaTime.Time.Ticks">
+            <summary>
+            The underlying number of Ticks.
+            </summary>
+            <remarks>
+            This number is the only value persisted by an instance of this class. The <see cref="P:TeaTime.Time.Scale"/> property 
+            determines the relation between ticks and the time and date they represent.
+            </remarks>
+        </member>
+        <member name="P:TeaTime.Time.NetTime">
+            <summary>
+            Converts a <see cref="T:TeaTime.Time"/> value to a <see cref="T:System.DateTime"/> value.
+            </summary>
+            <remarks>
+            This property returns the same value as an implicit conversion to <see cref="T:System.DateTime"/>.
+            </remarks>
+        </member>
+        <member name="P:TeaTime.Time.Date">
+            <summary>Gets the date of this instance. </summary>
+            <value>A new instance of <see cref="T:TeaTime.Time"/> holding the date part of this instance, stripping the time of the day.</value>
+        </member>
+        <member name="T:TeaTime.DescriptionSource">
+            <summary>
+            Describes the origin of an ItemDescription.
+            </summary>
+            <remarks>
+            ItemDescriptions are either ccreated by reflecting and analyzing a .Net Struct or are read from a file.
+            </remarks>
+        </member>
+        <member name="F:TeaTime.DescriptionSource.None">
+            <summary>
+            The value has not been set.
+            </summary>
+        </member>
+        <member name="F:TeaTime.DescriptionSource.File">
+            <summary>
+            The ItemDescription was read from a TeaFile.
+            </summary>
+        </member>
+        <member name="F:TeaTime.DescriptionSource.ItemType">
+            <summary>
+            The ItemDescription was created by reflecting and analyzing the item's type.
+            </summary>
+        </member>
+        <member name="T:TeaTime.Header.TimeSectionFormatter">
+            <summary>
+            This section persists the time epoch and resolution used for time values and the 
+            offsets of fields that hold time times. 
+            </summary>
+            <remarks>
+            If more than one field of the time series 
+            item holds time values, the first field in the collection is the event time of the 
+            time series that must have monotonically increasing values.
+            </remarks>
+        </member>
+        <member name="T:TeaTime.Header.ISectionFormatter">
+            <summary>
+            Each section in a TeaFile's header is identifed by an Id and can be written and read.<br></br>
+            Passing context instances to the Read and Write methods exposes the description object to be read 
+            or populated.
+            </summary>
+        </member>
+        <member name="M:TeaTime.Header.ISectionFormatter.Write(TeaTime.Header.WriteContext)">
+            <summary>
+            Writes the section into the file taking the description values from the context's Description property.
+            </summary>
+            <param name="c"></param>
+        </member>
+        <member name="M:TeaTime.Header.ISectionFormatter.Read(TeaTime.Header.ReadContext)">
+            <summary>
+            Reads the section and adds the values extracted from the file to the Description in the ReadContext argument.
+            </summary>
+            <param name="c"></param>
+        </member>
+        <member name="P:TeaTime.Header.ISectionFormatter.Id">
+            <summary>
+            The section ID.<br></br>
+            Section IDs are defined in the TeaFile format definition. Custom sections can be added whose IDs
+            must be in the range as specified in the TeaFile definition.
+            </summary>
+        </member>
+        <member name="T:TeaTime.AnalyzedField">
+            <summary>
+            A field within the layout analysis process.
+            </summary>
+        </member>
+        <member name="M:TeaTime.ByteSearcher.GetPosition(System.Byte*,System.Byte*,System.Int32,System.Int32)">
+            <summary>
+            Finds the position of <paramref name="searchPattern"/> inside <paramref name="searchSpace"/>.
+            </summary>
+            <param name="searchSpace">The search space.</param>
+            <param name="searchPattern">The search pattern.</param>
+            <param name="searchSpaceLength">Length of the search space.</param>
+            <param name="patternLength">Length of the pattern.</param>
+            <returns>THe byte position of the pattern.</returns>
+            <exception cref="T:TeaTime.InternalErrorException">The pattern is not included in the search space.</exception>
+            <remarks></remarks>
+        </member>
+        <member name="M:TeaTime.ByteSearcher.StartsWith(System.Byte*,System.Byte*,System.Int32)">
+            <summary>
+            Tests whether <paramref name="searchSpace"/> starts with the byte sequence <paramref name="searchPattern"/>.
+            </summary>
+            <param name="searchSpace">The search space.</param>
+            <param name="searchPattern">The search pattern.</param>
+            <param name="patternLength">Length of the pattern.</param>
+            <returns><c>true</c> if the pattern matches the begin of the search space</returns>
+            <remarks>The length of the search space is not checked. The caller must assure that the search space is at least as long as the pattern length.</remarks>
+        </member>
+        <member name="M:TeaTime.FieldPath.IsTeaTimeEventDataToSkip(System.Reflection.FieldInfo)">
+            <summary>
+            The value part of <see cref="T:TeaTime.Event`1"/> is skipped if its type is a struct.
+            </summary>
+            <param name="f">The f.</param>
+            <returns><c>true</c> if the event shall be skipped; otherwise, <c>false</c>.</returns>
+            <remarks>This avoids creating fieldnames "Time, Value.Price, Value.Volume" for Event&lt;Trade&gt;.<br></br>
+            If however the type is a primitive, like a double, then this double shall appear as field with name "Value".
+            </remarks>
+        </member>
+        <member name="T:TeaTime.LayoutAnalyzer`1">
+            <summary>
+            The layout analyzer analyses the layout of the struct used for a TeaFile.<br></br>
+            This analysis is done by creating a sample instance of the struct and assigning a 
+            "magic" value to each field that is then searched for.
+            </summary>
+            <typeparam name="T">The struct type used inside the TeaFile. While this type is constrained 
+            to a struct by the C# language, it is also disallowed that this struct references class by any of its fields.
+            For instance, the struct passed must not hold a string as field.</typeparam>
+        </member>
+        <member name="M:TeaTime.LayoutAnalyzer`1.GetPrimitiveFields">
+            <summary>
+            Creates primitive fields for the current type T.
+            </summary>
+        </member>
+        <member name="M:TeaTime.LayoutAnalyzer`1.GetPrimitiveFields(TeaTime.FieldPath)">
+            <summary>
+            Returns child fields from the field specified by <paramref name="path"/>.
+            </summary>
+        </member>
+        <member name="M:TeaTime.LayoutAnalyzer`1.ReleaseHandle">
+            <summary>
+            Required Override from abstract bases SafeHandle and SafeBuffer.
+            </summary>
+            <returns>True signal everything went fine while false signals catastrophic failure. So we return true.</returns>
+        </member>
+        <member name="P:TeaTime.LayoutAnalyzer`1.TypeSize">
+            <summary>
+            Returns the aligned size, which is >= the size returned by sizeof(T);
+            </summary>
+        </member>
+        <member name="T:TeaTime.FieldType">
+            <summary>
+            Describes the types available for structs inside TeaFiles.
+            </summary>
+            <remarks>
+            <para>In order to be platform compatible, only the first 10 types should be used (signed and unsigned integers, float and double).</para>
+            <para>Some applications have a very limited type set, so even tighter restriction is sometimes favorable.
+            To exchange data with R for instance, usage should be restricted to signed 32 bit integers and double.
+            </para>
+            </remarks>
+        </member>
+        <member name="F:TeaTime.FieldType.None">
+            <summary>Invalid value. </summary>
+        </member>
+        <member name="F:TeaTime.FieldType.Int8">
+            <summary>signed 1 byte value. </summary>
+        </member>
+        <member name="F:TeaTime.FieldType.Int16">
+            <summary>signed 2 byte value. </summary>
+        </member>
+        <member name="F:TeaTime.FieldType.Int32">
+            <summary>signed 4 byte value. </summary>
+        </member>
+        <member name="F:TeaTime.FieldType.Int64">
+            <summary>signed 8 byte value. </summary>
+        </member>
+        <member name="F:TeaTime.FieldType.UInt8">
+            <summary>unsigned 1 byte value. </summary>
+        </member>
+        <member name="F:TeaTime.FieldType.UInt16">
+            <summary>unsigned 2 byte value. </summary>
+        </member>
+        <member name="F:TeaTime.FieldType.UInt32">
+            <summary>unsigned 4 byte value. </summary>
+        </member>
+        <member name="F:TeaTime.FieldType.UInt64">
+            <summary>unsigned 8 byte value. </summary>
+        </member>
+        <member name="F:TeaTime.FieldType.Float">
+            <summary>4 byte IEEE 754 floating point value. </summary>
+        </member>
+        <member name="F:TeaTime.FieldType.Double">
+            <summary>8 byte IEEE 754 floating point value. </summary>
+        </member>
+        <member name="F:TeaTime.FieldType.NetDecimal">
+            <summary>.Net specific <see cref="T:System.Decimal"/> type. </summary>
+        </member>
+        <member name="F:TeaTime.FieldType.Custom">
+            <summary>Custom Field Types should have identifiers above 0x1000. </summary>
+        </member>
+        <member name="T:TeaTime.ItemDescriptionElements">
+            <summary>Describes the elements inside an <see cref="T:TeaTime.ItemDescription"/>. </summary>
+            <remarks>
+            <para>
+            A TeaFile holds a description of the item type it stores. This item description has several elements:
+            <ul>
+            <li>the name of the item type (e.g. "Tick", "OHLCV")</li>
+            <li>the size of the item</li>
+            <li>the number of fields and their</li>
+            <li>name,</li>
+            <li>offset and</li>
+            <li>type.</li>
+            </ul>
+            A value of this type specifies which elements shall be compared when an existing file is opened with a specific item type.    
+            </para>
+            <para>
+            When a typed <see cref="T:TeaTime.TeaFile`1"/> is opened, the <see cref="T:TeaTime.ItemDescription"/> of {T} is compared against those in the file. If it does not match those
+            stored in the file, an exception is thrown. This ensures that a TeaFile is read with the correct type. For instance,
+            a file that was written using the item type
+            <code>
+            struct Tick
+            {
+                public Time Time;
+                public double Price;
+            }	  
+            </code>
+            is not accessible using 
+            <code>
+            struct A
+            {
+                public Time Time;
+                public short Value1;
+                public float Value2;
+                public double Value3;
+            }
+            TeaFile&lt;A&gt;.OpenRead("lab.tea");
+            </code>
+            because A has a different type name ("A" vs "Tick"), a different size and field names, types and offsets.
+            Sometimes however, such strong check is undesired. If just the name of the type or the name of a field is altered,
+            the file should still be accessible with a partially different type than the one used for writing. The optional 
+            argument elementsToValidate in the OpenRead, Write and Append methods of <see cref="T:TeaTime.TeaFile`1"/> allows this:
+            <example>
+            <code>
+            struct Tick
+            {
+                public Time Time;
+                public double Price;
+            }
+            TeaFile&lt;Tick&gt;.Create("lab.tea");
+            
+            // now we read this file using another type.
+            struct NewTick
+            {
+                public Time NewTime;
+                public double NewPrice;
+            }
+            TeaFile&lt;NewTick&gt;.OpenRead("lab.tea", ItemDescriptionElements.FieldTypes);
+            </code>
+            </example>
+            Since we open the file with a relaxed check that compares field types (and offsets), the call will succeed and 
+            the file will be readable with the new type.
+            </para>
+            </remarks>    
+            <seealso cref="M:TeaTime.TeaFile`1.OpenRead(System.String,TeaTime.ItemDescriptionElements)"/>
+            <seealso cref="M:TeaTime.TeaFile`1.OpenWrite(System.String,TeaTime.ItemDescriptionElements)"/>
+            <seealso cref="M:TeaTime.TeaFile`1.Append(System.String,TeaTime.ItemDescriptionElements)"/>
+        </member>
+        <member name="F:TeaTime.ItemDescriptionElements.None">
+            <summary>no item description part. </summary>
+        </member>
+        <member name="F:TeaTime.ItemDescriptionElements.ItemName">
+            <summary>the item . </summary>
+        </member>
+        <member name="F:TeaTime.ItemDescriptionElements.ItemSize">
+            <summary>the item size. </summary>
+        </member>
+        <member name="F:TeaTime.ItemDescriptionElements.FieldOffsets">
+            <summary>field offsets. </summary>
+        </member>
+        <member name="F:TeaTime.ItemDescriptionElements.FieldNames">
+            <summary>field names. </summary>
+        </member>
+        <member name="F:TeaTime.ItemDescriptionElements.FieldTypes">
+            <summary>field types. </summary>
+        </member>
+        <member name="F:TeaTime.ItemDescriptionElements.All">
+            <summary>all item description parts. </summary>
+        </member>
+        <member name="T:TeaTime.ItemException">
+            <summary>The item type violates constraints.</summary>
+            <remarks>For instance, the item must expose fields that match any <see cref="T:TeaTime.FieldType"/>.</remarks>
+        </member>
+        <member name="M:TeaTime.ItemException.#ctor">
+            <summary>Constructor.</summary>
+        </member>
+        <member name="M:TeaTime.ItemException.#ctor(System.String)">
+            <summary>Constructor. </summary>
+            <param name="message">The message.</param>
+        </member>
+        <member name="M:TeaTime.ItemException.#ctor(System.String,System.Exception)">
+            <summary>Constructor. </summary>
+            <param name="message">The message.</param>
+            <param name="inner">The inner exception.</param>
+        </member>
+        <member name="T:TeaTime.FileFormatException">
+            <summary>The header of a TeaFile has an invalid format. </summary>
+        </member>
+        <member name="M:TeaTime.FileFormatException.#ctor">
+            <summary>Constructor. </summary>
+        </member>
+        <member name="M:TeaTime.FileFormatException.#ctor(System.String)">
+            <summary>Constructor. </summary>
+            <param name="message">The message. </param>
+        </member>
+        <member name="M:TeaTime.FileFormatException.#ctor(System.String,System.Exception)">
+            <summary>Constructor. </summary>
+            <param name="message">The message. </param>
+            <param name="inner">The inner exception. </param>
+        </member>
+        <member name="T:TeaTime.TypeMismatchException">
+            <summary>A TeaFile is read with a type that does not match the type it was written with. </summary>
+            <remarks>
+            A TeaFile holds a description of the item type that was used to create the file. Subsequent writes and reads
+            should use exactly the same type.
+            </remarks>
+        </member>
+        <member name="M:TeaTime.TypeMismatchException.#ctor">
+            <summary>Constructor. </summary>
+        </member>
+        <member name="M:TeaTime.TypeMismatchException.#ctor(System.String,System.String)">
+            <summary>Constructor. </summary>
+            <param name="message">The message. </param>
+            <param name="source"> Source for the. </param>
+        </member>
+        <member name="M:TeaTime.TypeMismatchException.#ctor(System.String,System.Exception)">
+            <summary>Constructor. </summary>
+            <param name="message">The message. </param>
+            <param name="inner">The inner exception. </param>
+        </member>
+        <member name="T:TeaTime.InternalErrorException">
+            <summary>
+            An internal error occured.
+            </summary>
+            <remarks>
+            Such exception should indicates a programming error inside the TeaFile API. If 
+            you encounter such exception please forward steps to reproduce it to the 
+            api authors.
+            </remarks>
+        </member>
+        <member name="M:TeaTime.InternalErrorException.#ctor">
+            <summary>Constructor. </summary>
+        </member>
+        <member name="M:TeaTime.InternalErrorException.#ctor(System.String)">
+            <summary>Constructor. </summary>
+            <param name="message">The message. </param>
+        </member>
+        <member name="M:TeaTime.InternalErrorException.#ctor(System.String,System.Exception)">
+            <summary>Constructor. </summary>
+            <param name="message">The message. </param>
+            <param name="inner">The inner exception. </param>
+        </member>
+        <member name="T:TeaTime.TimescaleException">
+            <summary>The current default Timescale differs from the Timescale used in a file.</summary>
+        </member>
+        <member name="M:TeaTime.TimescaleException.#ctor">
+            <summary>Constructor. </summary>
+        </member>
+        <member name="M:TeaTime.TimescaleException.#ctor(System.String)">
+            <summary>Constructor. </summary>
+            <param name="message">The message. </param>
+        </member>
+        <member name="M:TeaTime.TimescaleException.#ctor(System.String,System.Exception)">
+            <summary>Constructor. </summary>
+            <param name="message">The message. </param>
+            <param name="inner">The inner exception. </param>
+        </member>
+        <member name="T:TeaTime.InvalidFieldTypeException">
+            <summary>The field of an item is of a type that can not be stored in a TeaFile. </summary>
+        </member>
+        <member name="M:TeaTime.InvalidFieldTypeException.#ctor">
+            <summary>Constructor.</summary>
+        </member>
+        <member name="M:TeaTime.InvalidFieldTypeException.#ctor(System.String)">
+            <summary>Constructor. </summary>
+            <param name="message">The message. </param>
+        </member>
+        <member name="T:TeaTime.InvalidStateException">
+            <summary>The object has an invalid state. </summary>
+            <remarks>
+            Classes hide internal state and ensure that this state adheres to class invariants. If an operation 
+            encounters a violation of these invariants, it can raise this exception. Usually this operation will 
+            not be able to report when the state was corrputed but only the fact that it has been corrupted.
+            </remarks>
+        </member>
+        <member name="M:TeaTime.InvalidStateException.#ctor">
+            <summary>Constructor. </summary>
+        </member>
+        <member name="M:TeaTime.InvalidStateException.#ctor(System.String)">
+            <summary>Constructor. </summary>
+            <param name="message">The error message. </param>
+        </member>
+        <member name="M:TeaTime.InvalidStateException.#ctor(System.String,System.Exception)">
+            <summary>Constructor.</summary>
+            <param name="message">The error message. </param>
+            <param name="inner">The inner exception. </param>
+        </member>
+        <member name="T:TeaTime.IO.IFileIO">
+            <summary>
+            This interface describes the low level file I/O methods required to read
+            and write a TeaFile header.<br/>
+            The TeaFile header are limited to the 5 types below, namely
+            <list type="bullets">
+            <item>int 32</item>
+            <item>int 64</item>
+            <item>double</item>
+            <item>guid (a sequence of 16 bytes)</item>
+            <item>byte arrays (used for strings)</item>
+            </list>
+            </summary>
+            <remarks>
+            This interface is internal instead of private to allow its mocking.
+            </remarks>
+        </member>
+        <member name="M:TeaTime.IO.IFileIO.ReadInt32">
+            <summary>
+            Reads a 32bit integer value from the file.
+            </summary>
+            <returns>The int32 value.</returns>
+        </member>
+        <member name="M:TeaTime.IO.IFileIO.ReadInt64">
+            <summary>
+            Reads a 64bit integer value from the file.
+            </summary>
+            <returns>The int64 value.</returns>
+        </member>
+        <member name="M:TeaTime.IO.IFileIO.ReadDouble">
+            <summary>
+            Reads a double value from the file.
+            </summary>
+            <returns>The double value.</returns>
+        </member>
+        <member name="M:TeaTime.IO.IFileIO.ReadBytes(System.Int32)">
+            <summary>
+            Reads raw bytes from the file.
+            </summary>
+            <returns>The bytes.</returns>
+        </member>
+        <member name="M:TeaTime.IO.IFileIO.WriteInt32(System.Int32)">
+            <summary>
+            Writes a 32bit integer into the file.
+            </summary>
+            <param name="value">The value to write.</param>
+            <remarks></remarks>
+        </member>
+        <member name="M:TeaTime.IO.IFileIO.WriteInt64(System.Int64)">
+            <summary>
+            Writes a 64bit integer into the file.
+            </summary>
+            <param name="value">The value to write.</param>
+            <remarks></remarks>
+        </member>
+        <member name="M:TeaTime.IO.IFileIO.WriteDouble(System.Double)">
+            <summary>
+            Writes a double value into the file.
+            </summary>
+            <param name="value">The value to write.</param>
+        </member>
+        <member name="M:TeaTime.IO.IFileIO.WriteBytes(System.Byte[])">
+            <summary>
+            Writes a byte array into the file.
+            </summary>
+            <param name="bytes">The bytes to write.</param>
+        </member>
+        <member name="M:TeaTime.IO.IFileIO.WriteZeroByte">
+            <summary>
+            Writes a zero byte into the file.
+            </summary>
+        </member>
+        <member name="M:TeaTime.IO.IFileIO.SkipBytes(System.Int32)">
+            <summary>
+            Forwards the filepointer without returning the values. The implementation is free
+            to do this by modifying the filepointer or by reading bytes and ignoring them.<br></br>
+            This operation makes sense only when the file is read.
+            </summary>
+            <param name="count"></param>
+        </member>
+        <member name="P:TeaTime.IO.IFileIO.Position">
+            <summary>
+            Returns the position of the Filepointer.
+            </summary>
+        </member>
+        <member name="T:TeaTime.IO.IFormattedWriter">
+            <summary>
+            On top of an IFileIO instance, IFormattedWriter adds the capability to write 
+            <list>
+            <item>Guids</item>
+            <item>Text</item>
+            <item>Name / Value pairs</item>
+            </list>
+            into files. The simple types int32, int64 and double are also provided here such that all write functions 
+            are exposed here and direct calls to the underlying <see cref="T:TeaTime.IO.IFileIO"/> are not required.
+            </summary>
+            <remarks>
+            IFormattedWriter does not expose a formatting WriteBytes method, as it is not required in this API. If direct byte access
+            is required in the future, this method might need to be added to this interface. The implementing FormattedWriter 
+            class offers the method already as private method. In contrast to WriteBytes which writes a length number, 
+            WriteRaw does not write such a length value.
+            </remarks>
+        </member>
+        <member name="M:TeaTime.IO.IFormattedWriter.WriteInt32(System.Int32)">
+            <summary>
+            Writes an <see cref="T:System.Int32"/> into the file.
+            </summary>
+            <param name="value">The value to write.</param>
+        </member>
+        <member name="M:TeaTime.IO.IFormattedWriter.WriteInt64(System.Int64)">
+            <summary>
+            Writes a <see cref="T:System.Int64"/> into the file.
+            </summary>
+            <param name="value">The value to write.</param>
+        </member>
+        <member name="M:TeaTime.IO.IFormattedWriter.WriteDouble(System.Double)">
+            <summary>
+            Writes a <see cref="T:System.Double"/> into the file.
+            </summary>
+            <param name="value">The value to write.</param>
+        </member>
+        <member name="M:TeaTime.IO.IFormattedWriter.WriteGuid(System.Guid)">
+            <summary>
+            Writes a <see cref="T:System.Guid"/> into the file.
+            </summary>
+            <param name="value">The value to write.</param>
+        </member>
+        <member name="M:TeaTime.IO.IFormattedWriter.WriteText(System.String)">
+            <summary>
+            Text is converted into its UTF8 byte sequence and then written with as a byte[] 
+            which in turn is written as the bytes preceeded by an int32 determining the size.<br/>
+            </summary>
+            <param name="text">The text to write</param>
+        </member>
+        <member name="M:TeaTime.IO.IFormattedWriter.WriteNameValue(TeaTime.NameValue)">
+            <summary>
+            Writes a NameValue struct into the file.
+            </summary>
+            <param name="nv">the value to write.</param>
+        </member>
+        <member name="M:TeaTime.IO.IFormattedWriter.WriteRaw(System.Byte[])">
+            <summary>
+            Writes the bytes into the file <b>without any formatting</b>. This method merely exists here 
+            to support the strict layer pattern, so that direct calls to the underlying IFileIO instance 
+            can be avoided. 
+            </summary>
+            <param name="bytes">The bytes to write. This value must not be null.</param>
+        </member>
+        <member name="T:TeaTime.IO.IFormattedReader">
+            <summary>
+            On top of an IFileIO instance, IFormatteReader adds the capability to read
+            <list>
+            <item>Guids</item>
+            <item>byte arrays and</item>
+            <item>text</item>
+            </list>
+            from files.
+            </summary>
+        </member>
+        <member name="M:TeaTime.IO.IFormattedReader.ReadInt32">
+            <summary>
+            Reads a 32bit integer from the file.
+            </summary>
+            <returns>The value read from the file.</returns>
+        </member>
+        <member name="M:TeaTime.IO.IFormattedReader.ReadInt64">
+            <summary>
+            Reads a 64bit integer from the file.
+            </summary>
+            <returns>The value read from the file.</returns>
+        </member>
+        <member name="M:TeaTime.IO.IFormattedReader.ReadDouble">
+            <summary>
+            Reads a double value from the file.
+            </summary>
+            <returns>The value read from the file.</returns>
+        </member>
+        <member name="M:TeaTime.IO.IFormattedReader.ReadText">
+            <summary>
+            Reads the text from the file.
+            </summary>
+            <returns>The text.</returns>
+            <remarks>Text is stored as UTF8 byte array which in turn is stored as a length prefixed sequence of bytes.</remarks>
+        </member>
+        <member name="M:TeaTime.IO.IFormattedReader.ReadNameValue">
+            <summary>
+            Reads a Name / Value instance from the file.
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:TeaTime.TeaFileCore">
+            <summary>
+            This class holds methods common required for untyped and typed reading.
+            </summary>
+            <remarks>
+            This API provides 2 ways to access a TeaFile: <br></br>
+            <list>
+            <item><see cref="T:TeaTime.TeaFile"/> for untyped reading of files whose content is unknown and</item>
+            <item><see cref="T:TeaTime.TeaFile`1"/> for typed reading and writing of files.</item>
+            </list>
+            <br></br>
+            <see cref="T:TeaTime.TeaFile`1"/> does not derive from TeaFile as being the more powerful class, but they are 
+            both plain root classes. The functionality reuiqred by both classes is embodied in <see cref="T:TeaTime.TeaFileCore"/> 
+            that is instantiated as a member in <see cref="T:TeaTime.TeaFile"/> and <see cref="T:TeaTime.TeaFile`1"/>.
+            <see cref="T:TeaTime.TeaFile"/>
+            </remarks>
+        </member>
+        <member name="M:TeaTime.TeaFileCore.ItemDescriptionExists">
+            <summary>
+            Most operations of this class require the file to hold a description of it's items. To ensure this,
+            the methods can call this method which will throw <see cref="T:System.NotSupportedException"/> if no such 
+            description is available.
+            </summary>
+        </member>
+        <member name="M:TeaTime.TeaFileCore.Truncate">
+            <summary>
+            Truncates the file, logically removing all items, physically downsizing it to the header's size.
+            </summary>
+        </member>
+        <member name="P:TeaTime.TeaFileCore.Count">
+            <summary>
+            Gets the number of items in the file.
+            </summary>
+            <remarks>
+            This property is implemented internally, since access to items is 
+            exposed by the Items property solely, to prived a cleaner API.
+            </remarks>
+            <value>The number of items.</value>
+        </member>
+        <member name="P:TeaTime.TeaFileCore.ItemAreaEnd">
+            <summary>
+                Returns the file position that marks the end of the file. This will be either the end of the
+                file if the file is fully packed with items, or some position before the physical end, if 
+                disc space was preallocated.
+            </summary>
+            <remarks>
+                A TeaFile might be filled with items until the end of the file. In this case, 
+                the logical end of the file is equal to the physical file end. In order to allow
+                defragmentation of the disc, the file can allocate more physical space that will be
+                filled by later additions of items. In this case, the file header will hold the 
+                end of the area of the file that is already filled with items.
+            </remarks>
+        </member>
+        <member name="P:TeaTime.TeaFileCore.HasPreallocatedSpace">
+            <summary>
+            ItemAreaEndMarker is set and there is space between the marker and the end of the file.
+            </summary>
+        </member>
+        <member name="T:TeaTime.EventTimeAttribute">
+            <summary>
+            Defines the field of a struct holding the event time.
+            </summary>
+            <remarks>
+            An event describes a value at a certain time. This can be represented by a struct holding the properties of the value
+            and an additional time value. The prefered way to add such time value is to use <see cref="T:TeaTime.Event`1"/>. Alternatively,
+            a struct can hold the value and the time value together.
+            
+            <b>Preferred: use Event{T}</b>
+            <code>
+            struct Tick
+            {
+                public double Price;
+                public int Volume;
+            }
+            Event&lt;Tick&gt;<br></br>
+            </code>
+            <b>Alternative:</b>
+            <code>
+            struct Tick2
+            {
+                public Time Time;
+                public double Price;
+                public int Volume;
+            }
+            </code>
+            In the latter case, Tick2 holds a field of type <see cref="T:TeaTime.Time"/>. This API <b>assumes that the first <see cref="T:TeaTime.Time"/>
+            value in a type used for TeaFiles is the event time.</b> Due to this implicit assumption, the <see cref="T:TeaTime.EventTimeAttribute"/>
+            is not necessary in this case. If however more than a single field holds a <see cref="T:TeaTime.Time"/> field and not the first field 
+            shall be the event time, then putting this attribute on the event time field allows to express that.
+            <example>
+            <code>
+            struct FeedMeasurement
+            {
+                public Time Time;
+                public double Price;
+                public int Volume;
+                [EventTime]
+                public Time ArrivalTime;
+            }
+            </code>
+            </example>
+            In this example, the arrival time it the time at which an event, already holding the time stamp of a distant clock, arrives 
+            on the local machine, where it gets the time stamp of the local clock into its field ArrivalTime. The latter shall be the event 
+            time. To declare this, the <see cref="T:TeaTime.EventTimeAttribute"/> must be applied to the field.
+            </remarks>
+        </member>
+        <member name="T:TeaTime.Field">
+            <summary>
+            Describes the field of an item.
+            </summary>
+            <remarks>
+            TeaFiles store homogenous collections of items. Each item (.Net technically a struct) is a structured value 
+            composed from fields. This class describes a single field.
+            </remarks>
+        </member>
+        <member name="M:TeaTime.Field.GetValue(TeaTime.Item)">
+            <summary>Gets the value of this field from an item.</summary>
+            <exception cref="T:System.ArgumentNullException"> The item is null.</exception>
+            <param name="item">The item.</param>
+            <returns>The value.</returns>
+        </member>
+        <member name="M:TeaTime.Field.ToString">
+            <summary>Returns a <see cref="T:System.String" /> that represents the current <see cref="T:System.Object" />. </summary>
+            <returns>A <see cref="T:System.String" /> that represents the current <see cref="T:System.Object" />. </returns>
+        </member>
+        <member name="P:TeaTime.Field.Name">
+            <summary>
+            The name of the field.
+            </summary>
+        </member>
+        <member name="P:TeaTime.Field.Offset">
+            <summary>
+            The field's byte offset inside the struct.
+            </summary>
+        </member>
+        <member name="P:TeaTime.Field.FieldType">
+            <summary>
+            The type of the field. The struct must hold only types of the TeaType enumeration to be accessible from 
+            other APIs. If one or more fields have the TeaType = <see cref="P:TeaTime.Field.FieldType"/>.Custom, the TeaFile will not be accessible
+            universally.
+            </summary>
+        </member>
+        <member name="P:TeaTime.Field.IsTime">
+            <summary>
+            The field represents a time.
+            </summary>
+            <remarks>
+            A field holding a time value will have a scalar type, like <see cref="T:System.UInt64"/>. So from this data type it can not 
+            be deferred that the field shall be interpreted as time. TeaFiles therefore describe those fields to be interpreted 
+            as time in their Time Section. When a TeaFile is read, this property receives it's value from the Time Section and 
+            signals that the field value is a time. When reading untyped using <see cref="T:TeaTime.TeaFile"/>, the field value is 
+            automatically converted into a <see cref="T:TeaTime.Time"/> value.
+            </remarks>
+        </member>
+        <member name="P:TeaTime.Field.IsEventTime">
+            <summary>
+            The field is the event time of the event as part of the time series.
+            </summary>
+            <remarks>
+            Not every field holding time represents the event time. Example:
+            A data feed delivers trade prices together with a time at which the trades occured. A local subscriber 
+            to this feed wants to measure the delay at which this data arrives. To do so, an event is defined as:
+            <code>
+            struct ArrivalEvent
+            {
+                DateTime    TradeTime;
+                double      Price;
+                [EventTime]
+                DateTime    ArrivalTime;
+            }
+            </code>
+            This struct holds 2 time fields but only one of them can hold the event time. The event time must have 
+            non-decreassing values (each value is &gt;= the previous value) which is certainly the case for the ArrivalTime field. 
+            If the data feed guarantees delivery in temporal order, the TradeTime field could also be used 
+            as the event time field. If a struct holds more than one DateTime fields, one field must be specified 
+            as the event time, using <see cref="T:TeaTime.EventTimeAttribute"/>.
+            </remarks>
+        </member>
+        <member name="P:TeaTime.Field.Index">
+            <summary>
+            Describes the order of this field inside the fields collection.
+            </summary>
+            <remarks>
+            This value is used internally and made public because it might be useful.
+            </remarks>
+        </member>
+        <member name="T:TeaTime.ItemDescription">
+            <summary>Describes the type of items stored in a TeaFile.</summary>
+            <remarks>
+            <para>
+            This description is infered from the generic argument of
+            a <see cref="T:TeaTime.TeaFile`1"/> and persisted into the file when a new file is created. This description allows the file to be read without 
+            having knowledge about its content, thus making it <b>self contained</b>.
+            </para>
+            <h4>Creation of a TeaFile</h4>
+            <para>
+            When a file is written using <see cref="T:TeaTime.TeaFile`1"/>, an ItemDescription is created based on type reflection and additional analysis
+            to get the field offsets. This description is persisted inside the file.
+            </para>
+            <h4>Typed Reading</h4>
+            <para>
+            When a file is read using <see cref="T:TeaTime.TeaFile`1"/>, the ItemDesciption is created from reflection and analysis exactly as during creation.
+            The file however holds another description that was persisted during creation. These descriptions should match in order to return correct values.
+            <see cref="T:TeaTime.TeaFile`1"/>.OpenRead() will compare them to ensure that. If they do not match, a <see cref="T:TeaTime.TypeMismatchException"/> is thrown.
+            </para>
+            <h4>Untyped Reading</h4>
+            <para>
+            When a file is read with a <see cref="T:TeaTime.TeaFile"/>, the description is read from the file. The TeaFile's <see cref="T:TeaTime.ItemDescription"/> property will 
+            return this description and its <see cref="P:TeaTime.ItemDescription.Source"/> property will indicate that it was read from the file header.
+            </para>
+            </remarks>
+        </member>
+        <member name="M:TeaTime.ItemDescription.FromAnalysis``1">
+            <summary>
+            Returns an ItemDescription based on reflection and analysis of <typeparamref name="T"/>.
+            </summary>
+            <exception cref="T:TeaTime.ItemException">
+            If <typeparamref name="T"/> is an empty struct, an <see cref="T:TeaTime.ItemException"/> is thrown. This is a measure against 
+            TeaFiles holding empty structs which makes no sense at first and introduces difficulties better to be avoided. Empty structs 
+            are for instance forbidden by C syntax, or have the mysterious size 1 in C++ or C#.
+            </exception>
+            <typeparam name="T">The itemType to be analyzed and described.</typeparam>
+            <returns>An ItemDescription for type <typeparamref name="T"/> </returns>
+        </member>
+        <member name="M:TeaTime.ItemDescription.FromAnalysis(System.Collections.Generic.IEnumerable{TeaTime.AnalyzedField},System.Int32,System.String)">
+            <summary>
+            Creates an <see cref="T:TeaTime.ItemDescription"/> from the arguments provided.
+            </summary>
+            <param name="analyzedFields">A Dictionary holding the fields and their offsets.</param>
+            <param name="size">The size of the item type.</param>
+            <param name="typeName">The name of the type.</param>
+            <returns></returns>
+        </member>
+        <member name="M:TeaTime.ItemDescription.IsAccessibleWith(TeaTime.ItemDescription,TeaTime.ItemDescriptionElements)">
+            <summary>
+            Checks it the access description can access a time series based on this ItemDescription.
+            </summary>
+            <remarks>
+            policies:<br></br>
+            If <paramref name="accessorDescription"/> has no fields, the check will always succeed.<br></br>
+            
+            </remarks>
+            <param name="accessorDescription">ItemDescription that describes the type used to access the file.</param>
+            <param name="elementsToConsider">The amount of details used for the test.</param>
+            <exception cref="T:TeaTime.TypeMismatchException">If the accessor type is not suitable to access the file.</exception>
+        </member>
+        <member name="M:TeaTime.ItemDescription.FindFieldByOffset(System.Int32)">
+            <summary>Searches a field by its offset. </summary>
+            <param name="offset">The offset. </param>
+            <returns>The field at <paramref name="offset"/>. Null if no field was found. </returns>
+        </member>
+        <member name="M:TeaTime.ItemDescription.GetFieldByName(System.String)">
+            <summary>Gets a field by name. </summary>
+            <exception cref="T:System.ArgumentNullException">    Thrown when name is null. </exception>
+            <exception cref="T:System.InvalidOperationException">Thrown when no field with <paramref name="name"/> exists. </exception>
+            <param name="name">The name. </param>
+            <returns>The field with name <paramref name="name"/>. </returns>
+        </member>
+        <member name="M:TeaTime.ItemDescription.ToString">
+            <summary>
+            Returns a <see cref="T:System.String"/> that represents this instance.
+            </summary>
+            <returns>
+            A <see cref="T:System.String"/> that represents this instance.
+            </returns>
+        </member>
+        <member name="M:TeaTime.ItemDescription.ToString(System.String)">
+            <summary>
+            Returns a <see cref="T:System.String"/> that represents this instance.
+            </summary>
+            <remarks>This overload allows specificion of the delimiter between the string for each field.</remarks>
+            <param name="delimiter">The delimeter.</param>
+            <returns>
+            A <see cref="T:System.String"/> that represents this instance.
+            </returns>
+        </member>
+        <member name="M:TeaTime.ItemDescription.GetValueString(TeaTime.Item)">
+            <summary>
+            When an arbitrary TeaFile is read, and the file holds a description, item's can be read but there is no type
+            available that represents them. In this case, the item's fields are stored in the values collection
+            of an <see cref="T:TeaTime.Item"/> instance. This Print method will print such item's values, separated by blanks.
+            </summary>
+            <param name="item">The untyped item.</param>
+        </member>
+        <member name="M:TeaTime.ItemDescription.GetValueString(TeaTime.Item,System.String)">
+            <summary>
+            When an arbitrary TeaFile is read, and the file holds a description, item's can be read but there is no type
+            available that represents them. In this case, the item's fields are stored in the values collection
+            of an <see cref="T:TeaTime.Item"/> instance. This Print method will print such item's values, seperated by <paramref name="separator"/>.
+            </summary>
+            <param name="item">The untyped item.</param>
+            <param name="separator">The separator between the fields.</param>
+        </member>
+        <member name="P:TeaTime.ItemDescription.Fields">
+            <summary>
+            Gets the collection of fields describing the item's fields.
+            </summary>
+            <value>The fields.</value>
+        </member>
+        <member name="P:TeaTime.ItemDescription.ItemSize">
+            <summary>
+            Gets the size of the items stored in the TeaFile.
+            </summary>
+            <value>The size of the item.</value>
+        </member>
+        <member name="P:TeaTime.ItemDescription.ItemTypeName">
+            <summary>
+            Gets the name of the Item type.
+            </summary>
+            <remarks>
+            Example: "Event&lt;Tick&gt;".
+            </remarks>
+            <value>The name of the item type.</value>
+        </member>
+        <member name="P:TeaTime.ItemDescription.Source">
+            <summary>
+            The source of the ItemDescription.
+            </summary>
+            <remarks>
+            <para>
+            An ItemDescription can be created by 
+            <list>
+            <item>analyzing the item type of a TeaFile or</item>
+            <item>by reading it from a TeaFile.</item>
+            </list>
+            This property describes which of the above origins an ItemDescription instance has.
+            </para>
+            </remarks>
+            <value><see cref="F:TeaTime.DescriptionSource.ItemType"/> indicates that the instance was created from analzing the itemm type.<br/>
+            <see cref="F:TeaTime.DescriptionSource.File"/> indicates that the instance was read from file.
+            </value>
+        </member>
+        <member name="P:TeaTime.ItemDescription.HasEventTime">
+            <summary>Indicating whether the type has an event time. </summary>
+            <value>true if the item has an event time, false if not. </value>
+        </member>
+        <member name="P:TeaTime.ItemDescription.EventTimeField">
+            <summary>
+            Returns the field that holds the event time.
+            </summary>
+            <remarks>The implementation searches through available fields upon the first call and then stores it internally (Lazy evaluation).</remarks>
+        </member>
+        <member name="T:TeaTime.NameValue">
+            <summary>
+            A name / value pair.
+            </summary>
+            <remarks>
+            The value type might be an int32, double, string or Guid.
+            </remarks>
+        </member>
+        <member name="M:TeaTime.NameValue.#ctor(System.String,System.String)">
+            <summary>
+            Initializes a new instance.
+            </summary>
+            <remarks>This overload is used for string values.</remarks>
+            <param name="name">The name.</param>
+            <param name="value">The string value.</param>
+        </member>
+        <member name="M:TeaTime.NameValue.#ctor(System.String,System.Int32)">
+            <summary>
+            Initializes a new instance.
+            </summary>
+            <remarks>This overload is used for int values.</remarks>
+            <param name="name">The name.</param>
+            <param name="value">The int value.</param>
+        </member>
+        <member name="M:TeaTime.NameValue.#ctor(System.String,System.Double)">
+            <summary>
+            Initializes a new instance.
+            </summary>
+            <remarks>This overload is used for double values.</remarks>
+            <param name="name">The name.</param>
+            <param name="value">The double value.</param>
+        </member>
+        <member name="M:TeaTime.NameValue.#ctor(System.String,System.Guid)">
+            <summary>
+            Initializes a new instance.
+            </summary>
+            <remarks>This overload is used for Guid values.</remarks>
+            <param name="name">The name.</param>
+            <param name="value">The Guid value.</param>
+        </member>
+        <member name="M:TeaTime.NameValue.GetValue``1">
+            <summary>The typed value. </summary>
+            <typeparam name="T">The type of the value. </typeparam>
+            <returns>The value. </returns>
+            <remarks>
+            Usually, the type of a value is known. In this case its value could be retrieved calling
+            <code>
+            using (var tf = TeaFile&lt;Tick&gt;.Create("acme.tea", null, NameValueCollection.From("decimals", 2)))
+            {
+            }
+            
+            var tf = TeaFile.OpenRead("acme.tea");
+            int n = tf.Description.NameValues.GetValue{int}();
+            </code>
+            This will conveniently return the integer value. In the rare case were the type is not known, 
+            this method can be called with a type of object. Lets assume we are not sure if the decimals property 
+            is stored as integer, double or string. Then the code
+            <code>
+            object n = tf.Description.NameValues.GetValue&lt;object&gt;();
+            Console.WriteLine(n);
+            </code>
+            will return the value as plain object.
+            </remarks>
+        </member>
+        <member name="M:TeaTime.NameValue.ToString">
+            <summary>Returns a <see cref="T:System.String" /> that represents the current <see cref="T:System.Object" />. </summary>
+            <returns>A <see cref="T:System.String" /> that represents the current <see cref="T:System.Object" />. </returns>
+        </member>
+        <member name="P:TeaTime.NameValue.Name">
+            <summary>
+            The name.
+            </summary>
+        </member>
+        <member name="P:TeaTime.NameValue.Kind">
+            <summary>
+            The <see cref="P:TeaTime.NameValue.Kind"/> of the value.
+            </summary>
+        </member>
+        <member name="P:TeaTime.NameValue.ValueText">
+            <summary>The value as a string. </summary>
+        </member>
+        <member name="T:TeaTime.NameValue.ValueKind">
+            <summary>
+            Specifies the type of a value in a NameValue item.
+            </summary>
+            <remarks>
+            Serializes as Int32.
+            </remarks>
+        </member>
+        <member name="T:TeaTime.NameValueCollection">
+            <summary>
+            A collection of name / value pairs.
+            </summary>
+            <remarks>Provides typesafe getter and specialiced Add methods fo each type. The name properties of 
+            the stored name/value pairs do not need to be unique, although practically this is usually reasonable.</remarks>
+        </member>
+        <member name="M:TeaTime.NameValueCollection.#ctor">
+            <summary>Constructor.</summary>
+        </member>
+        <member name="M:TeaTime.NameValueCollection.From(System.Object[])">
+            <summary>
+            Factory method.
+            </summary>
+            <remarks>
+            This method simplifies the creation of <see cref="T:TeaTime.NameValueCollection"/> instances:<br/>
+            TeaFile{T}.Create("acme.tea", "acme prices", NameValueCollection.From("decimals", 2, "sensor", 42, "country", "UK"));
+            </remarks>
+            <param name="args">An array of name/value pairs. Its length must be even and the first value of each pair must be a string.</param>
+            <returns></returns>
+        </member>
+        <member name="M:TeaTime.NameValueCollection.Add(TeaTime.NameValue)">
+            <summary>
+            Adds the a <see cref="T:TeaTime.NameValue"/>.
+            </summary>
+            <param name="nameValue">The name/value pair.</param>
+            <returns>This instance, to allow fluent addition of name / values.</returns>
+            <remarks>The name property of <paramref name="nameValue"/> is not checked for uniqueness.</remarks>
+        </member>
+        <member name="M:TeaTime.NameValueCollection.Add(System.String,System.String)">
+            <summary>
+            Adds the specified name / value pair.
+            </summary>
+            <param name="name">The name.</param>
+            <param name="value">The string value.</param>
+            <returns>This instance, to allow fluent addition of name / values.</returns>
+            <remarks>The name is not checked for uniqueness.</remarks>
+        </member>
+        <member name="M:TeaTime.NameValueCollection.Add(System.String,System.Int32)">
+            <summary>
+            Adds the specified name.
+            </summary>
+            <param name="name">The name.</param>
+            <param name="value">The int value.</param>
+            <returns>This instance, to allow fluent addition of name / values.</returns>
+            <remarks>The name is not checked for uniqueness.</remarks>
+        </member>
+        <member name="M:TeaTime.NameValueCollection.Add(System.String,System.Double)">
+            <summary>
+            Adds the specified name.
+            </summary>
+            <param name="name">The name.</param>
+            <param name="value">The double value.</param>
+            <returns>This instance, to allow fluent addition of name / values.</returns>
+            <remarks>The name is not checked for uniqueness.</remarks>
+        </member>
+        <member name="M:TeaTime.NameValueCollection.Add(System.String,System.Guid)">
+            <summary>
+            Adds the specified name.
+            </summary>
+            <param name="name">The name.</param>
+            <param name="value">The Guid value.</param>
+            <returns>This instance, to allow fluent addition of name / values.</returns>
+            <remarks>The name is not checked for uniqueness.</remarks>
+        </member>
+        <member name="M:TeaTime.NameValueCollection.GetValue``1(System.String)">
+            <summary>
+            Gets the value stored in a NameValue having name == <paramref name="name"/>.
+            </summary>
+            <typeparam name="T">The type of the value.</typeparam>
+            <param name="name">The name under which the value is stored.</param>
+            <returns>The value.</returns>
+            <remarks>Throws exceptions if no value is present under <paramref name="name"/> or the value is not T.</remarks>
+        </member>
+        <member name="M:TeaTime.NameValueCollection.GetEnumerator">
+            <summary>
+            Returns an enumerator that iterates through the collection.
+            </summary>
+            <returns>A <see cref="T:System.Collections.Generic.IEnumerator`1"/> that can be used to iterate through the collection.</returns>
+            <remarks></remarks>
+        </member>
+        <member name="M:TeaTime.NameValueCollection.System#Collections#IEnumerable#GetEnumerator">
+            <summary>
+            Returns an enumerator that iterates through a collection.
+            </summary>
+            <returns>An <see cref="T:System.Collections.IEnumerator"/> object that can be used to iterate through the collection.</returns>
+            <remarks></remarks>
+        </member>
+        <member name="M:TeaTime.NameValueCollection.ToString">
+            <summary>Returns a <see cref="T:System.String" /> that represents the current <see cref="T:System.Object" />. </summary>
+            <returns>A <see cref="T:System.String" /> that represents the current <see cref="T:System.Object" />. </returns>
+        </member>
+        <member name="P:TeaTime.NameValueCollection.Count">
+            <summary>
+            The number of name / value pairs in the collection.
+            </summary>
+        </member>
+        <member name="T:TeaTime.TeaFileDescription">
+            <summary>
+            TeaFiles optionally hold a description, describing item layout and content.
+            </summary>
+            <remarks>
+            The description of a TeaFile describes
+            <ul>
+            <li>the layout of the items (<see cref="P:TeaTime.TeaFileDescription.ItemDescription"/>),</li>
+            <li>its content as a string (<see cref="P:TeaTime.TeaFileDescription.ContentDescription"/>)</li>
+            <li>its content as a collection of (<see cref="T:TeaTime.NameValueCollection"/>) pairs</li>
+            <li>the <see cref="P:TeaTime.TeaFileDescription.Timescale"/> for representation of time (<see cref="P:TeaTime.TeaFileDescription.Timescale"/>).</li>
+            </ul>
+            </remarks>
+        </member>
+        <member name="M:TeaTime.TeaFileDescription.ToString">
+            <summary>Returns a <see cref="T:System.String" /> that represents the current <see cref="T:System.Object" />. </summary>
+            <returns>A <see cref="T:System.String" /> that represents the current <see cref="T:System.Object" />. </returns>
+        </member>
+        <member name="P:TeaTime.TeaFileDescription.ItemDescription">
+            <summary>
+            Returns the <seealso cref="P:TeaTime.TeaFileDescription.ItemDescription"/>, descibing the layout of the items stored in the file.
+            If the file holds no description of its layout, null will be returned.
+            </summary>
+        </member>
+        <member name="P:TeaTime.TeaFileDescription.Timescale">
+            <summary>Gets or sets the time scale. </summary>
+            <value>The time scale. </value>
+            <seealso cref="P:TeaTime.TeaFileDescription.Timescale"/>
+        </member>
+        <member name="P:TeaTime.TeaFileDescription.ContentDescription">
+            <summary>Gets or sets a string describing the content. </summary>
+            <example>"Silver Prices", "NYC Temperature"</example>
+        </member>
+        <member name="P:TeaTime.TeaFileDescription.NameValues">
+            <summary>Gets or sets a list of <see cref="T:TeaTime.NameValue"/> pairs. </summary>
+            <example>
+            "decimals" = 2
+            "data source" = "Reuters"
+            "id" = {8087E80F-F031-48A1-B1AC-102E51BD173A}
+            </example>
+        </member>
+        <member name="P:TeaTime.TeaFileDescription.TimeFieldOffsets">
+            <summary>Gets or sets the time field offsets. </summary>
+            Most times this list will hold a single value which in turn will most times be 0. For instance, the
+            following TeaFile will have such a list of {0}:
+            <code>
+            struct Tick
+            {
+                public Time    Time;
+                public double  Price;
+                public long    Volume;
+            }
+            TeaFile&lt;Tick&gt;.Create("acme");
+            </code>
+            Since the Time field above will be at offset=0 inside the item and only a single time fields exists in the type,
+            the TimeFieldOffsets = {0}.
+        </member>
+        <member name="T:TeaTime.IO.FileIO">
+            <summary>
+            Exposes low level file IO methods. This class collects the whole functionality required from the file system api of an operating system or
+            language API. Notably, modifications to the file position are not required.
+            </summary>
+            <remarks>This class does not own the stream passed in the ctor, so it does not implement IDisposable.<br></br></remarks>
+        </member>
+        <member name="M:TeaTime.IO.FileIO.ReadInt32">
+            <summary>
+            Reads a 32bit integer value from the file.
+            </summary>
+            <returns>The int32 value.</returns>
+            <remarks></remarks>
+        </member>
+        <member name="M:TeaTime.IO.FileIO.ReadInt64">
+            <summary>
+            Reads a 64bit integer value from the file.
+            </summary>
+            <returns>The int64 value.</returns>
+        </member>
+        <member name="M:TeaTime.IO.FileIO.ReadDouble">
+            <summary>
+            Reads a double value from the file.
+            </summary>
+            <returns>The double value.</returns>
+        </member>
+        <member name="M:TeaTime.IO.FileIO.SkipBytes(System.Int32)">
+            <summary>
+            This implementation performance n times ReadByte().<br></br>
+            Alternatively we could set the file position directly but we want to avoid usage of the 
+            filepointer functions to demonstrate that they are not necessary. This might be important 
+            when TeaFile APIs are written in languages that do not have a rich API is .Net. For 
+            instance, R might not have any filepointer modification functions in its own language.
+            </summary>
+            <param name="n">The number of bytes to skip.</param>
+        </member>
+        <member name="T:TeaTime.IO.FormattedReader">
+            <summary>
+            FormattedReader provides higher level file reading on top of <see cref="T:TeaTime.IO.IFileIO"/>. In the sense of 
+            a strict layer pattern, were direct calls to the underlying layer are not allowed, FormattedReader 
+            also exposes reading of int32, int64 and double and Guid values.
+            </summary>
+            <remarks>Methods are explained in <see cref="T:TeaTime.IO.IFormattedReader"/></remarks>
+        </member>
+        <member name="T:TeaTime.IO.FormattedWriter">
+            <summary>
+            FormattedWriter provides higher level file writing on top of <see cref="T:TeaTime.IO.IFileIO"/>. In the sense of 
+            a strict layer pattern, were direct calls to the underlying layer are not allowed, FormattedWriter 
+            also exposes writing of int32, int64 and double and Guid values.
+            </summary>
+            <remarks>Methods are explained in <see cref="T:TeaTime.IO.IFormattedWriter"/></remarks>
+        </member>
+        <member name="M:TeaTime.IO.FormattedWriter.WriteGuid(System.Guid)">
+            <summary>
+            Writes a 16 byte Guid into the file.
+            </summary>
+            <param name="value">The value to write.</param>
+            <remarks></remarks>
+        </member>
+        <member name="M:TeaTime.Header.HeaderManager.CreateSections(TeaTime.Header.WriteContext)">
+            <summary>
+            Creates the header's sections from the descriptions found in the context. Computes their positions 
+            and sets the FirstItemPosition property in the context.
+            </summary>
+        </member>
+        <member name="T:TeaTime.Header.ReadContext">
+            <summary>
+            During header reading, the ReaContext provides section descriptions 
+            </summary>
+        </member>
+        <member name="T:TeaTime.Header.NameValueSectionFormatter">
+            <summary>
+            The NameValue section holds a collection of Name / Value pairs. See <see cref="T:TeaTime.NameValue"/> or details of the value types.
+            </summary>
+        </member>
+        <member name="T:TeaTime.Header.WriteContext">
+            <summary>
+            An instance of this class is passed to all section formatters's <see cref="M:TeaTime.Header.ISectionFormatter.Write(TeaTime.Header.WriteContext)"/> method, providing the 
+            formatter access to the <see cref="T:TeaTime.TeaFileDescription"/> and the writer.
+            </summary>
+        </member>
+        <member name="T:TeaTime.Header.ContentSectionFormatter">
+            <summary>
+            The ContentDescription holds a plain string desribing what the file stores.<br></br>
+            Example: "EUR/USD" or "Temperature New York City"
+            </summary>
+        </member>
+        <member name="T:TeaTime.Header.ItemSectionFormatter">
+            <summary>
+            A TeaFile's ItemSection stores the layout of the Item's fields.
+            </summary>
+        </member>
+        <member name="T:TeaTime.TeaFile">
+            <summary>
+            Read TeaFiles without knowing anything about their content (untyped reading).
+            </summary>
+            <remarks>
+            Access is limited to read, because we do not have any knowledge about the file's item type. Writing
+            of file is provided by <see cref="T:TeaTime.TeaFile`1"/> only.
+            </remarks>
+        </member>
+        <member name="M:TeaTime.TeaFile.#ctor">
+            <summary>
+            Restrict construction to static factory methods.
+            </summary>
+        </member>
+        <member name="M:TeaTime.TeaFile.OpenRead(System.String)">
+            <summary>
+            Open a TeaFile for reading (untyped).
+            </summary>
+            <exception cref="T:System.ArgumentNullException"><paramref name="path"/> is null. </exception>
+            <param name="path">The path of the file. </param>
+            <returns>An instance of TeaFile. </returns>
+        </member>
+        <member name="M:TeaTime.TeaFile.OpenRead(System.IO.Stream)">
+            <summary>
+            Open a TeaFile for reading (untyped).
+            </summary>
+            <exception cref="T:System.ArgumentNullException"><paramref name="stream"/> is null. </exception>
+            <param name="stream">A stream of the file. This might be a file, or another implementation of <see cref="T:System.IO.Stream"/>, for instance a <see cref="T:System.IO.MemoryStream"/>. </param>
+            <returns>An instance of TeaFile. </returns>
+        </member>
+        <member name="M:TeaTime.TeaFile.Read">
+            <summary>Reads the next item from the file. </summary>
+            <returns>The item. </returns>
+            <remarks>The file pointer defines which item will be read. Use </remarks>
+        </member>
+        <member name="M:TeaTime.TeaFile.GetFieldValue(System.Int32,TeaTime.Field)">
+            <summary>Gets the value of <paramref name="field"/> of the item at index <paramref name="itemIndex"/>. </summary>
+            <exception cref="T:System.ArgumentNullException">Thrown when one or more required arguments are null. </exception>
+            <param name="itemIndex">Zero-based index of the item. </param>
+            <param name="field">The field. </param>
+            <returns>The field value. </returns>
+        </member>
+        <member name="M:TeaTime.TeaFile.GetFieldValue(TeaTime.Item,TeaTime.Field)">
+            <summary>Gets the value of <paramref name="field"/> of <paramref name="item"/>. </summary>
+            <exception cref="T:System.ArgumentNullException">Thrown when one or more required arguments are null. </exception>
+            <param name="item">The item. </param>
+            <param name="field">The field. </param>
+            <returns>The field value. </returns>
+        </member>
+        <member name="M:TeaTime.TeaFile.GetDescription(System.String)">
+            <summary>
+            Opens the file, fetches the description, closes the file and returns the description.
+            </summary>
+            <remarks>
+            The file must be readable, so if it is open by some other process, it must have shareable read state.
+            </remarks>
+            <param name="fileName"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TeaTime.TeaFile.GetEventTime(TeaTime.Item)">
+            <summary>
+            Return the Event Time if the <paramref name="item"/>.
+            </summary>
+            <exception cref="T:System.InvalidOperationException">The file holds no ItemDescription.</exception>
+            <exception cref="T:System.InvalidOperationException">The ItemDescription does not identify a field as event time.</exception>
+            <param name="item">The item</param>
+            <returns>The value of the item's time field.</returns>
+        </member>
+        <member name="M:TeaTime.TeaFile.Dispose">
+            <summary>
+            Performs application-defined tasks associated with freeing, releasing, or resetting unmanaged resources.
+            </summary>
+        </member>
+        <member name="M:TeaTime.TeaFile.Finalize">
+            <summary>
+            Releases unmanaged resources and performs other cleanup operations before the
+            <see cref="T:TeaTime.TeaFile"/> is reclaimed by garbage collection.
+            </summary>
+        </member>
+        <member name="M:TeaTime.TeaFile.GetFieldSpacings">
+            <summary>
+            computes the byte spaces between 
+            </summary>
+        </member>
+        <member name="P:TeaTime.TeaFile.Description">
+            <summary>
+            The description of the file content.
+            </summary>
+            <remarks>
+            <para>
+            Dependend of the description inside the file, the description will hold information 
+            about the item type, its layout or further description.
+            </para>
+            </remarks>
+            <value>The description.</value>
+        </member>
+        <member name="P:TeaTime.TeaFile.Name">
+            <summary>The name of the file. </summary>
+            <value>The name. </value>
+            <remarks>
+            The name equals the path of the file.		 
+            </remarks>
+        </member>
+        <member name="P:TeaTime.TeaFile.Items">
+            <summary>
+            The items in the file.
+            </summary>
+            <remarks>
+            The <see cref="P:TeaTime.TeaFile.Items"/> instance returned exposes an enumerator over the items in the file,
+            where each item is exposed as <see cref="T:TeaTime.Item"/>.
+            </remarks>
+        </member>
+        <member name="P:TeaTime.TeaFile.ItemAreaStart">
+            <summary>Gets the item area start, as byte offset from the begin of the file. </summary>
+        </member>
+        <member name="P:TeaTime.TeaFile.ItemAreaEnd">
+            <summary>Gets the item area end, as byte offset from the begin of the file. </summary>
+            <remarks>This points to the position in the file past the last item, which is the end of the file if no preallocation is used.</remarks>
+        </member>
+        <member name="P:TeaTime.TeaFile.ItemAreaSize">
+            <summary>Gets the size of the item area in bytes. </summary>
+        </member>
+        <member name="T:TeaTime.TeaFile`1">
+             <summary>Create, write and read TeaFiles using their item type (typed reading).</summary>
+             <remarks>This class is the core of this assembly. Use it to <see cref="M:TeaTime.TeaFile`1.Create(System.String,System.String,TeaTime.NameValueCollection,System.Boolean)"/>, 
+             <see cref="M:TeaTime.TeaFile`1.Write(`0)"/> and <see cref="M:TeaTime.TeaFile`1.Read"/> items to and from TeaFiles.
+             </remarks>
+            <typeparam name="T">The item type.</typeparam>
+        </member>
+        <member name="M:TeaTime.TeaFile`1.Create(System.String,System.String,TeaTime.NameValueCollection,System.Boolean)">
+             <summary>Create a new TeaFile for type <typeparamref name="T"/>. </summary>
+             <exception cref="T:System.ArgumentNullException">Thrown when one or more required arguments are null. </exception>
+             <param name="path">path of the file. </param>
+             <param name="contentDescription">A string describing the content. Defaults to null.</param>
+             <param name="nameValues">A collectiion of name values describing the content. Defaults to null.</param>
+             <param name="includeItemDescription">Specifies if the item description is written into the file.</param>
+             <returns>A new instance of <see cref="T:TeaTime.TeaFile`1"/>. </returns>
+             <remarks>
+             Calling this methods creates a new file and writes the file header holding a description of <typeparamref name="T"/>.
+             The returned TeaFile{T} instance is in open state, read for writing.
+             </remarks>
+             <example>
+             <code>
+             struct Tick
+             {
+                 public Time Time;
+                 public double Price;
+                 public long Volume;
+             }
+            
+             ...
+                
+             // write typed
+             using (var tf = TeaFile&lt;Tick&gt;.Create("acme.tea"))
+             {
+                 tf.Write(new Tick { Time = new Time(2000, 3, 4), Price = 12.34, Volume = 7200 });
+             }
+            
+             // 1. read typed
+             using (var tf = TeaFile&lt;Tick&gt;.OpenRead("acme.tea"))
+             {
+                 Tick item = tf.Read();  // typed read is convenient: we get a tpyed Tick back,
+                 Time t = item.Time;     // so access to its fields simply means acessing the fields of a Tick struct.
+                 double p = item.Price;
+                 long v = item.Volume;
+             }
+             </code>		 
+             </example>
+        </member>
+        <member name="M:TeaTime.TeaFile`1.Create(System.IO.Stream,System.String,TeaTime.NameValueCollection,System.Boolean)">
+            <summary>
+            Creates a TeaFile, using the specified stream as the underlying storage media.
+            </summary>
+            <param name="stream">The stream.</param>
+            <param name="contentDescription">The content description.</param>
+            <param name="nameValues">The name values.</param>
+            <param name="includeItemDescription">if set to <c>true</c> [include item description].</param>
+            <returns></returns>
+            <remarks>
+            Instead of creating a new <see cref="T:System.IO.FileStream"/>, this method takes the <see cref="P:TeaTime.TeaFile`1.Stream"/> passed. This provides 
+            more control over the stream, like setting specific <see cref="T:System.IO.FileShare"/> attributes. It also allows usage of 
+            alternative storage medias like <see cref="T:System.IO.MemoryStream"/>.
+            <see cref="M:TeaTime.TeaFile`1.Create(System.String,System.String,TeaTime.NameValueCollection,System.Boolean)"/>
+            </remarks>
+        </member>
+        <member name="M:TeaTime.TeaFile`1.OpenRead(System.String,TeaTime.ItemDescriptionElements)">
+            <summary>Opens a TeaFile in read only mode. </summary>
+            <exception cref="T:System.ArgumentNullException">Thrown when path is null. </exception>
+            <param name="path">The path of the file. </param>
+            <param name="elementsToValidate">Elements of the ItemDescription of <typeparamref name="T"/> compared against hose inside thefile.
+            <see cref="T:TeaTime.ItemDescriptionElements"/> for details. </param>
+            <returns>The file, open for reading. </returns>
+        </member>
+        <member name="M:TeaTime.TeaFile`1.OpenRead(System.IO.Stream,TeaTime.ItemDescriptionElements)">
+            <summary>Opens a TeaFile for read. </summary>
+            <exception cref="T:System.ArgumentNullException">Thrown when one or more required arguments are null. </exception>
+            <param name="stream">            The underlying stream. </param>
+            <param name="elementsToValidate">Elements of the ItemDescription to be checked.
+            <see cref="T:TeaTime.ItemDescriptionElements"/> for details. </param>
+            <returns>The file open for reading.</returns>
+            <remarks>This overload allows a <see cref="T:System.IO.MemoryStream"/> or any Stream implmementation to be used as the underlying
+            persistence media or specifically opened streams, for instance with specific <see cref="T:System.IO.FileShare"/> flags set.</remarks>
+        </member>
+        <member name="M:TeaTime.TeaFile`1.OpenWrite(System.String,TeaTime.ItemDescriptionElements)">
+            <summary>Opens a TeFile in write mode. </summary>
+            <exception cref="T:System.ArgumentNullException">Path is null. </exception>
+            <param name="path">The path of the file. </param>
+            <param name="elementsToValidate">Elements of the ItemDescription to be checked.
+            <see cref="T:TeaTime.ItemDescriptionElements"/> for details. </param>
+            <returns>A TeaFile in write mode. </returns>
+            <remarks><see cref="M:TeaTime.TeaFile`1.OpenRead(System.String,TeaTime.ItemDescriptionElements)"/> about the <paramref name="elementsToValidate"/> parameter.</remarks>
+        </member>
+        <member name="M:TeaTime.TeaFile`1.OpenWrite(System.IO.Stream,TeaTime.ItemDescriptionElements)">
+            <summary>Opens a TeFile in write mode. </summary>
+            <exception cref="T:System.ArgumentNullException"><paramref name="stream"/> is null. </exception>
+            <param name="stream">The underlying storage media. </param>
+            <param name="elementsToValidate">Elements of the ItemDescription to be checked.
+            <see cref="T:TeaTime.ItemDescriptionElements"/> for details. </param>
+            <returns>A TeaFile, open in write mode. </returns>
+        </member>
+        <member name="M:TeaTime.TeaFile`1.Append(System.String,TeaTime.ItemDescriptionElements)">
+            <summary>
+            Opens the file in write mode and allows appending items to it. The filepointer is set to the end of the file.
+            </summary>
+            <param name="path">The path of the file. </param>
+            <param name="elementsToValidate">The elements of the ItemDescription to validate.
+            <see cref="T:TeaTime.ItemDescriptionElements"/> for details. </param>
+            <returns>. </returns>
+            <exception cref="T:System.ArgumentException">If path is null.</exception>
+        </member>
+        <member name="M:TeaTime.TeaFile`1.Read">
+            <summary>Reads the next item from the file </summary>
+            <returns>The item at the filepointer. </returns>
+        </member>
+        <member name="M:TeaTime.TeaFile`1.Write(`0)">
+            <summary>Writes an item in to the file at the position of the file pointer. </summary>
+            <param name="item">The item to write. </param>
+        </member>
+        <member name="M:TeaTime.TeaFile`1.Write(System.Collections.Generic.IEnumerable{`0})">
+            <summary>Writes several items in to the file. </summary>
+            <param name="values">The items to write. </param>
+        </member>
+        <member name="M:TeaTime.TeaFile`1.SetFilePointerToItem(System.Int64)">
+            <summary>
+            Set file pointer based on item index.
+            </summary>
+            <param name="itemIndex">Zero based index of the item tthe filpointer shall point to after the call.</param>
+        </member>
+        <member name="M:TeaTime.TeaFile`1.SetFilePointerToEnd">
+            <summary>Sets the file pointer to the physical end of the file. </summary>
+        </member>
+        <member name="M:TeaTime.TeaFile`1.Truncate">
+            <summary>
+            Removes all items from the file.
+            </summary>
+            <remarks>
+            All items are removed and the file size 		 
+            </remarks>
+        </member>
+        <member name="M:TeaTime.TeaFile`1.Flush">
+            <summary>Flushes the file. </summary>
+        </member>
+        <member name="M:TeaTime.TeaFile`1.Close">
+            <summary>Closes this file. </summary>
+        </member>
+        <member name="M:TeaTime.TeaFile`1.ToString">
+            <summary>Returns a <see cref="T:System.String" /> that represents the current <see cref="T:System.Object" />. </summary>
+            <returns>A <see cref="T:System.String" /> that represents the current <see cref="T:System.Object" />. </returns>
+        </member>
+        <member name="M:TeaTime.TeaFile`1.TryRead(`0@)">
+            <summary>
+            TryRead is more performant as it avoids throwing an EndOfStreamException when the end of the file is reached.
+            </summary>
+            <remarks>This method cannot be used when header tracing is intended.</remarks>
+            <param name="value"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TeaTime.TeaFile`1.Finalize">
+            <summary>Finaliser. </summary>
+        </member>
+        <member name="M:TeaTime.TeaFile`1.Dispose">
+            <summary>Releases all resources acquired by the instance. </summary>
+        </member>
+        <member name="M:TeaTime.TeaFile`1.OpenMemoryMapping(System.String)">
+            <summary>Opens a memory mapping of the file using managed memory mapping. </summary>
+            <param name="path">path of the file. </param>
+            <returns>An instance of <see cref="T:TeaTime.ManagedMemoryMapping`1"/> providing access to the items in the file. </returns>
+        </member>
+        <member name="M:TeaTime.TeaFile`1.OpenRawMemoryMapping(System.String)">
+            <summary>Opens a memory mapping of the file using unsafe memory mapping. </summary>
+            <param name="path">path of the file. </param>
+            <returns>An instance of <see cref="T:TeaTime.RawMemoryMapping`1"/> providing access to the items in the file. </returns>
+            <remarks>
+            Compared to <see cref="M:TeaTime.TeaFile`1.OpenRawMemoryMapping(System.String)"/>, this raw access performs much better.
+            </remarks>
+        </member>
+        <member name="P:TeaTime.TeaFile`1.Description">
+            <summary>
+            The description of the file's content. The returned <see cref="P:TeaTime.TeaFile`1.Description"/> instance in turn holds descriptions 
+            of the items in the file, a <see cref="T:TeaTime.NameValueCollection"/> with arbitrary values and a simple ContentDescription string.
+            
+            TeaFiles may or may not hold any description of their content. If not any description is available, this property will be null.
+            </summary>
+        </member>
+        <member name="P:TeaTime.TeaFile`1.Items">
+            <summary>Provides access to the items in the file. </summary>
+        </member>
+        <member name="P:TeaTime.TeaFile`1.Name">
+            <summary>The name of the file. </summary>
+            <value>This is the path passed when the file was opened.</value>
+        </member>
+        <member name="P:TeaTime.TeaFile`1.ItemAreaStart">
+            <summary>Gets the item area start. </summary>
+            <value>This is the byte offset from the start of the file.</value>
+        </member>
+        <member name="P:TeaTime.TeaFile`1.ItemAreaEnd">
+            <summary>Gets the item area end. </summary>
+            <value>This is the byte offset from the start of the file.</value>
+        </member>
+        <member name="P:TeaTime.TeaFile`1.ItemAreaSize">
+            <summary>Gets the size of the item area in bytes. </summary>
+        </member>
+        <member name="P:TeaTime.TeaFile`1.Count">
+            <summary>Gets the number of items in the file.  </summary>
+        </member>
+        <member name="T:TeaTime.NamespaceDoc">
+            <summary>
+            The <b>TeaTime</b> namespace provides classes to read and write <a href="http://discretelogics.com/Product/TeaFiles">TeaFiles</a>. TeaFiles 
+            are a simple and efficient way to store time series in flat files.
+            </summary>    
+            <remarks>    
+            <para><see cref="T:TeaTime.TeaFile`1"/> is used to create, write and read TeaFiles</para>
+            <example>
+            <code>
+            struct Tick // the time series item type
+            {
+                public DateTime Time;
+                public double Price;
+                public int Volume;
+            }
+            
+            // create file and write some values
+            using (var tf = TeaFile&lt;Tick&gt;.Create("gold.tea"))
+            {
+                tf.Write(new Tick { Price = 5, Time = DateTime.Now, Volume = 700 });
+                tf.Write(new Tick { Price = 15, Time = DateTime.Now.AddHours(1), Volume = 1700 });
+            }
+            
+            // read typed
+            using (var tf = TeaFile&lt;Tick&gt;.OpenRead("gold.tea"))
+            {
+                Tick value = tf.Read();
+                Console.WriteLine(value);
+            }
+            </code>
+            </example>
+            <para>If the type of items stored in a TeaFile is unknown, the file can still be opened using the non generic class <see cref="T:TeaTime.TeaFile"/>.</para>
+            <example>
+            read untyped - we know nothing about the type of item in the file
+            <code>
+            using (var tf = TeaFile.OpenRead("gold.tea"))
+            {                
+                foreach(Item item in tf.Items)
+                {
+                    Console.WriteLine(tf.Description.ItemDescription.GetNameValueString(item));
+                }
+            }
+            
+            // output:
+            output:
+            Price=5 Time=20.8.2011 23:50
+            Price=15 Time=21.8.2011 00:50
+            </code>
+            </example>
+            If possible, typed reading is preferred, as it is much more performant and convient. Untyped reading should be used otherwise. 
+            Tools like <a href="http://discretelogics.com/Product/TeaShell">TeaShell</a> that present arbitrary TeaFiles, not known at compile time, 
+            use untyped reading.<br></br>    
+            </remarks>
+        </member>
+    </members>
+</doc>

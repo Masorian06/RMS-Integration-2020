@@ -1,0 +1,1230 @@
+G:\My Drive\MSc Mario Soriano Documents\VS_Reconfigurabe\RMS_Integration\RMS_Integration\bin\Debug\RMS_Integration.exe
+G:\My Drive\MSc Mario Soriano Documents\VS_Reconfigurabe\RMS_Integration\RMS_Integration\bin\Debug\RMS_Integration.exe.config
+G:\My Drive\MSc Mario Soriano Documents\VS_Reconfigurabe\RMS_Integration\RMS_Integration\bin\Debug\RMS_Integration.pdb
+G:\My Drive\MSc Mario Soriano Documents\VS_Reconfigurabe\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.csprojAssemblyReference.cache
+G:\My Drive\MSc Mario Soriano Documents\VS_Reconfigurabe\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.RMSApp.resources
+G:\My Drive\MSc Mario Soriano Documents\VS_Reconfigurabe\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.Properties.Resources.resources
+G:\My Drive\MSc Mario Soriano Documents\VS_Reconfigurabe\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.csproj.GenerateResource.cache
+G:\My Drive\MSc Mario Soriano Documents\VS_Reconfigurabe\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.csproj.CoreCompileInputs.cache
+G:\My Drive\MSc Mario Soriano Documents\VS_Reconfigurabe\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.exe
+G:\My Drive\MSc Mario Soriano Documents\VS_Reconfigurabe\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.pdb
+C:\Users\masorian\Documents\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.csprojAssemblyReference.cache
+C:\Users\masorian\Documents\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.RMSApp.resources
+C:\Users\masorian\Documents\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.Properties.Resources.resources
+C:\Users\masorian\Documents\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.csproj.GenerateResource.cache
+C:\Users\masorian\Documents\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.csproj.CoreCompileInputs.cache
+C:\Users\masorian\Documents\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.exe
+C:\Users\masorian\Documents\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.pdb
+C:\Users\masorian\Documents\RMS_Integration\RMS_Integration\bin\Debug\RMS_Integration.exe.config
+C:\Users\masorian\Documents\RMS_Integration\RMS_Integration\bin\Debug\RMS_Integration.exe
+C:\Users\masorian\Documents\RMS_Integration\RMS_Integration\bin\Debug\RMS_Integration.pdb
+C:\Users\masorian\Documents\RMS_Integration\RMS_Integration\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+C:\Users\masorian\Documents\RMS_Integration\RMS_Integration\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter.dll
+C:\Users\masorian\Documents\RMS_Integration\RMS_Integration\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\masorian\Documents\RMS_Integration\RMS_Integration\bin\Debug\Microsoft.Build.dll
+C:\Users\masorian\Documents\RMS_Integration\RMS_Integration\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\masorian\Documents\RMS_Integration\RMS_Integration\bin\Debug\System.Collections.Immutable.dll
+C:\Users\masorian\Documents\RMS_Integration\RMS_Integration\bin\Debug\System.IO.Compression.dll
+C:\Users\masorian\Documents\RMS_Integration\RMS_Integration\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\masorian\Documents\RMS_Integration\RMS_Integration\bin\Debug\cs\Microsoft.Build.resources.dll
+C:\Users\masorian\Documents\RMS_Integration\RMS_Integration\bin\Debug\de\Microsoft.Build.resources.dll
+C:\Users\masorian\Documents\RMS_Integration\RMS_Integration\bin\Debug\en\Microsoft.Build.resources.dll
+C:\Users\masorian\Documents\RMS_Integration\RMS_Integration\bin\Debug\es\Microsoft.Build.resources.dll
+C:\Users\masorian\Documents\RMS_Integration\RMS_Integration\bin\Debug\fr\Microsoft.Build.resources.dll
+C:\Users\masorian\Documents\RMS_Integration\RMS_Integration\bin\Debug\it\Microsoft.Build.resources.dll
+C:\Users\masorian\Documents\RMS_Integration\RMS_Integration\bin\Debug\ja\Microsoft.Build.resources.dll
+C:\Users\masorian\Documents\RMS_Integration\RMS_Integration\bin\Debug\ko\Microsoft.Build.resources.dll
+C:\Users\masorian\Documents\RMS_Integration\RMS_Integration\bin\Debug\pl\Microsoft.Build.resources.dll
+C:\Users\masorian\Documents\RMS_Integration\RMS_Integration\bin\Debug\pt-BR\Microsoft.Build.resources.dll
+C:\Users\masorian\Documents\RMS_Integration\RMS_Integration\bin\Debug\ru\Microsoft.Build.resources.dll
+C:\Users\masorian\Documents\RMS_Integration\RMS_Integration\bin\Debug\tr\Microsoft.Build.resources.dll
+C:\Users\masorian\Documents\RMS_Integration\RMS_Integration\bin\Debug\zh-Hans\Microsoft.Build.resources.dll
+C:\Users\masorian\Documents\RMS_Integration\RMS_Integration\bin\Debug\zh-Hant\Microsoft.Build.resources.dll
+C:\Users\masorian\Documents\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.csproj.CopyComplete
+C:\Users\sork-\Desktop\RMS_Integration_V3\RMS_Integration\RMS_Integration\bin\Debug\RMS_Integration.exe.config
+C:\Users\sork-\Desktop\RMS_Integration_V3\RMS_Integration\RMS_Integration\bin\Debug\RMS_Integration.exe
+C:\Users\sork-\Desktop\RMS_Integration_V3\RMS_Integration\RMS_Integration\bin\Debug\RMS_Integration.pdb
+C:\Users\sork-\Desktop\RMS_Integration_V3\RMS_Integration\RMS_Integration\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\sork-\Desktop\RMS_Integration_V3\RMS_Integration\RMS_Integration\bin\Debug\Microsoft.Build.dll
+C:\Users\sork-\Desktop\RMS_Integration_V3\RMS_Integration\RMS_Integration\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\sork-\Desktop\RMS_Integration_V3\RMS_Integration\RMS_Integration\bin\Debug\System.Collections.Immutable.dll
+C:\Users\sork-\Desktop\RMS_Integration_V3\RMS_Integration\RMS_Integration\bin\Debug\System.IO.Compression.dll
+C:\Users\sork-\Desktop\RMS_Integration_V3\RMS_Integration\RMS_Integration\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\sork-\Desktop\RMS_Integration_V3\RMS_Integration\RMS_Integration\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\sork-\Desktop\RMS_Integration_V3\RMS_Integration\RMS_Integration\bin\Debug\cs\Microsoft.Build.resources.dll
+C:\Users\sork-\Desktop\RMS_Integration_V3\RMS_Integration\RMS_Integration\bin\Debug\de\Microsoft.Build.resources.dll
+C:\Users\sork-\Desktop\RMS_Integration_V3\RMS_Integration\RMS_Integration\bin\Debug\en\Microsoft.Build.resources.dll
+C:\Users\sork-\Desktop\RMS_Integration_V3\RMS_Integration\RMS_Integration\bin\Debug\es\Microsoft.Build.resources.dll
+C:\Users\sork-\Desktop\RMS_Integration_V3\RMS_Integration\RMS_Integration\bin\Debug\fr\Microsoft.Build.resources.dll
+C:\Users\sork-\Desktop\RMS_Integration_V3\RMS_Integration\RMS_Integration\bin\Debug\it\Microsoft.Build.resources.dll
+C:\Users\sork-\Desktop\RMS_Integration_V3\RMS_Integration\RMS_Integration\bin\Debug\ja\Microsoft.Build.resources.dll
+C:\Users\sork-\Desktop\RMS_Integration_V3\RMS_Integration\RMS_Integration\bin\Debug\ko\Microsoft.Build.resources.dll
+C:\Users\sork-\Desktop\RMS_Integration_V3\RMS_Integration\RMS_Integration\bin\Debug\pl\Microsoft.Build.resources.dll
+C:\Users\sork-\Desktop\RMS_Integration_V3\RMS_Integration\RMS_Integration\bin\Debug\pt-BR\Microsoft.Build.resources.dll
+C:\Users\sork-\Desktop\RMS_Integration_V3\RMS_Integration\RMS_Integration\bin\Debug\ru\Microsoft.Build.resources.dll
+C:\Users\sork-\Desktop\RMS_Integration_V3\RMS_Integration\RMS_Integration\bin\Debug\tr\Microsoft.Build.resources.dll
+C:\Users\sork-\Desktop\RMS_Integration_V3\RMS_Integration\RMS_Integration\bin\Debug\zh-Hans\Microsoft.Build.resources.dll
+C:\Users\sork-\Desktop\RMS_Integration_V3\RMS_Integration\RMS_Integration\bin\Debug\zh-Hant\Microsoft.Build.resources.dll
+C:\Users\sork-\Desktop\RMS_Integration_V3\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.csprojAssemblyReference.cache
+C:\Users\sork-\Desktop\RMS_Integration_V3\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.RMSApp.resources
+C:\Users\sork-\Desktop\RMS_Integration_V3\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.Properties.Resources.resources
+C:\Users\sork-\Desktop\RMS_Integration_V3\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.csproj.GenerateResource.cache
+C:\Users\sork-\Desktop\RMS_Integration_V3\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.csproj.CoreCompileInputs.cache
+C:\Users\sork-\Desktop\RMS_Integration_V3\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.csproj.CopyComplete
+C:\Users\sork-\Desktop\RMS_Integration_V3\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.exe
+C:\Users\sork-\Desktop\RMS_Integration_V3\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.pdb
+C:\Users\masorian\Documents\RMS_Integration_V4\RMS_Integration_V4\RMS_Integration\RMS_Integration\bin\Debug\RMS_Integration.exe.config
+C:\Users\masorian\Documents\RMS_Integration_V4\RMS_Integration_V4\RMS_Integration\RMS_Integration\bin\Debug\RMS_Integration.exe
+C:\Users\masorian\Documents\RMS_Integration_V4\RMS_Integration_V4\RMS_Integration\RMS_Integration\bin\Debug\RMS_Integration.pdb
+C:\Users\masorian\Documents\RMS_Integration_V4\RMS_Integration_V4\RMS_Integration\RMS_Integration\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+C:\Users\masorian\Documents\RMS_Integration_V4\RMS_Integration_V4\RMS_Integration\RMS_Integration\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter.dll
+C:\Users\masorian\Documents\RMS_Integration_V4\RMS_Integration_V4\RMS_Integration\RMS_Integration\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\masorian\Documents\RMS_Integration_V4\RMS_Integration_V4\RMS_Integration\RMS_Integration\bin\Debug\Microsoft.Build.dll
+C:\Users\masorian\Documents\RMS_Integration_V4\RMS_Integration_V4\RMS_Integration\RMS_Integration\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\masorian\Documents\RMS_Integration_V4\RMS_Integration_V4\RMS_Integration\RMS_Integration\bin\Debug\System.Collections.Immutable.dll
+C:\Users\masorian\Documents\RMS_Integration_V4\RMS_Integration_V4\RMS_Integration\RMS_Integration\bin\Debug\System.IO.Compression.dll
+C:\Users\masorian\Documents\RMS_Integration_V4\RMS_Integration_V4\RMS_Integration\RMS_Integration\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\masorian\Documents\RMS_Integration_V4\RMS_Integration_V4\RMS_Integration\RMS_Integration\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\masorian\Documents\RMS_Integration_V4\RMS_Integration_V4\RMS_Integration\RMS_Integration\bin\Debug\cs\Microsoft.Build.resources.dll
+C:\Users\masorian\Documents\RMS_Integration_V4\RMS_Integration_V4\RMS_Integration\RMS_Integration\bin\Debug\de\Microsoft.Build.resources.dll
+C:\Users\masorian\Documents\RMS_Integration_V4\RMS_Integration_V4\RMS_Integration\RMS_Integration\bin\Debug\en\Microsoft.Build.resources.dll
+C:\Users\masorian\Documents\RMS_Integration_V4\RMS_Integration_V4\RMS_Integration\RMS_Integration\bin\Debug\es\Microsoft.Build.resources.dll
+C:\Users\masorian\Documents\RMS_Integration_V4\RMS_Integration_V4\RMS_Integration\RMS_Integration\bin\Debug\fr\Microsoft.Build.resources.dll
+C:\Users\masorian\Documents\RMS_Integration_V4\RMS_Integration_V4\RMS_Integration\RMS_Integration\bin\Debug\it\Microsoft.Build.resources.dll
+C:\Users\masorian\Documents\RMS_Integration_V4\RMS_Integration_V4\RMS_Integration\RMS_Integration\bin\Debug\ja\Microsoft.Build.resources.dll
+C:\Users\masorian\Documents\RMS_Integration_V4\RMS_Integration_V4\RMS_Integration\RMS_Integration\bin\Debug\ko\Microsoft.Build.resources.dll
+C:\Users\masorian\Documents\RMS_Integration_V4\RMS_Integration_V4\RMS_Integration\RMS_Integration\bin\Debug\pl\Microsoft.Build.resources.dll
+C:\Users\masorian\Documents\RMS_Integration_V4\RMS_Integration_V4\RMS_Integration\RMS_Integration\bin\Debug\pt-BR\Microsoft.Build.resources.dll
+C:\Users\masorian\Documents\RMS_Integration_V4\RMS_Integration_V4\RMS_Integration\RMS_Integration\bin\Debug\ru\Microsoft.Build.resources.dll
+C:\Users\masorian\Documents\RMS_Integration_V4\RMS_Integration_V4\RMS_Integration\RMS_Integration\bin\Debug\tr\Microsoft.Build.resources.dll
+C:\Users\masorian\Documents\RMS_Integration_V4\RMS_Integration_V4\RMS_Integration\RMS_Integration\bin\Debug\zh-Hans\Microsoft.Build.resources.dll
+C:\Users\masorian\Documents\RMS_Integration_V4\RMS_Integration_V4\RMS_Integration\RMS_Integration\bin\Debug\zh-Hant\Microsoft.Build.resources.dll
+C:\Users\masorian\Documents\RMS_Integration_V4\RMS_Integration_V4\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.csprojAssemblyReference.cache
+C:\Users\masorian\Documents\RMS_Integration_V4\RMS_Integration_V4\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.RMSApp.resources
+C:\Users\masorian\Documents\RMS_Integration_V4\RMS_Integration_V4\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.Properties.Resources.resources
+C:\Users\masorian\Documents\RMS_Integration_V4\RMS_Integration_V4\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.csproj.GenerateResource.cache
+C:\Users\masorian\Documents\RMS_Integration_V4\RMS_Integration_V4\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.csproj.CoreCompileInputs.cache
+C:\Users\masorian\Documents\RMS_Integration_V4\RMS_Integration_V4\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.csproj.CopyComplete
+C:\Users\masorian\Documents\RMS_Integration_V4\RMS_Integration_V4\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.exe
+C:\Users\masorian\Documents\RMS_Integration_V4\RMS_Integration_V4\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.pdb
+C:\Users\sork-\Desktop\RMS_Integration_V5\RMS_Integration\RMS_Integration\bin\Debug\RMS_Integration.exe.config
+C:\Users\sork-\Desktop\RMS_Integration_V5\RMS_Integration\RMS_Integration\bin\Debug\RMS_Integration.exe
+C:\Users\sork-\Desktop\RMS_Integration_V5\RMS_Integration\RMS_Integration\bin\Debug\RMS_Integration.pdb
+C:\Users\sork-\Desktop\RMS_Integration_V5\RMS_Integration\RMS_Integration\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\sork-\Desktop\RMS_Integration_V5\RMS_Integration\RMS_Integration\bin\Debug\Microsoft.Build.dll
+C:\Users\sork-\Desktop\RMS_Integration_V5\RMS_Integration\RMS_Integration\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\sork-\Desktop\RMS_Integration_V5\RMS_Integration\RMS_Integration\bin\Debug\System.Collections.Immutable.dll
+C:\Users\sork-\Desktop\RMS_Integration_V5\RMS_Integration\RMS_Integration\bin\Debug\System.IO.Compression.dll
+C:\Users\sork-\Desktop\RMS_Integration_V5\RMS_Integration\RMS_Integration\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\sork-\Desktop\RMS_Integration_V5\RMS_Integration\RMS_Integration\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\sork-\Desktop\RMS_Integration_V5\RMS_Integration\RMS_Integration\bin\Debug\cs\Microsoft.Build.resources.dll
+C:\Users\sork-\Desktop\RMS_Integration_V5\RMS_Integration\RMS_Integration\bin\Debug\de\Microsoft.Build.resources.dll
+C:\Users\sork-\Desktop\RMS_Integration_V5\RMS_Integration\RMS_Integration\bin\Debug\en\Microsoft.Build.resources.dll
+C:\Users\sork-\Desktop\RMS_Integration_V5\RMS_Integration\RMS_Integration\bin\Debug\es\Microsoft.Build.resources.dll
+C:\Users\sork-\Desktop\RMS_Integration_V5\RMS_Integration\RMS_Integration\bin\Debug\fr\Microsoft.Build.resources.dll
+C:\Users\sork-\Desktop\RMS_Integration_V5\RMS_Integration\RMS_Integration\bin\Debug\it\Microsoft.Build.resources.dll
+C:\Users\sork-\Desktop\RMS_Integration_V5\RMS_Integration\RMS_Integration\bin\Debug\ja\Microsoft.Build.resources.dll
+C:\Users\sork-\Desktop\RMS_Integration_V5\RMS_Integration\RMS_Integration\bin\Debug\ko\Microsoft.Build.resources.dll
+C:\Users\sork-\Desktop\RMS_Integration_V5\RMS_Integration\RMS_Integration\bin\Debug\pl\Microsoft.Build.resources.dll
+C:\Users\sork-\Desktop\RMS_Integration_V5\RMS_Integration\RMS_Integration\bin\Debug\pt-BR\Microsoft.Build.resources.dll
+C:\Users\sork-\Desktop\RMS_Integration_V5\RMS_Integration\RMS_Integration\bin\Debug\ru\Microsoft.Build.resources.dll
+C:\Users\sork-\Desktop\RMS_Integration_V5\RMS_Integration\RMS_Integration\bin\Debug\tr\Microsoft.Build.resources.dll
+C:\Users\sork-\Desktop\RMS_Integration_V5\RMS_Integration\RMS_Integration\bin\Debug\zh-Hans\Microsoft.Build.resources.dll
+C:\Users\sork-\Desktop\RMS_Integration_V5\RMS_Integration\RMS_Integration\bin\Debug\zh-Hant\Microsoft.Build.resources.dll
+C:\Users\sork-\Desktop\RMS_Integration_V5\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.csprojAssemblyReference.cache
+C:\Users\sork-\Desktop\RMS_Integration_V5\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.RMSApp.resources
+C:\Users\sork-\Desktop\RMS_Integration_V5\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.Properties.Resources.resources
+C:\Users\sork-\Desktop\RMS_Integration_V5\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.csproj.GenerateResource.cache
+C:\Users\sork-\Desktop\RMS_Integration_V5\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.csproj.CoreCompileInputs.cache
+C:\Users\sork-\Desktop\RMS_Integration_V5\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.csproj.CopyComplete
+C:\Users\sork-\Desktop\RMS_Integration_V5\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.exe
+C:\Users\sork-\Desktop\RMS_Integration_V5\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.pdb
+C:\Users\sork-\Desktop\RMS_Integration_V6\RMS_Integration\RMS_Integration\bin\Debug\RMS_Integration.exe.config
+C:\Users\sork-\Desktop\RMS_Integration_V6\RMS_Integration\RMS_Integration\bin\Debug\RMS_Integration.exe
+C:\Users\sork-\Desktop\RMS_Integration_V6\RMS_Integration\RMS_Integration\bin\Debug\RMS_Integration.pdb
+C:\Users\sork-\Desktop\RMS_Integration_V6\RMS_Integration\RMS_Integration\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\sork-\Desktop\RMS_Integration_V6\RMS_Integration\RMS_Integration\bin\Debug\Microsoft.Build.dll
+C:\Users\sork-\Desktop\RMS_Integration_V6\RMS_Integration\RMS_Integration\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\sork-\Desktop\RMS_Integration_V6\RMS_Integration\RMS_Integration\bin\Debug\System.Collections.Immutable.dll
+C:\Users\sork-\Desktop\RMS_Integration_V6\RMS_Integration\RMS_Integration\bin\Debug\System.IO.Compression.dll
+C:\Users\sork-\Desktop\RMS_Integration_V6\RMS_Integration\RMS_Integration\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\sork-\Desktop\RMS_Integration_V6\RMS_Integration\RMS_Integration\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\sork-\Desktop\RMS_Integration_V6\RMS_Integration\RMS_Integration\bin\Debug\cs\Microsoft.Build.resources.dll
+C:\Users\sork-\Desktop\RMS_Integration_V6\RMS_Integration\RMS_Integration\bin\Debug\de\Microsoft.Build.resources.dll
+C:\Users\sork-\Desktop\RMS_Integration_V6\RMS_Integration\RMS_Integration\bin\Debug\en\Microsoft.Build.resources.dll
+C:\Users\sork-\Desktop\RMS_Integration_V6\RMS_Integration\RMS_Integration\bin\Debug\es\Microsoft.Build.resources.dll
+C:\Users\sork-\Desktop\RMS_Integration_V6\RMS_Integration\RMS_Integration\bin\Debug\fr\Microsoft.Build.resources.dll
+C:\Users\sork-\Desktop\RMS_Integration_V6\RMS_Integration\RMS_Integration\bin\Debug\it\Microsoft.Build.resources.dll
+C:\Users\sork-\Desktop\RMS_Integration_V6\RMS_Integration\RMS_Integration\bin\Debug\ja\Microsoft.Build.resources.dll
+C:\Users\sork-\Desktop\RMS_Integration_V6\RMS_Integration\RMS_Integration\bin\Debug\ko\Microsoft.Build.resources.dll
+C:\Users\sork-\Desktop\RMS_Integration_V6\RMS_Integration\RMS_Integration\bin\Debug\pl\Microsoft.Build.resources.dll
+C:\Users\sork-\Desktop\RMS_Integration_V6\RMS_Integration\RMS_Integration\bin\Debug\pt-BR\Microsoft.Build.resources.dll
+C:\Users\sork-\Desktop\RMS_Integration_V6\RMS_Integration\RMS_Integration\bin\Debug\ru\Microsoft.Build.resources.dll
+C:\Users\sork-\Desktop\RMS_Integration_V6\RMS_Integration\RMS_Integration\bin\Debug\tr\Microsoft.Build.resources.dll
+C:\Users\sork-\Desktop\RMS_Integration_V6\RMS_Integration\RMS_Integration\bin\Debug\zh-Hans\Microsoft.Build.resources.dll
+C:\Users\sork-\Desktop\RMS_Integration_V6\RMS_Integration\RMS_Integration\bin\Debug\zh-Hant\Microsoft.Build.resources.dll
+C:\Users\sork-\Desktop\RMS_Integration_V6\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.csprojAssemblyReference.cache
+C:\Users\sork-\Desktop\RMS_Integration_V6\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.RMSApp.resources
+C:\Users\sork-\Desktop\RMS_Integration_V6\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.Properties.Resources.resources
+C:\Users\sork-\Desktop\RMS_Integration_V6\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.csproj.GenerateResource.cache
+C:\Users\sork-\Desktop\RMS_Integration_V6\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.csproj.CoreCompileInputs.cache
+C:\Users\sork-\Desktop\RMS_Integration_V6\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.csproj.CopyComplete
+C:\Users\sork-\Desktop\RMS_Integration_V6\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.exe
+C:\Users\sork-\Desktop\RMS_Integration_V6\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.pdb
+C:\Users\masorian\Desktop\RMS_Integration_V7\RMS_Integration_V6\RMS_Integration\RMS_Integration\bin\Debug\RMS_Integration.exe.config
+C:\Users\masorian\Desktop\RMS_Integration_V7\RMS_Integration_V6\RMS_Integration\RMS_Integration\bin\Debug\RMS_Integration.exe
+C:\Users\masorian\Desktop\RMS_Integration_V7\RMS_Integration_V6\RMS_Integration\RMS_Integration\bin\Debug\RMS_Integration.pdb
+C:\Users\masorian\Desktop\RMS_Integration_V7\RMS_Integration_V6\RMS_Integration\RMS_Integration\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+C:\Users\masorian\Desktop\RMS_Integration_V7\RMS_Integration_V6\RMS_Integration\RMS_Integration\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter.dll
+C:\Users\masorian\Desktop\RMS_Integration_V7\RMS_Integration_V6\RMS_Integration\RMS_Integration\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\masorian\Desktop\RMS_Integration_V7\RMS_Integration_V6\RMS_Integration\RMS_Integration\bin\Debug\Microsoft.Build.dll
+C:\Users\masorian\Desktop\RMS_Integration_V7\RMS_Integration_V6\RMS_Integration\RMS_Integration\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\masorian\Desktop\RMS_Integration_V7\RMS_Integration_V6\RMS_Integration\RMS_Integration\bin\Debug\System.Collections.Immutable.dll
+C:\Users\masorian\Desktop\RMS_Integration_V7\RMS_Integration_V6\RMS_Integration\RMS_Integration\bin\Debug\System.IO.Compression.dll
+C:\Users\masorian\Desktop\RMS_Integration_V7\RMS_Integration_V6\RMS_Integration\RMS_Integration\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\masorian\Desktop\RMS_Integration_V7\RMS_Integration_V6\RMS_Integration\RMS_Integration\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\masorian\Desktop\RMS_Integration_V7\RMS_Integration_V6\RMS_Integration\RMS_Integration\bin\Debug\cs\Microsoft.Build.resources.dll
+C:\Users\masorian\Desktop\RMS_Integration_V7\RMS_Integration_V6\RMS_Integration\RMS_Integration\bin\Debug\de\Microsoft.Build.resources.dll
+C:\Users\masorian\Desktop\RMS_Integration_V7\RMS_Integration_V6\RMS_Integration\RMS_Integration\bin\Debug\en\Microsoft.Build.resources.dll
+C:\Users\masorian\Desktop\RMS_Integration_V7\RMS_Integration_V6\RMS_Integration\RMS_Integration\bin\Debug\es\Microsoft.Build.resources.dll
+C:\Users\masorian\Desktop\RMS_Integration_V7\RMS_Integration_V6\RMS_Integration\RMS_Integration\bin\Debug\fr\Microsoft.Build.resources.dll
+C:\Users\masorian\Desktop\RMS_Integration_V7\RMS_Integration_V6\RMS_Integration\RMS_Integration\bin\Debug\it\Microsoft.Build.resources.dll
+C:\Users\masorian\Desktop\RMS_Integration_V7\RMS_Integration_V6\RMS_Integration\RMS_Integration\bin\Debug\ja\Microsoft.Build.resources.dll
+C:\Users\masorian\Desktop\RMS_Integration_V7\RMS_Integration_V6\RMS_Integration\RMS_Integration\bin\Debug\ko\Microsoft.Build.resources.dll
+C:\Users\masorian\Desktop\RMS_Integration_V7\RMS_Integration_V6\RMS_Integration\RMS_Integration\bin\Debug\pl\Microsoft.Build.resources.dll
+C:\Users\masorian\Desktop\RMS_Integration_V7\RMS_Integration_V6\RMS_Integration\RMS_Integration\bin\Debug\pt-BR\Microsoft.Build.resources.dll
+C:\Users\masorian\Desktop\RMS_Integration_V7\RMS_Integration_V6\RMS_Integration\RMS_Integration\bin\Debug\ru\Microsoft.Build.resources.dll
+C:\Users\masorian\Desktop\RMS_Integration_V7\RMS_Integration_V6\RMS_Integration\RMS_Integration\bin\Debug\tr\Microsoft.Build.resources.dll
+C:\Users\masorian\Desktop\RMS_Integration_V7\RMS_Integration_V6\RMS_Integration\RMS_Integration\bin\Debug\zh-Hans\Microsoft.Build.resources.dll
+C:\Users\masorian\Desktop\RMS_Integration_V7\RMS_Integration_V6\RMS_Integration\RMS_Integration\bin\Debug\zh-Hant\Microsoft.Build.resources.dll
+C:\Users\masorian\Desktop\RMS_Integration_V7\RMS_Integration_V6\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.csprojAssemblyReference.cache
+C:\Users\masorian\Desktop\RMS_Integration_V7\RMS_Integration_V6\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.RMSApp.resources
+C:\Users\masorian\Desktop\RMS_Integration_V7\RMS_Integration_V6\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.Properties.Resources.resources
+C:\Users\masorian\Desktop\RMS_Integration_V7\RMS_Integration_V6\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.csproj.GenerateResource.cache
+C:\Users\masorian\Desktop\RMS_Integration_V7\RMS_Integration_V6\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.csproj.CoreCompileInputs.cache
+C:\Users\masorian\Desktop\RMS_Integration_V7\RMS_Integration_V6\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.csproj.CopyComplete
+C:\Users\masorian\Desktop\RMS_Integration_V7\RMS_Integration_V6\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.exe
+C:\Users\masorian\Desktop\RMS_Integration_V7\RMS_Integration_V6\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.pdb
+C:\Users\sork-\Desktop\RMS_Integration_V8\RMS_Integration_V8\RMS_Integration\RMS_Integration\bin\Debug\RMS_Integration.exe.config
+C:\Users\sork-\Desktop\RMS_Integration_V8\RMS_Integration_V8\RMS_Integration\RMS_Integration\bin\Debug\RMS_Integration.exe
+C:\Users\sork-\Desktop\RMS_Integration_V8\RMS_Integration_V8\RMS_Integration\RMS_Integration\bin\Debug\RMS_Integration.pdb
+C:\Users\sork-\Desktop\RMS_Integration_V8\RMS_Integration_V8\RMS_Integration\RMS_Integration\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+C:\Users\sork-\Desktop\RMS_Integration_V8\RMS_Integration_V8\RMS_Integration\RMS_Integration\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter.dll
+C:\Users\sork-\Desktop\RMS_Integration_V8\RMS_Integration_V8\RMS_Integration\RMS_Integration\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\sork-\Desktop\RMS_Integration_V8\RMS_Integration_V8\RMS_Integration\RMS_Integration\bin\Debug\Microsoft.Build.dll
+C:\Users\sork-\Desktop\RMS_Integration_V8\RMS_Integration_V8\RMS_Integration\RMS_Integration\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\sork-\Desktop\RMS_Integration_V8\RMS_Integration_V8\RMS_Integration\RMS_Integration\bin\Debug\System.Collections.Immutable.dll
+C:\Users\sork-\Desktop\RMS_Integration_V8\RMS_Integration_V8\RMS_Integration\RMS_Integration\bin\Debug\System.IO.Compression.dll
+C:\Users\sork-\Desktop\RMS_Integration_V8\RMS_Integration_V8\RMS_Integration\RMS_Integration\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\sork-\Desktop\RMS_Integration_V8\RMS_Integration_V8\RMS_Integration\RMS_Integration\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\sork-\Desktop\RMS_Integration_V8\RMS_Integration_V8\RMS_Integration\RMS_Integration\bin\Debug\cs\Microsoft.Build.resources.dll
+C:\Users\sork-\Desktop\RMS_Integration_V8\RMS_Integration_V8\RMS_Integration\RMS_Integration\bin\Debug\de\Microsoft.Build.resources.dll
+C:\Users\sork-\Desktop\RMS_Integration_V8\RMS_Integration_V8\RMS_Integration\RMS_Integration\bin\Debug\en\Microsoft.Build.resources.dll
+C:\Users\sork-\Desktop\RMS_Integration_V8\RMS_Integration_V8\RMS_Integration\RMS_Integration\bin\Debug\es\Microsoft.Build.resources.dll
+C:\Users\sork-\Desktop\RMS_Integration_V8\RMS_Integration_V8\RMS_Integration\RMS_Integration\bin\Debug\fr\Microsoft.Build.resources.dll
+C:\Users\sork-\Desktop\RMS_Integration_V8\RMS_Integration_V8\RMS_Integration\RMS_Integration\bin\Debug\it\Microsoft.Build.resources.dll
+C:\Users\sork-\Desktop\RMS_Integration_V8\RMS_Integration_V8\RMS_Integration\RMS_Integration\bin\Debug\ja\Microsoft.Build.resources.dll
+C:\Users\sork-\Desktop\RMS_Integration_V8\RMS_Integration_V8\RMS_Integration\RMS_Integration\bin\Debug\ko\Microsoft.Build.resources.dll
+C:\Users\sork-\Desktop\RMS_Integration_V8\RMS_Integration_V8\RMS_Integration\RMS_Integration\bin\Debug\pl\Microsoft.Build.resources.dll
+C:\Users\sork-\Desktop\RMS_Integration_V8\RMS_Integration_V8\RMS_Integration\RMS_Integration\bin\Debug\pt-BR\Microsoft.Build.resources.dll
+C:\Users\sork-\Desktop\RMS_Integration_V8\RMS_Integration_V8\RMS_Integration\RMS_Integration\bin\Debug\ru\Microsoft.Build.resources.dll
+C:\Users\sork-\Desktop\RMS_Integration_V8\RMS_Integration_V8\RMS_Integration\RMS_Integration\bin\Debug\tr\Microsoft.Build.resources.dll
+C:\Users\sork-\Desktop\RMS_Integration_V8\RMS_Integration_V8\RMS_Integration\RMS_Integration\bin\Debug\zh-Hans\Microsoft.Build.resources.dll
+C:\Users\sork-\Desktop\RMS_Integration_V8\RMS_Integration_V8\RMS_Integration\RMS_Integration\bin\Debug\zh-Hant\Microsoft.Build.resources.dll
+C:\Users\sork-\Desktop\RMS_Integration_V8\RMS_Integration_V8\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.csprojAssemblyReference.cache
+C:\Users\sork-\Desktop\RMS_Integration_V8\RMS_Integration_V8\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.RMSApp.resources
+C:\Users\sork-\Desktop\RMS_Integration_V8\RMS_Integration_V8\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.Properties.Resources.resources
+C:\Users\sork-\Desktop\RMS_Integration_V8\RMS_Integration_V8\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.csproj.GenerateResource.cache
+C:\Users\sork-\Desktop\RMS_Integration_V8\RMS_Integration_V8\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.csproj.CoreCompileInputs.cache
+C:\Users\sork-\Desktop\RMS_Integration_V8\RMS_Integration_V8\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.csproj.CopyComplete
+C:\Users\sork-\Desktop\RMS_Integration_V8\RMS_Integration_V8\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.exe
+C:\Users\sork-\Desktop\RMS_Integration_V8\RMS_Integration_V8\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.pdb
+C:\Users\sork-\Desktop\RMS_Integration_V8\RMS_Integration_V8\RMS_Integration\RMS_Integration\bin\Debug\Series_Database.mdf
+C:\Users\sork-\Desktop\RMS_Integration_V8\RMS_Integration_V8\RMS_Integration\RMS_Integration\bin\Debug\Series_Database_log.ldf
+C:\Users\masorian\Desktop\RMS_Integration_V9\RMS_Integration_V9\RMS_Integration\RMS_Integration\bin\Debug\Series_Database.mdf
+C:\Users\masorian\Desktop\RMS_Integration_V9\RMS_Integration_V9\RMS_Integration\RMS_Integration\bin\Debug\Series_Database_log.ldf
+C:\Users\masorian\Desktop\RMS_Integration_V9\RMS_Integration_V9\RMS_Integration\RMS_Integration\bin\Debug\RMS_Integration.exe.config
+C:\Users\masorian\Desktop\RMS_Integration_V9\RMS_Integration_V9\RMS_Integration\RMS_Integration\bin\Debug\RMS_Integration.exe
+C:\Users\masorian\Desktop\RMS_Integration_V9\RMS_Integration_V9\RMS_Integration\RMS_Integration\bin\Debug\RMS_Integration.pdb
+C:\Users\masorian\Desktop\RMS_Integration_V9\RMS_Integration_V9\RMS_Integration\RMS_Integration\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+C:\Users\masorian\Desktop\RMS_Integration_V9\RMS_Integration_V9\RMS_Integration\RMS_Integration\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter.dll
+C:\Users\masorian\Desktop\RMS_Integration_V9\RMS_Integration_V9\RMS_Integration\RMS_Integration\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\masorian\Desktop\RMS_Integration_V9\RMS_Integration_V9\RMS_Integration\RMS_Integration\bin\Debug\Microsoft.Build.dll
+C:\Users\masorian\Desktop\RMS_Integration_V9\RMS_Integration_V9\RMS_Integration\RMS_Integration\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\masorian\Desktop\RMS_Integration_V9\RMS_Integration_V9\RMS_Integration\RMS_Integration\bin\Debug\System.Collections.Immutable.dll
+C:\Users\masorian\Desktop\RMS_Integration_V9\RMS_Integration_V9\RMS_Integration\RMS_Integration\bin\Debug\System.IO.Compression.dll
+C:\Users\masorian\Desktop\RMS_Integration_V9\RMS_Integration_V9\RMS_Integration\RMS_Integration\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\masorian\Desktop\RMS_Integration_V9\RMS_Integration_V9\RMS_Integration\RMS_Integration\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\masorian\Desktop\RMS_Integration_V9\RMS_Integration_V9\RMS_Integration\RMS_Integration\bin\Debug\cs\Microsoft.Build.resources.dll
+C:\Users\masorian\Desktop\RMS_Integration_V9\RMS_Integration_V9\RMS_Integration\RMS_Integration\bin\Debug\de\Microsoft.Build.resources.dll
+C:\Users\masorian\Desktop\RMS_Integration_V9\RMS_Integration_V9\RMS_Integration\RMS_Integration\bin\Debug\en\Microsoft.Build.resources.dll
+C:\Users\masorian\Desktop\RMS_Integration_V9\RMS_Integration_V9\RMS_Integration\RMS_Integration\bin\Debug\es\Microsoft.Build.resources.dll
+C:\Users\masorian\Desktop\RMS_Integration_V9\RMS_Integration_V9\RMS_Integration\RMS_Integration\bin\Debug\fr\Microsoft.Build.resources.dll
+C:\Users\masorian\Desktop\RMS_Integration_V9\RMS_Integration_V9\RMS_Integration\RMS_Integration\bin\Debug\it\Microsoft.Build.resources.dll
+C:\Users\masorian\Desktop\RMS_Integration_V9\RMS_Integration_V9\RMS_Integration\RMS_Integration\bin\Debug\ja\Microsoft.Build.resources.dll
+C:\Users\masorian\Desktop\RMS_Integration_V9\RMS_Integration_V9\RMS_Integration\RMS_Integration\bin\Debug\ko\Microsoft.Build.resources.dll
+C:\Users\masorian\Desktop\RMS_Integration_V9\RMS_Integration_V9\RMS_Integration\RMS_Integration\bin\Debug\pl\Microsoft.Build.resources.dll
+C:\Users\masorian\Desktop\RMS_Integration_V9\RMS_Integration_V9\RMS_Integration\RMS_Integration\bin\Debug\pt-BR\Microsoft.Build.resources.dll
+C:\Users\masorian\Desktop\RMS_Integration_V9\RMS_Integration_V9\RMS_Integration\RMS_Integration\bin\Debug\ru\Microsoft.Build.resources.dll
+C:\Users\masorian\Desktop\RMS_Integration_V9\RMS_Integration_V9\RMS_Integration\RMS_Integration\bin\Debug\tr\Microsoft.Build.resources.dll
+C:\Users\masorian\Desktop\RMS_Integration_V9\RMS_Integration_V9\RMS_Integration\RMS_Integration\bin\Debug\zh-Hans\Microsoft.Build.resources.dll
+C:\Users\masorian\Desktop\RMS_Integration_V9\RMS_Integration_V9\RMS_Integration\RMS_Integration\bin\Debug\zh-Hant\Microsoft.Build.resources.dll
+C:\Users\masorian\Desktop\RMS_Integration_V9\RMS_Integration_V9\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.csprojAssemblyReference.cache
+C:\Users\masorian\Desktop\RMS_Integration_V9\RMS_Integration_V9\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.RMSApp.resources
+C:\Users\masorian\Desktop\RMS_Integration_V9\RMS_Integration_V9\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.Properties.Resources.resources
+C:\Users\masorian\Desktop\RMS_Integration_V9\RMS_Integration_V9\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.csproj.GenerateResource.cache
+C:\Users\masorian\Desktop\RMS_Integration_V9\RMS_Integration_V9\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.csproj.CoreCompileInputs.cache
+C:\Users\masorian\Desktop\RMS_Integration_V9\RMS_Integration_V9\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.csproj.CopyComplete
+C:\Users\masorian\Desktop\RMS_Integration_V9\RMS_Integration_V9\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.exe
+C:\Users\masorian\Desktop\RMS_Integration_V9\RMS_Integration_V9\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.pdb
+C:\Users\Mario Soriano\Documents\RMS_Integration_V10\RMS_Integration_V10\RMS_Integration\RMS_Integration\bin\Debug\Series_Database.mdf
+C:\Users\Mario Soriano\Documents\RMS_Integration_V10\RMS_Integration_V10\RMS_Integration\RMS_Integration\bin\Debug\Series_Database_log.ldf
+C:\Users\Mario Soriano\Documents\RMS_Integration_V10\RMS_Integration_V10\RMS_Integration\RMS_Integration\bin\Debug\RMS_Integration.exe.config
+C:\Users\Mario Soriano\Documents\RMS_Integration_V10\RMS_Integration_V10\RMS_Integration\RMS_Integration\bin\Debug\RMS_Integration.exe
+C:\Users\Mario Soriano\Documents\RMS_Integration_V10\RMS_Integration_V10\RMS_Integration\RMS_Integration\bin\Debug\RMS_Integration.pdb
+C:\Users\Mario Soriano\Documents\RMS_Integration_V10\RMS_Integration_V10\RMS_Integration\RMS_Integration\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V10\RMS_Integration_V10\RMS_Integration\RMS_Integration\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V10\RMS_Integration_V10\RMS_Integration\RMS_Integration\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V10\RMS_Integration_V10\RMS_Integration\RMS_Integration\bin\Debug\Microsoft.Build.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V10\RMS_Integration_V10\RMS_Integration\RMS_Integration\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V10\RMS_Integration_V10\RMS_Integration\RMS_Integration\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V10\RMS_Integration_V10\RMS_Integration\RMS_Integration\bin\Debug\System.IO.Compression.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V10\RMS_Integration_V10\RMS_Integration\RMS_Integration\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V10\RMS_Integration_V10\RMS_Integration\RMS_Integration\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V10\RMS_Integration_V10\RMS_Integration\RMS_Integration\bin\Debug\cs\Microsoft.Build.resources.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V10\RMS_Integration_V10\RMS_Integration\RMS_Integration\bin\Debug\de\Microsoft.Build.resources.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V10\RMS_Integration_V10\RMS_Integration\RMS_Integration\bin\Debug\en\Microsoft.Build.resources.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V10\RMS_Integration_V10\RMS_Integration\RMS_Integration\bin\Debug\es\Microsoft.Build.resources.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V10\RMS_Integration_V10\RMS_Integration\RMS_Integration\bin\Debug\fr\Microsoft.Build.resources.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V10\RMS_Integration_V10\RMS_Integration\RMS_Integration\bin\Debug\it\Microsoft.Build.resources.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V10\RMS_Integration_V10\RMS_Integration\RMS_Integration\bin\Debug\ja\Microsoft.Build.resources.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V10\RMS_Integration_V10\RMS_Integration\RMS_Integration\bin\Debug\ko\Microsoft.Build.resources.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V10\RMS_Integration_V10\RMS_Integration\RMS_Integration\bin\Debug\pl\Microsoft.Build.resources.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V10\RMS_Integration_V10\RMS_Integration\RMS_Integration\bin\Debug\pt-BR\Microsoft.Build.resources.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V10\RMS_Integration_V10\RMS_Integration\RMS_Integration\bin\Debug\ru\Microsoft.Build.resources.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V10\RMS_Integration_V10\RMS_Integration\RMS_Integration\bin\Debug\tr\Microsoft.Build.resources.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V10\RMS_Integration_V10\RMS_Integration\RMS_Integration\bin\Debug\zh-Hans\Microsoft.Build.resources.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V10\RMS_Integration_V10\RMS_Integration\RMS_Integration\bin\Debug\zh-Hant\Microsoft.Build.resources.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V10\RMS_Integration_V10\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.csprojAssemblyReference.cache
+C:\Users\Mario Soriano\Documents\RMS_Integration_V10\RMS_Integration_V10\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.RMSApp.resources
+C:\Users\Mario Soriano\Documents\RMS_Integration_V10\RMS_Integration_V10\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.Properties.Resources.resources
+C:\Users\Mario Soriano\Documents\RMS_Integration_V10\RMS_Integration_V10\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.csproj.GenerateResource.cache
+C:\Users\Mario Soriano\Documents\RMS_Integration_V10\RMS_Integration_V10\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.csproj.CoreCompileInputs.cache
+C:\Users\Mario Soriano\Documents\RMS_Integration_V10\RMS_Integration_V10\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.csproj.CopyComplete
+C:\Users\Mario Soriano\Documents\RMS_Integration_V10\RMS_Integration_V10\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.exe
+C:\Users\Mario Soriano\Documents\RMS_Integration_V10\RMS_Integration_V10\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.pdb
+C:\Users\masorian\Desktop\RMS_Integration_V11\RMS_Integration\RMS_Integration\bin\Debug\Series_Database.mdf
+C:\Users\masorian\Desktop\RMS_Integration_V11\RMS_Integration\RMS_Integration\bin\Debug\Series_Database_log.ldf
+C:\Users\masorian\Desktop\RMS_Integration_V11\RMS_Integration\RMS_Integration\bin\Debug\RMS_Integration.exe.config
+C:\Users\masorian\Desktop\RMS_Integration_V11\RMS_Integration\RMS_Integration\bin\Debug\RMS_Integration.exe
+C:\Users\masorian\Desktop\RMS_Integration_V11\RMS_Integration\RMS_Integration\bin\Debug\RMS_Integration.pdb
+C:\Users\masorian\Desktop\RMS_Integration_V11\RMS_Integration\RMS_Integration\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+C:\Users\masorian\Desktop\RMS_Integration_V11\RMS_Integration\RMS_Integration\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter.dll
+C:\Users\masorian\Desktop\RMS_Integration_V11\RMS_Integration\RMS_Integration\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\masorian\Desktop\RMS_Integration_V11\RMS_Integration\RMS_Integration\bin\Debug\Microsoft.Build.dll
+C:\Users\masorian\Desktop\RMS_Integration_V11\RMS_Integration\RMS_Integration\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\masorian\Desktop\RMS_Integration_V11\RMS_Integration\RMS_Integration\bin\Debug\System.Collections.Immutable.dll
+C:\Users\masorian\Desktop\RMS_Integration_V11\RMS_Integration\RMS_Integration\bin\Debug\System.IO.Compression.dll
+C:\Users\masorian\Desktop\RMS_Integration_V11\RMS_Integration\RMS_Integration\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\masorian\Desktop\RMS_Integration_V11\RMS_Integration\RMS_Integration\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\masorian\Desktop\RMS_Integration_V11\RMS_Integration\RMS_Integration\bin\Debug\cs\Microsoft.Build.resources.dll
+C:\Users\masorian\Desktop\RMS_Integration_V11\RMS_Integration\RMS_Integration\bin\Debug\de\Microsoft.Build.resources.dll
+C:\Users\masorian\Desktop\RMS_Integration_V11\RMS_Integration\RMS_Integration\bin\Debug\en\Microsoft.Build.resources.dll
+C:\Users\masorian\Desktop\RMS_Integration_V11\RMS_Integration\RMS_Integration\bin\Debug\es\Microsoft.Build.resources.dll
+C:\Users\masorian\Desktop\RMS_Integration_V11\RMS_Integration\RMS_Integration\bin\Debug\fr\Microsoft.Build.resources.dll
+C:\Users\masorian\Desktop\RMS_Integration_V11\RMS_Integration\RMS_Integration\bin\Debug\it\Microsoft.Build.resources.dll
+C:\Users\masorian\Desktop\RMS_Integration_V11\RMS_Integration\RMS_Integration\bin\Debug\ja\Microsoft.Build.resources.dll
+C:\Users\masorian\Desktop\RMS_Integration_V11\RMS_Integration\RMS_Integration\bin\Debug\ko\Microsoft.Build.resources.dll
+C:\Users\masorian\Desktop\RMS_Integration_V11\RMS_Integration\RMS_Integration\bin\Debug\pl\Microsoft.Build.resources.dll
+C:\Users\masorian\Desktop\RMS_Integration_V11\RMS_Integration\RMS_Integration\bin\Debug\pt-BR\Microsoft.Build.resources.dll
+C:\Users\masorian\Desktop\RMS_Integration_V11\RMS_Integration\RMS_Integration\bin\Debug\ru\Microsoft.Build.resources.dll
+C:\Users\masorian\Desktop\RMS_Integration_V11\RMS_Integration\RMS_Integration\bin\Debug\tr\Microsoft.Build.resources.dll
+C:\Users\masorian\Desktop\RMS_Integration_V11\RMS_Integration\RMS_Integration\bin\Debug\zh-Hans\Microsoft.Build.resources.dll
+C:\Users\masorian\Desktop\RMS_Integration_V11\RMS_Integration\RMS_Integration\bin\Debug\zh-Hant\Microsoft.Build.resources.dll
+C:\Users\masorian\Desktop\RMS_Integration_V11\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.csprojAssemblyReference.cache
+C:\Users\masorian\Desktop\RMS_Integration_V11\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.RMSApp.resources
+C:\Users\masorian\Desktop\RMS_Integration_V11\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.Properties.Resources.resources
+C:\Users\masorian\Desktop\RMS_Integration_V11\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.csproj.GenerateResource.cache
+C:\Users\masorian\Desktop\RMS_Integration_V11\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.csproj.CoreCompileInputs.cache
+C:\Users\masorian\Desktop\RMS_Integration_V11\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.csproj.CopyComplete
+C:\Users\masorian\Desktop\RMS_Integration_V11\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.exe
+C:\Users\masorian\Desktop\RMS_Integration_V11\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.pdb
+C:\Users\Mario Soriano\Desktop\Desktop\RMS_Integration_V12\RMS_Integration\RMS_Integration\bin\Debug\Series_Database.mdf
+C:\Users\Mario Soriano\Desktop\Desktop\RMS_Integration_V12\RMS_Integration\RMS_Integration\bin\Debug\Series_Database_log.ldf
+C:\Users\Mario Soriano\Desktop\Desktop\RMS_Integration_V12\RMS_Integration\RMS_Integration\bin\Debug\RMS_Integration.exe.config
+C:\Users\Mario Soriano\Desktop\Desktop\RMS_Integration_V12\RMS_Integration\RMS_Integration\bin\Debug\RMS_Integration.exe
+C:\Users\Mario Soriano\Desktop\Desktop\RMS_Integration_V12\RMS_Integration\RMS_Integration\bin\Debug\RMS_Integration.pdb
+C:\Users\Mario Soriano\Desktop\Desktop\RMS_Integration_V12\RMS_Integration\RMS_Integration\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+C:\Users\Mario Soriano\Desktop\Desktop\RMS_Integration_V12\RMS_Integration\RMS_Integration\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter.dll
+C:\Users\Mario Soriano\Desktop\Desktop\RMS_Integration_V12\RMS_Integration\RMS_Integration\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Mario Soriano\Desktop\Desktop\RMS_Integration_V12\RMS_Integration\RMS_Integration\bin\Debug\Microsoft.Build.dll
+C:\Users\Mario Soriano\Desktop\Desktop\RMS_Integration_V12\RMS_Integration\RMS_Integration\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\Mario Soriano\Desktop\Desktop\RMS_Integration_V12\RMS_Integration\RMS_Integration\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Mario Soriano\Desktop\Desktop\RMS_Integration_V12\RMS_Integration\RMS_Integration\bin\Debug\System.IO.Compression.dll
+C:\Users\Mario Soriano\Desktop\Desktop\RMS_Integration_V12\RMS_Integration\RMS_Integration\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\Mario Soriano\Desktop\Desktop\RMS_Integration_V12\RMS_Integration\RMS_Integration\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Mario Soriano\Desktop\Desktop\RMS_Integration_V12\RMS_Integration\RMS_Integration\bin\Debug\cs\Microsoft.Build.resources.dll
+C:\Users\Mario Soriano\Desktop\Desktop\RMS_Integration_V12\RMS_Integration\RMS_Integration\bin\Debug\de\Microsoft.Build.resources.dll
+C:\Users\Mario Soriano\Desktop\Desktop\RMS_Integration_V12\RMS_Integration\RMS_Integration\bin\Debug\en\Microsoft.Build.resources.dll
+C:\Users\Mario Soriano\Desktop\Desktop\RMS_Integration_V12\RMS_Integration\RMS_Integration\bin\Debug\es\Microsoft.Build.resources.dll
+C:\Users\Mario Soriano\Desktop\Desktop\RMS_Integration_V12\RMS_Integration\RMS_Integration\bin\Debug\fr\Microsoft.Build.resources.dll
+C:\Users\Mario Soriano\Desktop\Desktop\RMS_Integration_V12\RMS_Integration\RMS_Integration\bin\Debug\it\Microsoft.Build.resources.dll
+C:\Users\Mario Soriano\Desktop\Desktop\RMS_Integration_V12\RMS_Integration\RMS_Integration\bin\Debug\ja\Microsoft.Build.resources.dll
+C:\Users\Mario Soriano\Desktop\Desktop\RMS_Integration_V12\RMS_Integration\RMS_Integration\bin\Debug\ko\Microsoft.Build.resources.dll
+C:\Users\Mario Soriano\Desktop\Desktop\RMS_Integration_V12\RMS_Integration\RMS_Integration\bin\Debug\pl\Microsoft.Build.resources.dll
+C:\Users\Mario Soriano\Desktop\Desktop\RMS_Integration_V12\RMS_Integration\RMS_Integration\bin\Debug\pt-BR\Microsoft.Build.resources.dll
+C:\Users\Mario Soriano\Desktop\Desktop\RMS_Integration_V12\RMS_Integration\RMS_Integration\bin\Debug\ru\Microsoft.Build.resources.dll
+C:\Users\Mario Soriano\Desktop\Desktop\RMS_Integration_V12\RMS_Integration\RMS_Integration\bin\Debug\tr\Microsoft.Build.resources.dll
+C:\Users\Mario Soriano\Desktop\Desktop\RMS_Integration_V12\RMS_Integration\RMS_Integration\bin\Debug\zh-Hans\Microsoft.Build.resources.dll
+C:\Users\Mario Soriano\Desktop\Desktop\RMS_Integration_V12\RMS_Integration\RMS_Integration\bin\Debug\zh-Hant\Microsoft.Build.resources.dll
+C:\Users\Mario Soriano\Desktop\Desktop\RMS_Integration_V12\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.csprojAssemblyReference.cache
+C:\Users\Mario Soriano\Desktop\Desktop\RMS_Integration_V12\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.RMSApp.resources
+C:\Users\Mario Soriano\Desktop\Desktop\RMS_Integration_V12\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.Properties.Resources.resources
+C:\Users\Mario Soriano\Desktop\Desktop\RMS_Integration_V12\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.csproj.GenerateResource.cache
+C:\Users\Mario Soriano\Desktop\Desktop\RMS_Integration_V12\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.csproj.CoreCompileInputs.cache
+C:\Users\Mario Soriano\Desktop\Desktop\RMS_Integration_V12\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.csproj.CopyComplete
+C:\Users\Mario Soriano\Desktop\Desktop\RMS_Integration_V12\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.exe
+C:\Users\Mario Soriano\Desktop\Desktop\RMS_Integration_V12\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.pdb
+Y:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V13\RMS_Integration\RMS_Integration\bin\Debug\Series_Database.mdf
+Y:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V13\RMS_Integration\RMS_Integration\bin\Debug\Series_Database_log.ldf
+Y:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V13\RMS_Integration\RMS_Integration\bin\Debug\RMS_Integration.exe.config
+Y:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V13\RMS_Integration\RMS_Integration\bin\Debug\RMS_Integration.exe
+Y:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V13\RMS_Integration\RMS_Integration\bin\Debug\RMS_Integration.pdb
+Y:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V13\RMS_Integration\RMS_Integration\bin\Debug\CsvHelper.dll
+Y:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V13\RMS_Integration\RMS_Integration\bin\Debug\DiscreteLogics.TeaFiles.dll
+Y:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V13\RMS_Integration\RMS_Integration\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+Y:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V13\RMS_Integration\RMS_Integration\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter.dll
+Y:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V13\RMS_Integration\RMS_Integration\bin\Debug\Newtonsoft.Json.dll
+Y:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V13\RMS_Integration\RMS_Integration\bin\Debug\System.ValueTuple.dll
+Y:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V13\RMS_Integration\RMS_Integration\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+Y:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V13\RMS_Integration\RMS_Integration\bin\Debug\Microsoft.Build.dll
+Y:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V13\RMS_Integration\RMS_Integration\bin\Debug\Microsoft.Build.Framework.dll
+Y:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V13\RMS_Integration\RMS_Integration\bin\Debug\System.Collections.Immutable.dll
+Y:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V13\RMS_Integration\RMS_Integration\bin\Debug\System.IO.Compression.dll
+Y:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V13\RMS_Integration\RMS_Integration\bin\Debug\System.Threading.Tasks.Dataflow.dll
+Y:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V13\RMS_Integration\RMS_Integration\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+Y:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V13\RMS_Integration\RMS_Integration\bin\Debug\CsvHelper.xml
+Y:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V13\RMS_Integration\RMS_Integration\bin\Debug\DiscreteLogics.TeaFiles.xml
+Y:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V13\RMS_Integration\RMS_Integration\bin\Debug\Newtonsoft.Json.pdb
+Y:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V13\RMS_Integration\RMS_Integration\bin\Debug\Newtonsoft.Json.xml
+Y:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V13\RMS_Integration\RMS_Integration\bin\Debug\System.ValueTuple.xml
+Y:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V13\RMS_Integration\RMS_Integration\bin\Debug\cs\Microsoft.Build.resources.dll
+Y:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V13\RMS_Integration\RMS_Integration\bin\Debug\de\Microsoft.Build.resources.dll
+Y:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V13\RMS_Integration\RMS_Integration\bin\Debug\en\Microsoft.Build.resources.dll
+Y:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V13\RMS_Integration\RMS_Integration\bin\Debug\es\Microsoft.Build.resources.dll
+Y:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V13\RMS_Integration\RMS_Integration\bin\Debug\fr\Microsoft.Build.resources.dll
+Y:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V13\RMS_Integration\RMS_Integration\bin\Debug\it\Microsoft.Build.resources.dll
+Y:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V13\RMS_Integration\RMS_Integration\bin\Debug\ja\Microsoft.Build.resources.dll
+Y:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V13\RMS_Integration\RMS_Integration\bin\Debug\ko\Microsoft.Build.resources.dll
+Y:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V13\RMS_Integration\RMS_Integration\bin\Debug\pl\Microsoft.Build.resources.dll
+Y:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V13\RMS_Integration\RMS_Integration\bin\Debug\pt-BR\Microsoft.Build.resources.dll
+Y:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V13\RMS_Integration\RMS_Integration\bin\Debug\ru\Microsoft.Build.resources.dll
+Y:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V13\RMS_Integration\RMS_Integration\bin\Debug\tr\Microsoft.Build.resources.dll
+Y:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V13\RMS_Integration\RMS_Integration\bin\Debug\zh-Hans\Microsoft.Build.resources.dll
+Y:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V13\RMS_Integration\RMS_Integration\bin\Debug\zh-Hant\Microsoft.Build.resources.dll
+Y:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V13\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.csprojAssemblyReference.cache
+Y:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V13\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.RMSApp.resources
+Y:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V13\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.Properties.Resources.resources
+Y:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V13\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.csproj.GenerateResource.cache
+Y:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V13\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.csproj.CoreCompileInputs.cache
+Y:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V13\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.csproj.CopyComplete
+Y:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V13\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.exe
+Y:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V13\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.pdb
+G:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V13\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.csprojAssemblyReference.cache
+G:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V13\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.exe
+G:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V13\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.pdb
+C:\Users\masorian\Documents\RMS_Integration_V13\RMS_Integration\RMS_Integration\bin\Debug\Series_Database.mdf
+C:\Users\masorian\Documents\RMS_Integration_V13\RMS_Integration\RMS_Integration\bin\Debug\Series_Database_log.ldf
+C:\Users\masorian\Documents\RMS_Integration_V13\RMS_Integration\RMS_Integration\bin\Debug\RMS_Integration.exe.config
+C:\Users\masorian\Documents\RMS_Integration_V13\RMS_Integration\RMS_Integration\bin\Debug\RMS_Integration.exe
+C:\Users\masorian\Documents\RMS_Integration_V13\RMS_Integration\RMS_Integration\bin\Debug\RMS_Integration.pdb
+C:\Users\masorian\Documents\RMS_Integration_V13\RMS_Integration\RMS_Integration\bin\Debug\CsvHelper.dll
+C:\Users\masorian\Documents\RMS_Integration_V13\RMS_Integration\RMS_Integration\bin\Debug\DiscreteLogics.TeaFiles.dll
+C:\Users\masorian\Documents\RMS_Integration_V13\RMS_Integration\RMS_Integration\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+C:\Users\masorian\Documents\RMS_Integration_V13\RMS_Integration\RMS_Integration\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter.dll
+C:\Users\masorian\Documents\RMS_Integration_V13\RMS_Integration\RMS_Integration\bin\Debug\Newtonsoft.Json.dll
+C:\Users\masorian\Documents\RMS_Integration_V13\RMS_Integration\RMS_Integration\bin\Debug\System.ValueTuple.dll
+C:\Users\masorian\Documents\RMS_Integration_V13\RMS_Integration\RMS_Integration\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\masorian\Documents\RMS_Integration_V13\RMS_Integration\RMS_Integration\bin\Debug\Microsoft.Build.dll
+C:\Users\masorian\Documents\RMS_Integration_V13\RMS_Integration\RMS_Integration\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\masorian\Documents\RMS_Integration_V13\RMS_Integration\RMS_Integration\bin\Debug\System.Collections.Immutable.dll
+C:\Users\masorian\Documents\RMS_Integration_V13\RMS_Integration\RMS_Integration\bin\Debug\System.IO.Compression.dll
+C:\Users\masorian\Documents\RMS_Integration_V13\RMS_Integration\RMS_Integration\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\masorian\Documents\RMS_Integration_V13\RMS_Integration\RMS_Integration\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\masorian\Documents\RMS_Integration_V13\RMS_Integration\RMS_Integration\bin\Debug\CsvHelper.xml
+C:\Users\masorian\Documents\RMS_Integration_V13\RMS_Integration\RMS_Integration\bin\Debug\DiscreteLogics.TeaFiles.xml
+C:\Users\masorian\Documents\RMS_Integration_V13\RMS_Integration\RMS_Integration\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\masorian\Documents\RMS_Integration_V13\RMS_Integration\RMS_Integration\bin\Debug\Newtonsoft.Json.xml
+C:\Users\masorian\Documents\RMS_Integration_V13\RMS_Integration\RMS_Integration\bin\Debug\System.ValueTuple.xml
+C:\Users\masorian\Documents\RMS_Integration_V13\RMS_Integration\RMS_Integration\bin\Debug\cs\Microsoft.Build.resources.dll
+C:\Users\masorian\Documents\RMS_Integration_V13\RMS_Integration\RMS_Integration\bin\Debug\de\Microsoft.Build.resources.dll
+C:\Users\masorian\Documents\RMS_Integration_V13\RMS_Integration\RMS_Integration\bin\Debug\en\Microsoft.Build.resources.dll
+C:\Users\masorian\Documents\RMS_Integration_V13\RMS_Integration\RMS_Integration\bin\Debug\es\Microsoft.Build.resources.dll
+C:\Users\masorian\Documents\RMS_Integration_V13\RMS_Integration\RMS_Integration\bin\Debug\fr\Microsoft.Build.resources.dll
+C:\Users\masorian\Documents\RMS_Integration_V13\RMS_Integration\RMS_Integration\bin\Debug\it\Microsoft.Build.resources.dll
+C:\Users\masorian\Documents\RMS_Integration_V13\RMS_Integration\RMS_Integration\bin\Debug\ja\Microsoft.Build.resources.dll
+C:\Users\masorian\Documents\RMS_Integration_V13\RMS_Integration\RMS_Integration\bin\Debug\ko\Microsoft.Build.resources.dll
+C:\Users\masorian\Documents\RMS_Integration_V13\RMS_Integration\RMS_Integration\bin\Debug\pl\Microsoft.Build.resources.dll
+C:\Users\masorian\Documents\RMS_Integration_V13\RMS_Integration\RMS_Integration\bin\Debug\pt-BR\Microsoft.Build.resources.dll
+C:\Users\masorian\Documents\RMS_Integration_V13\RMS_Integration\RMS_Integration\bin\Debug\ru\Microsoft.Build.resources.dll
+C:\Users\masorian\Documents\RMS_Integration_V13\RMS_Integration\RMS_Integration\bin\Debug\tr\Microsoft.Build.resources.dll
+C:\Users\masorian\Documents\RMS_Integration_V13\RMS_Integration\RMS_Integration\bin\Debug\zh-Hans\Microsoft.Build.resources.dll
+C:\Users\masorian\Documents\RMS_Integration_V13\RMS_Integration\RMS_Integration\bin\Debug\zh-Hant\Microsoft.Build.resources.dll
+C:\Users\masorian\Documents\RMS_Integration_V13\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.csprojAssemblyReference.cache
+C:\Users\masorian\Documents\RMS_Integration_V13\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.RMSApp.resources
+C:\Users\masorian\Documents\RMS_Integration_V13\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.Properties.Resources.resources
+C:\Users\masorian\Documents\RMS_Integration_V13\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.csproj.GenerateResource.cache
+C:\Users\masorian\Documents\RMS_Integration_V13\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.csproj.CoreCompileInputs.cache
+C:\Users\masorian\Documents\RMS_Integration_V13\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.csproj.CopyComplete
+C:\Users\masorian\Documents\RMS_Integration_V13\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.exe
+C:\Users\masorian\Documents\RMS_Integration_V13\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.pdb
+C:\Users\masorian\Documents\RMS_Integration_V14\RMS_Integration\RMS_Integration\bin\Debug\Series_Database.mdf
+C:\Users\masorian\Documents\RMS_Integration_V14\RMS_Integration\RMS_Integration\bin\Debug\Series_Database_log.ldf
+C:\Users\masorian\Documents\RMS_Integration_V14\RMS_Integration\RMS_Integration\bin\Debug\RMS_Integration.exe.config
+C:\Users\masorian\Documents\RMS_Integration_V14\RMS_Integration\RMS_Integration\bin\Debug\RMS_Integration.exe
+C:\Users\masorian\Documents\RMS_Integration_V14\RMS_Integration\RMS_Integration\bin\Debug\RMS_Integration.pdb
+C:\Users\masorian\Documents\RMS_Integration_V14\RMS_Integration\RMS_Integration\bin\Debug\CsvHelper.dll
+C:\Users\masorian\Documents\RMS_Integration_V14\RMS_Integration\RMS_Integration\bin\Debug\DiscreteLogics.TeaFiles.dll
+C:\Users\masorian\Documents\RMS_Integration_V14\RMS_Integration\RMS_Integration\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+C:\Users\masorian\Documents\RMS_Integration_V14\RMS_Integration\RMS_Integration\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter.dll
+C:\Users\masorian\Documents\RMS_Integration_V14\RMS_Integration\RMS_Integration\bin\Debug\Newtonsoft.Json.dll
+C:\Users\masorian\Documents\RMS_Integration_V14\RMS_Integration\RMS_Integration\bin\Debug\System.ValueTuple.dll
+C:\Users\masorian\Documents\RMS_Integration_V14\RMS_Integration\RMS_Integration\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\masorian\Documents\RMS_Integration_V14\RMS_Integration\RMS_Integration\bin\Debug\Microsoft.Build.dll
+C:\Users\masorian\Documents\RMS_Integration_V14\RMS_Integration\RMS_Integration\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\masorian\Documents\RMS_Integration_V14\RMS_Integration\RMS_Integration\bin\Debug\System.Collections.Immutable.dll
+C:\Users\masorian\Documents\RMS_Integration_V14\RMS_Integration\RMS_Integration\bin\Debug\System.IO.Compression.dll
+C:\Users\masorian\Documents\RMS_Integration_V14\RMS_Integration\RMS_Integration\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\masorian\Documents\RMS_Integration_V14\RMS_Integration\RMS_Integration\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\masorian\Documents\RMS_Integration_V14\RMS_Integration\RMS_Integration\bin\Debug\CsvHelper.xml
+C:\Users\masorian\Documents\RMS_Integration_V14\RMS_Integration\RMS_Integration\bin\Debug\DiscreteLogics.TeaFiles.xml
+C:\Users\masorian\Documents\RMS_Integration_V14\RMS_Integration\RMS_Integration\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\masorian\Documents\RMS_Integration_V14\RMS_Integration\RMS_Integration\bin\Debug\Newtonsoft.Json.xml
+C:\Users\masorian\Documents\RMS_Integration_V14\RMS_Integration\RMS_Integration\bin\Debug\System.ValueTuple.xml
+C:\Users\masorian\Documents\RMS_Integration_V14\RMS_Integration\RMS_Integration\bin\Debug\cs\Microsoft.Build.resources.dll
+C:\Users\masorian\Documents\RMS_Integration_V14\RMS_Integration\RMS_Integration\bin\Debug\de\Microsoft.Build.resources.dll
+C:\Users\masorian\Documents\RMS_Integration_V14\RMS_Integration\RMS_Integration\bin\Debug\en\Microsoft.Build.resources.dll
+C:\Users\masorian\Documents\RMS_Integration_V14\RMS_Integration\RMS_Integration\bin\Debug\es\Microsoft.Build.resources.dll
+C:\Users\masorian\Documents\RMS_Integration_V14\RMS_Integration\RMS_Integration\bin\Debug\fr\Microsoft.Build.resources.dll
+C:\Users\masorian\Documents\RMS_Integration_V14\RMS_Integration\RMS_Integration\bin\Debug\it\Microsoft.Build.resources.dll
+C:\Users\masorian\Documents\RMS_Integration_V14\RMS_Integration\RMS_Integration\bin\Debug\ja\Microsoft.Build.resources.dll
+C:\Users\masorian\Documents\RMS_Integration_V14\RMS_Integration\RMS_Integration\bin\Debug\ko\Microsoft.Build.resources.dll
+C:\Users\masorian\Documents\RMS_Integration_V14\RMS_Integration\RMS_Integration\bin\Debug\pl\Microsoft.Build.resources.dll
+C:\Users\masorian\Documents\RMS_Integration_V14\RMS_Integration\RMS_Integration\bin\Debug\pt-BR\Microsoft.Build.resources.dll
+C:\Users\masorian\Documents\RMS_Integration_V14\RMS_Integration\RMS_Integration\bin\Debug\ru\Microsoft.Build.resources.dll
+C:\Users\masorian\Documents\RMS_Integration_V14\RMS_Integration\RMS_Integration\bin\Debug\tr\Microsoft.Build.resources.dll
+C:\Users\masorian\Documents\RMS_Integration_V14\RMS_Integration\RMS_Integration\bin\Debug\zh-Hans\Microsoft.Build.resources.dll
+C:\Users\masorian\Documents\RMS_Integration_V14\RMS_Integration\RMS_Integration\bin\Debug\zh-Hant\Microsoft.Build.resources.dll
+C:\Users\masorian\Documents\RMS_Integration_V14\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.csprojAssemblyReference.cache
+C:\Users\masorian\Documents\RMS_Integration_V14\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.RMSApp.resources
+C:\Users\masorian\Documents\RMS_Integration_V14\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.Properties.Resources.resources
+C:\Users\masorian\Documents\RMS_Integration_V14\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.csproj.GenerateResource.cache
+C:\Users\masorian\Documents\RMS_Integration_V14\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.csproj.CoreCompileInputs.cache
+C:\Users\masorian\Documents\RMS_Integration_V14\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.csproj.CopyComplete
+C:\Users\masorian\Documents\RMS_Integration_V14\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.exe
+C:\Users\masorian\Documents\RMS_Integration_V14\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.pdb
+G:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V15\RMS_Integration_V15\RMS_Integration\RMS_Integration\bin\Debug\Series_Database.mdf
+G:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V15\RMS_Integration_V15\RMS_Integration\RMS_Integration\bin\Debug\Series_Database_log.ldf
+G:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V15\RMS_Integration_V15\RMS_Integration\RMS_Integration\bin\Debug\RMS_Integration.exe.config
+G:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V15\RMS_Integration_V15\RMS_Integration\RMS_Integration\bin\Debug\RMS_Integration.exe
+G:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V15\RMS_Integration_V15\RMS_Integration\RMS_Integration\bin\Debug\RMS_Integration.pdb
+G:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V15\RMS_Integration_V15\RMS_Integration\RMS_Integration\bin\Debug\CsvHelper.dll
+G:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V15\RMS_Integration_V15\RMS_Integration\RMS_Integration\bin\Debug\DiscreteLogics.TeaFiles.dll
+G:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V15\RMS_Integration_V15\RMS_Integration\RMS_Integration\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+G:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V15\RMS_Integration_V15\RMS_Integration\RMS_Integration\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter.dll
+G:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V15\RMS_Integration_V15\RMS_Integration\RMS_Integration\bin\Debug\Newtonsoft.Json.dll
+G:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V15\RMS_Integration_V15\RMS_Integration\RMS_Integration\bin\Debug\System.ValueTuple.dll
+G:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V15\RMS_Integration_V15\RMS_Integration\RMS_Integration\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+G:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V15\RMS_Integration_V15\RMS_Integration\RMS_Integration\bin\Debug\Microsoft.Build.dll
+G:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V15\RMS_Integration_V15\RMS_Integration\RMS_Integration\bin\Debug\Microsoft.Build.Framework.dll
+G:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V15\RMS_Integration_V15\RMS_Integration\RMS_Integration\bin\Debug\System.Collections.Immutable.dll
+G:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V15\RMS_Integration_V15\RMS_Integration\RMS_Integration\bin\Debug\System.IO.Compression.dll
+G:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V15\RMS_Integration_V15\RMS_Integration\RMS_Integration\bin\Debug\System.Threading.Tasks.Dataflow.dll
+G:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V15\RMS_Integration_V15\RMS_Integration\RMS_Integration\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+G:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V15\RMS_Integration_V15\RMS_Integration\RMS_Integration\bin\Debug\CsvHelper.xml
+G:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V15\RMS_Integration_V15\RMS_Integration\RMS_Integration\bin\Debug\DiscreteLogics.TeaFiles.xml
+G:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V15\RMS_Integration_V15\RMS_Integration\RMS_Integration\bin\Debug\Newtonsoft.Json.pdb
+G:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V15\RMS_Integration_V15\RMS_Integration\RMS_Integration\bin\Debug\Newtonsoft.Json.xml
+G:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V15\RMS_Integration_V15\RMS_Integration\RMS_Integration\bin\Debug\System.ValueTuple.xml
+G:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V15\RMS_Integration_V15\RMS_Integration\RMS_Integration\bin\Debug\cs\Microsoft.Build.resources.dll
+G:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V15\RMS_Integration_V15\RMS_Integration\RMS_Integration\bin\Debug\de\Microsoft.Build.resources.dll
+G:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V15\RMS_Integration_V15\RMS_Integration\RMS_Integration\bin\Debug\en\Microsoft.Build.resources.dll
+G:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V15\RMS_Integration_V15\RMS_Integration\RMS_Integration\bin\Debug\es\Microsoft.Build.resources.dll
+G:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V15\RMS_Integration_V15\RMS_Integration\RMS_Integration\bin\Debug\fr\Microsoft.Build.resources.dll
+G:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V15\RMS_Integration_V15\RMS_Integration\RMS_Integration\bin\Debug\it\Microsoft.Build.resources.dll
+G:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V15\RMS_Integration_V15\RMS_Integration\RMS_Integration\bin\Debug\ja\Microsoft.Build.resources.dll
+G:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V15\RMS_Integration_V15\RMS_Integration\RMS_Integration\bin\Debug\ko\Microsoft.Build.resources.dll
+G:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V15\RMS_Integration_V15\RMS_Integration\RMS_Integration\bin\Debug\pl\Microsoft.Build.resources.dll
+G:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V15\RMS_Integration_V15\RMS_Integration\RMS_Integration\bin\Debug\pt-BR\Microsoft.Build.resources.dll
+G:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V15\RMS_Integration_V15\RMS_Integration\RMS_Integration\bin\Debug\ru\Microsoft.Build.resources.dll
+G:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V15\RMS_Integration_V15\RMS_Integration\RMS_Integration\bin\Debug\tr\Microsoft.Build.resources.dll
+G:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V15\RMS_Integration_V15\RMS_Integration\RMS_Integration\bin\Debug\zh-Hans\Microsoft.Build.resources.dll
+G:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V15\RMS_Integration_V15\RMS_Integration\RMS_Integration\bin\Debug\zh-Hant\Microsoft.Build.resources.dll
+G:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V15\RMS_Integration_V15\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.csprojAssemblyReference.cache
+G:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V15\RMS_Integration_V15\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.RMSApp.resources
+G:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V15\RMS_Integration_V15\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.Properties.Resources.resources
+G:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V15\RMS_Integration_V15\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.csproj.GenerateResource.cache
+G:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V15\RMS_Integration_V15\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.csproj.CoreCompileInputs.cache
+G:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V15\RMS_Integration_V15\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.csproj.CopyComplete
+G:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V15\RMS_Integration_V15\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.exe
+G:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V15\RMS_Integration_V15\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.pdb
+Y:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V15\RMS_Integration_V15\RMS_Integration\RMS_Integration\bin\Debug\Series_Database.mdf
+Y:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V15\RMS_Integration_V15\RMS_Integration\RMS_Integration\bin\Debug\Series_Database_log.ldf
+Y:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V15\RMS_Integration_V15\RMS_Integration\RMS_Integration\bin\Debug\RMS_Integration.exe.config
+Y:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V15\RMS_Integration_V15\RMS_Integration\RMS_Integration\bin\Debug\RMS_Integration.exe
+Y:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V15\RMS_Integration_V15\RMS_Integration\RMS_Integration\bin\Debug\RMS_Integration.pdb
+Y:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V15\RMS_Integration_V15\RMS_Integration\RMS_Integration\bin\Debug\CsvHelper.dll
+Y:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V15\RMS_Integration_V15\RMS_Integration\RMS_Integration\bin\Debug\DiscreteLogics.TeaFiles.dll
+Y:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V15\RMS_Integration_V15\RMS_Integration\RMS_Integration\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+Y:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V15\RMS_Integration_V15\RMS_Integration\RMS_Integration\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter.dll
+Y:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V15\RMS_Integration_V15\RMS_Integration\RMS_Integration\bin\Debug\Newtonsoft.Json.dll
+Y:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V15\RMS_Integration_V15\RMS_Integration\RMS_Integration\bin\Debug\System.ValueTuple.dll
+Y:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V15\RMS_Integration_V15\RMS_Integration\RMS_Integration\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+Y:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V15\RMS_Integration_V15\RMS_Integration\RMS_Integration\bin\Debug\Microsoft.Build.dll
+Y:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V15\RMS_Integration_V15\RMS_Integration\RMS_Integration\bin\Debug\Microsoft.Build.Framework.dll
+Y:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V15\RMS_Integration_V15\RMS_Integration\RMS_Integration\bin\Debug\System.Collections.Immutable.dll
+Y:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V15\RMS_Integration_V15\RMS_Integration\RMS_Integration\bin\Debug\System.IO.Compression.dll
+Y:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V15\RMS_Integration_V15\RMS_Integration\RMS_Integration\bin\Debug\System.Threading.Tasks.Dataflow.dll
+Y:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V15\RMS_Integration_V15\RMS_Integration\RMS_Integration\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+Y:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V15\RMS_Integration_V15\RMS_Integration\RMS_Integration\bin\Debug\CsvHelper.xml
+Y:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V15\RMS_Integration_V15\RMS_Integration\RMS_Integration\bin\Debug\DiscreteLogics.TeaFiles.xml
+Y:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V15\RMS_Integration_V15\RMS_Integration\RMS_Integration\bin\Debug\Newtonsoft.Json.pdb
+Y:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V15\RMS_Integration_V15\RMS_Integration\RMS_Integration\bin\Debug\Newtonsoft.Json.xml
+Y:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V15\RMS_Integration_V15\RMS_Integration\RMS_Integration\bin\Debug\System.ValueTuple.xml
+Y:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V15\RMS_Integration_V15\RMS_Integration\RMS_Integration\bin\Debug\cs\Microsoft.Build.resources.dll
+Y:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V15\RMS_Integration_V15\RMS_Integration\RMS_Integration\bin\Debug\de\Microsoft.Build.resources.dll
+Y:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V15\RMS_Integration_V15\RMS_Integration\RMS_Integration\bin\Debug\en\Microsoft.Build.resources.dll
+Y:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V15\RMS_Integration_V15\RMS_Integration\RMS_Integration\bin\Debug\es\Microsoft.Build.resources.dll
+Y:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V15\RMS_Integration_V15\RMS_Integration\RMS_Integration\bin\Debug\fr\Microsoft.Build.resources.dll
+Y:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V15\RMS_Integration_V15\RMS_Integration\RMS_Integration\bin\Debug\it\Microsoft.Build.resources.dll
+Y:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V15\RMS_Integration_V15\RMS_Integration\RMS_Integration\bin\Debug\ja\Microsoft.Build.resources.dll
+Y:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V15\RMS_Integration_V15\RMS_Integration\RMS_Integration\bin\Debug\ko\Microsoft.Build.resources.dll
+Y:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V15\RMS_Integration_V15\RMS_Integration\RMS_Integration\bin\Debug\pl\Microsoft.Build.resources.dll
+Y:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V15\RMS_Integration_V15\RMS_Integration\RMS_Integration\bin\Debug\pt-BR\Microsoft.Build.resources.dll
+Y:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V15\RMS_Integration_V15\RMS_Integration\RMS_Integration\bin\Debug\ru\Microsoft.Build.resources.dll
+Y:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V15\RMS_Integration_V15\RMS_Integration\RMS_Integration\bin\Debug\tr\Microsoft.Build.resources.dll
+Y:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V15\RMS_Integration_V15\RMS_Integration\RMS_Integration\bin\Debug\zh-Hans\Microsoft.Build.resources.dll
+Y:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V15\RMS_Integration_V15\RMS_Integration\RMS_Integration\bin\Debug\zh-Hant\Microsoft.Build.resources.dll
+Y:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V15\RMS_Integration_V15\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.csprojAssemblyReference.cache
+Y:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V15\RMS_Integration_V15\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.RMSApp.resources
+Y:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V15\RMS_Integration_V15\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.Properties.Resources.resources
+Y:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V15\RMS_Integration_V15\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.csproj.GenerateResource.cache
+Y:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V15\RMS_Integration_V15\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.csproj.CoreCompileInputs.cache
+Y:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V15\RMS_Integration_V15\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.csproj.CopyComplete
+Y:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V15\RMS_Integration_V15\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.exe
+Y:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V15\RMS_Integration_V15\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.pdb
+C:\Users\Mario Soriano\Pictures\RMS_Integration_V15\RMS_Integration\RMS_Integration\bin\Debug\Series_Database.mdf
+C:\Users\Mario Soriano\Pictures\RMS_Integration_V15\RMS_Integration\RMS_Integration\bin\Debug\Series_Database_log.ldf
+C:\Users\Mario Soriano\Pictures\RMS_Integration_V15\RMS_Integration\RMS_Integration\bin\Debug\RMS_Integration.exe.config
+C:\Users\Mario Soriano\Pictures\RMS_Integration_V15\RMS_Integration\RMS_Integration\bin\Debug\RMS_Integration.exe
+C:\Users\Mario Soriano\Pictures\RMS_Integration_V15\RMS_Integration\RMS_Integration\bin\Debug\RMS_Integration.pdb
+C:\Users\Mario Soriano\Pictures\RMS_Integration_V15\RMS_Integration\RMS_Integration\bin\Debug\CsvHelper.dll
+C:\Users\Mario Soriano\Pictures\RMS_Integration_V15\RMS_Integration\RMS_Integration\bin\Debug\DiscreteLogics.TeaFiles.dll
+C:\Users\Mario Soriano\Pictures\RMS_Integration_V15\RMS_Integration\RMS_Integration\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+C:\Users\Mario Soriano\Pictures\RMS_Integration_V15\RMS_Integration\RMS_Integration\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter.dll
+C:\Users\Mario Soriano\Pictures\RMS_Integration_V15\RMS_Integration\RMS_Integration\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Mario Soriano\Pictures\RMS_Integration_V15\RMS_Integration\RMS_Integration\bin\Debug\System.ValueTuple.dll
+C:\Users\Mario Soriano\Pictures\RMS_Integration_V15\RMS_Integration\RMS_Integration\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Mario Soriano\Pictures\RMS_Integration_V15\RMS_Integration\RMS_Integration\bin\Debug\Microsoft.Build.dll
+C:\Users\Mario Soriano\Pictures\RMS_Integration_V15\RMS_Integration\RMS_Integration\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\Mario Soriano\Pictures\RMS_Integration_V15\RMS_Integration\RMS_Integration\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Mario Soriano\Pictures\RMS_Integration_V15\RMS_Integration\RMS_Integration\bin\Debug\System.IO.Compression.dll
+C:\Users\Mario Soriano\Pictures\RMS_Integration_V15\RMS_Integration\RMS_Integration\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\Mario Soriano\Pictures\RMS_Integration_V15\RMS_Integration\RMS_Integration\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Mario Soriano\Pictures\RMS_Integration_V15\RMS_Integration\RMS_Integration\bin\Debug\CsvHelper.xml
+C:\Users\Mario Soriano\Pictures\RMS_Integration_V15\RMS_Integration\RMS_Integration\bin\Debug\DiscreteLogics.TeaFiles.xml
+C:\Users\Mario Soriano\Pictures\RMS_Integration_V15\RMS_Integration\RMS_Integration\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Mario Soriano\Pictures\RMS_Integration_V15\RMS_Integration\RMS_Integration\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Mario Soriano\Pictures\RMS_Integration_V15\RMS_Integration\RMS_Integration\bin\Debug\System.ValueTuple.xml
+C:\Users\Mario Soriano\Pictures\RMS_Integration_V15\RMS_Integration\RMS_Integration\bin\Debug\cs\Microsoft.Build.resources.dll
+C:\Users\Mario Soriano\Pictures\RMS_Integration_V15\RMS_Integration\RMS_Integration\bin\Debug\de\Microsoft.Build.resources.dll
+C:\Users\Mario Soriano\Pictures\RMS_Integration_V15\RMS_Integration\RMS_Integration\bin\Debug\en\Microsoft.Build.resources.dll
+C:\Users\Mario Soriano\Pictures\RMS_Integration_V15\RMS_Integration\RMS_Integration\bin\Debug\es\Microsoft.Build.resources.dll
+C:\Users\Mario Soriano\Pictures\RMS_Integration_V15\RMS_Integration\RMS_Integration\bin\Debug\fr\Microsoft.Build.resources.dll
+C:\Users\Mario Soriano\Pictures\RMS_Integration_V15\RMS_Integration\RMS_Integration\bin\Debug\it\Microsoft.Build.resources.dll
+C:\Users\Mario Soriano\Pictures\RMS_Integration_V15\RMS_Integration\RMS_Integration\bin\Debug\ja\Microsoft.Build.resources.dll
+C:\Users\Mario Soriano\Pictures\RMS_Integration_V15\RMS_Integration\RMS_Integration\bin\Debug\ko\Microsoft.Build.resources.dll
+C:\Users\Mario Soriano\Pictures\RMS_Integration_V15\RMS_Integration\RMS_Integration\bin\Debug\pl\Microsoft.Build.resources.dll
+C:\Users\Mario Soriano\Pictures\RMS_Integration_V15\RMS_Integration\RMS_Integration\bin\Debug\pt-BR\Microsoft.Build.resources.dll
+C:\Users\Mario Soriano\Pictures\RMS_Integration_V15\RMS_Integration\RMS_Integration\bin\Debug\ru\Microsoft.Build.resources.dll
+C:\Users\Mario Soriano\Pictures\RMS_Integration_V15\RMS_Integration\RMS_Integration\bin\Debug\tr\Microsoft.Build.resources.dll
+C:\Users\Mario Soriano\Pictures\RMS_Integration_V15\RMS_Integration\RMS_Integration\bin\Debug\zh-Hans\Microsoft.Build.resources.dll
+C:\Users\Mario Soriano\Pictures\RMS_Integration_V15\RMS_Integration\RMS_Integration\bin\Debug\zh-Hant\Microsoft.Build.resources.dll
+C:\Users\Mario Soriano\Pictures\RMS_Integration_V15\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.csprojAssemblyReference.cache
+C:\Users\Mario Soriano\Pictures\RMS_Integration_V15\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.RMSApp.resources
+C:\Users\Mario Soriano\Pictures\RMS_Integration_V15\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.Properties.Resources.resources
+C:\Users\Mario Soriano\Pictures\RMS_Integration_V15\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.csproj.GenerateResource.cache
+C:\Users\Mario Soriano\Pictures\RMS_Integration_V15\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.csproj.CoreCompileInputs.cache
+C:\Users\Mario Soriano\Pictures\RMS_Integration_V15\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.csproj.CopyComplete
+C:\Users\Mario Soriano\Pictures\RMS_Integration_V15\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.exe
+C:\Users\Mario Soriano\Pictures\RMS_Integration_V15\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.pdb
+C:\Users\Mario Soriano\Documents\RMS_Integration_V16\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.csprojAssemblyReference.cache
+C:\Users\Mario Soriano\Documents\RMS_Integration_V16\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.RMSApp.resources
+C:\Users\Mario Soriano\Documents\RMS_Integration_V16\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.Properties.Resources.resources
+C:\Users\Mario Soriano\Documents\RMS_Integration_V16\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.csproj.GenerateResource.cache
+C:\Users\Mario Soriano\Documents\RMS_Integration_V16\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.csproj.CoreCompileInputs.cache
+C:\Users\Mario Soriano\Documents\RMS_Integration_V16\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.exe
+C:\Users\Mario Soriano\Documents\RMS_Integration_V16\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.pdb
+C:\Users\Mario Soriano\Documents\RMS_Integration_V16\RMS_Integration\RMS_Integration\bin\Debug\Series_Database.mdf
+C:\Users\Mario Soriano\Documents\RMS_Integration_V16\RMS_Integration\RMS_Integration\bin\Debug\Series_Database_log.ldf
+C:\Users\Mario Soriano\Documents\RMS_Integration_V16\RMS_Integration\RMS_Integration\bin\Debug\RMS_Integration.exe.config
+C:\Users\Mario Soriano\Documents\RMS_Integration_V16\RMS_Integration\RMS_Integration\bin\Debug\RMS_Integration.exe
+C:\Users\Mario Soriano\Documents\RMS_Integration_V16\RMS_Integration\RMS_Integration\bin\Debug\RMS_Integration.pdb
+C:\Users\Mario Soriano\Documents\RMS_Integration_V16\RMS_Integration\RMS_Integration\bin\Debug\CsvHelper.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V16\RMS_Integration\RMS_Integration\bin\Debug\DiscreteLogics.TeaFiles.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V16\RMS_Integration\RMS_Integration\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V16\RMS_Integration\RMS_Integration\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V16\RMS_Integration\RMS_Integration\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V16\RMS_Integration\RMS_Integration\bin\Debug\System.ValueTuple.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V16\RMS_Integration\RMS_Integration\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V16\RMS_Integration\RMS_Integration\bin\Debug\Microsoft.Build.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V16\RMS_Integration\RMS_Integration\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V16\RMS_Integration\RMS_Integration\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V16\RMS_Integration\RMS_Integration\bin\Debug\System.IO.Compression.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V16\RMS_Integration\RMS_Integration\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V16\RMS_Integration\RMS_Integration\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V16\RMS_Integration\RMS_Integration\bin\Debug\CsvHelper.xml
+C:\Users\Mario Soriano\Documents\RMS_Integration_V16\RMS_Integration\RMS_Integration\bin\Debug\DiscreteLogics.TeaFiles.xml
+C:\Users\Mario Soriano\Documents\RMS_Integration_V16\RMS_Integration\RMS_Integration\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Mario Soriano\Documents\RMS_Integration_V16\RMS_Integration\RMS_Integration\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Mario Soriano\Documents\RMS_Integration_V16\RMS_Integration\RMS_Integration\bin\Debug\System.ValueTuple.xml
+C:\Users\Mario Soriano\Documents\RMS_Integration_V16\RMS_Integration\RMS_Integration\bin\Debug\cs\Microsoft.Build.resources.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V16\RMS_Integration\RMS_Integration\bin\Debug\de\Microsoft.Build.resources.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V16\RMS_Integration\RMS_Integration\bin\Debug\en\Microsoft.Build.resources.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V16\RMS_Integration\RMS_Integration\bin\Debug\es\Microsoft.Build.resources.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V16\RMS_Integration\RMS_Integration\bin\Debug\fr\Microsoft.Build.resources.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V16\RMS_Integration\RMS_Integration\bin\Debug\it\Microsoft.Build.resources.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V16\RMS_Integration\RMS_Integration\bin\Debug\ja\Microsoft.Build.resources.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V16\RMS_Integration\RMS_Integration\bin\Debug\ko\Microsoft.Build.resources.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V16\RMS_Integration\RMS_Integration\bin\Debug\pl\Microsoft.Build.resources.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V16\RMS_Integration\RMS_Integration\bin\Debug\pt-BR\Microsoft.Build.resources.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V16\RMS_Integration\RMS_Integration\bin\Debug\ru\Microsoft.Build.resources.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V16\RMS_Integration\RMS_Integration\bin\Debug\tr\Microsoft.Build.resources.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V16\RMS_Integration\RMS_Integration\bin\Debug\zh-Hans\Microsoft.Build.resources.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V16\RMS_Integration\RMS_Integration\bin\Debug\zh-Hant\Microsoft.Build.resources.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V16\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.csproj.CopyComplete
+C:\Users\Mario Soriano\Documents\RMS_Integration_V17\RMS_Integration\RMS_Integration\bin\Debug\Series_Database.mdf
+C:\Users\Mario Soriano\Documents\RMS_Integration_V17\RMS_Integration\RMS_Integration\bin\Debug\Series_Database_log.ldf
+C:\Users\Mario Soriano\Documents\RMS_Integration_V17\RMS_Integration\RMS_Integration\bin\Debug\RMS_Integration.exe.config
+C:\Users\Mario Soriano\Documents\RMS_Integration_V17\RMS_Integration\RMS_Integration\bin\Debug\RMS_Integration.exe
+C:\Users\Mario Soriano\Documents\RMS_Integration_V17\RMS_Integration\RMS_Integration\bin\Debug\RMS_Integration.pdb
+C:\Users\Mario Soriano\Documents\RMS_Integration_V17\RMS_Integration\RMS_Integration\bin\Debug\CsvHelper.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V17\RMS_Integration\RMS_Integration\bin\Debug\DiscreteLogics.TeaFiles.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V17\RMS_Integration\RMS_Integration\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V17\RMS_Integration\RMS_Integration\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V17\RMS_Integration\RMS_Integration\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V17\RMS_Integration\RMS_Integration\bin\Debug\System.ValueTuple.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V17\RMS_Integration\RMS_Integration\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V17\RMS_Integration\RMS_Integration\bin\Debug\Microsoft.Build.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V17\RMS_Integration\RMS_Integration\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V17\RMS_Integration\RMS_Integration\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V17\RMS_Integration\RMS_Integration\bin\Debug\System.IO.Compression.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V17\RMS_Integration\RMS_Integration\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V17\RMS_Integration\RMS_Integration\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V17\RMS_Integration\RMS_Integration\bin\Debug\CsvHelper.xml
+C:\Users\Mario Soriano\Documents\RMS_Integration_V17\RMS_Integration\RMS_Integration\bin\Debug\DiscreteLogics.TeaFiles.xml
+C:\Users\Mario Soriano\Documents\RMS_Integration_V17\RMS_Integration\RMS_Integration\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Mario Soriano\Documents\RMS_Integration_V17\RMS_Integration\RMS_Integration\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Mario Soriano\Documents\RMS_Integration_V17\RMS_Integration\RMS_Integration\bin\Debug\System.ValueTuple.xml
+C:\Users\Mario Soriano\Documents\RMS_Integration_V17\RMS_Integration\RMS_Integration\bin\Debug\cs\Microsoft.Build.resources.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V17\RMS_Integration\RMS_Integration\bin\Debug\de\Microsoft.Build.resources.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V17\RMS_Integration\RMS_Integration\bin\Debug\en\Microsoft.Build.resources.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V17\RMS_Integration\RMS_Integration\bin\Debug\es\Microsoft.Build.resources.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V17\RMS_Integration\RMS_Integration\bin\Debug\fr\Microsoft.Build.resources.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V17\RMS_Integration\RMS_Integration\bin\Debug\it\Microsoft.Build.resources.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V17\RMS_Integration\RMS_Integration\bin\Debug\ja\Microsoft.Build.resources.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V17\RMS_Integration\RMS_Integration\bin\Debug\ko\Microsoft.Build.resources.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V17\RMS_Integration\RMS_Integration\bin\Debug\pl\Microsoft.Build.resources.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V17\RMS_Integration\RMS_Integration\bin\Debug\pt-BR\Microsoft.Build.resources.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V17\RMS_Integration\RMS_Integration\bin\Debug\ru\Microsoft.Build.resources.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V17\RMS_Integration\RMS_Integration\bin\Debug\tr\Microsoft.Build.resources.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V17\RMS_Integration\RMS_Integration\bin\Debug\zh-Hans\Microsoft.Build.resources.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V17\RMS_Integration\RMS_Integration\bin\Debug\zh-Hant\Microsoft.Build.resources.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V17\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.csprojAssemblyReference.cache
+C:\Users\Mario Soriano\Documents\RMS_Integration_V17\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.RMSApp.resources
+C:\Users\Mario Soriano\Documents\RMS_Integration_V17\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.Properties.Resources.resources
+C:\Users\Mario Soriano\Documents\RMS_Integration_V17\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.csproj.GenerateResource.cache
+C:\Users\Mario Soriano\Documents\RMS_Integration_V17\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.csproj.CoreCompileInputs.cache
+C:\Users\Mario Soriano\Documents\RMS_Integration_V17\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.csproj.CopyComplete
+C:\Users\Mario Soriano\Documents\RMS_Integration_V17\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.exe
+C:\Users\Mario Soriano\Documents\RMS_Integration_V17\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.pdb
+C:\Users\masorian\Documents\RMS_Integration_V17\RMS_Integration_V17\RMS_Integration\RMS_Integration\bin\Debug\Series_Database.mdf
+C:\Users\masorian\Documents\RMS_Integration_V17\RMS_Integration_V17\RMS_Integration\RMS_Integration\bin\Debug\Series_Database_log.ldf
+C:\Users\masorian\Documents\RMS_Integration_V17\RMS_Integration_V17\RMS_Integration\RMS_Integration\bin\Debug\RMS_Integration.exe.config
+C:\Users\masorian\Documents\RMS_Integration_V17\RMS_Integration_V17\RMS_Integration\RMS_Integration\bin\Debug\RMS_Integration.exe
+C:\Users\masorian\Documents\RMS_Integration_V17\RMS_Integration_V17\RMS_Integration\RMS_Integration\bin\Debug\RMS_Integration.pdb
+C:\Users\masorian\Documents\RMS_Integration_V17\RMS_Integration_V17\RMS_Integration\RMS_Integration\bin\Debug\CsvHelper.dll
+C:\Users\masorian\Documents\RMS_Integration_V17\RMS_Integration_V17\RMS_Integration\RMS_Integration\bin\Debug\DiscreteLogics.TeaFiles.dll
+C:\Users\masorian\Documents\RMS_Integration_V17\RMS_Integration_V17\RMS_Integration\RMS_Integration\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+C:\Users\masorian\Documents\RMS_Integration_V17\RMS_Integration_V17\RMS_Integration\RMS_Integration\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter.dll
+C:\Users\masorian\Documents\RMS_Integration_V17\RMS_Integration_V17\RMS_Integration\RMS_Integration\bin\Debug\Newtonsoft.Json.dll
+C:\Users\masorian\Documents\RMS_Integration_V17\RMS_Integration_V17\RMS_Integration\RMS_Integration\bin\Debug\System.ValueTuple.dll
+C:\Users\masorian\Documents\RMS_Integration_V17\RMS_Integration_V17\RMS_Integration\RMS_Integration\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\masorian\Documents\RMS_Integration_V17\RMS_Integration_V17\RMS_Integration\RMS_Integration\bin\Debug\Microsoft.Build.dll
+C:\Users\masorian\Documents\RMS_Integration_V17\RMS_Integration_V17\RMS_Integration\RMS_Integration\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\masorian\Documents\RMS_Integration_V17\RMS_Integration_V17\RMS_Integration\RMS_Integration\bin\Debug\System.Collections.Immutable.dll
+C:\Users\masorian\Documents\RMS_Integration_V17\RMS_Integration_V17\RMS_Integration\RMS_Integration\bin\Debug\System.IO.Compression.dll
+C:\Users\masorian\Documents\RMS_Integration_V17\RMS_Integration_V17\RMS_Integration\RMS_Integration\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\masorian\Documents\RMS_Integration_V17\RMS_Integration_V17\RMS_Integration\RMS_Integration\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\masorian\Documents\RMS_Integration_V17\RMS_Integration_V17\RMS_Integration\RMS_Integration\bin\Debug\CsvHelper.xml
+C:\Users\masorian\Documents\RMS_Integration_V17\RMS_Integration_V17\RMS_Integration\RMS_Integration\bin\Debug\DiscreteLogics.TeaFiles.xml
+C:\Users\masorian\Documents\RMS_Integration_V17\RMS_Integration_V17\RMS_Integration\RMS_Integration\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\masorian\Documents\RMS_Integration_V17\RMS_Integration_V17\RMS_Integration\RMS_Integration\bin\Debug\Newtonsoft.Json.xml
+C:\Users\masorian\Documents\RMS_Integration_V17\RMS_Integration_V17\RMS_Integration\RMS_Integration\bin\Debug\System.ValueTuple.xml
+C:\Users\masorian\Documents\RMS_Integration_V17\RMS_Integration_V17\RMS_Integration\RMS_Integration\bin\Debug\cs\Microsoft.Build.resources.dll
+C:\Users\masorian\Documents\RMS_Integration_V17\RMS_Integration_V17\RMS_Integration\RMS_Integration\bin\Debug\de\Microsoft.Build.resources.dll
+C:\Users\masorian\Documents\RMS_Integration_V17\RMS_Integration_V17\RMS_Integration\RMS_Integration\bin\Debug\en\Microsoft.Build.resources.dll
+C:\Users\masorian\Documents\RMS_Integration_V17\RMS_Integration_V17\RMS_Integration\RMS_Integration\bin\Debug\es\Microsoft.Build.resources.dll
+C:\Users\masorian\Documents\RMS_Integration_V17\RMS_Integration_V17\RMS_Integration\RMS_Integration\bin\Debug\fr\Microsoft.Build.resources.dll
+C:\Users\masorian\Documents\RMS_Integration_V17\RMS_Integration_V17\RMS_Integration\RMS_Integration\bin\Debug\it\Microsoft.Build.resources.dll
+C:\Users\masorian\Documents\RMS_Integration_V17\RMS_Integration_V17\RMS_Integration\RMS_Integration\bin\Debug\ja\Microsoft.Build.resources.dll
+C:\Users\masorian\Documents\RMS_Integration_V17\RMS_Integration_V17\RMS_Integration\RMS_Integration\bin\Debug\ko\Microsoft.Build.resources.dll
+C:\Users\masorian\Documents\RMS_Integration_V17\RMS_Integration_V17\RMS_Integration\RMS_Integration\bin\Debug\pl\Microsoft.Build.resources.dll
+C:\Users\masorian\Documents\RMS_Integration_V17\RMS_Integration_V17\RMS_Integration\RMS_Integration\bin\Debug\pt-BR\Microsoft.Build.resources.dll
+C:\Users\masorian\Documents\RMS_Integration_V17\RMS_Integration_V17\RMS_Integration\RMS_Integration\bin\Debug\ru\Microsoft.Build.resources.dll
+C:\Users\masorian\Documents\RMS_Integration_V17\RMS_Integration_V17\RMS_Integration\RMS_Integration\bin\Debug\tr\Microsoft.Build.resources.dll
+C:\Users\masorian\Documents\RMS_Integration_V17\RMS_Integration_V17\RMS_Integration\RMS_Integration\bin\Debug\zh-Hans\Microsoft.Build.resources.dll
+C:\Users\masorian\Documents\RMS_Integration_V17\RMS_Integration_V17\RMS_Integration\RMS_Integration\bin\Debug\zh-Hant\Microsoft.Build.resources.dll
+C:\Users\masorian\Documents\RMS_Integration_V17\RMS_Integration_V17\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.csprojAssemblyReference.cache
+C:\Users\masorian\Documents\RMS_Integration_V17\RMS_Integration_V17\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.RMSApp.resources
+C:\Users\masorian\Documents\RMS_Integration_V17\RMS_Integration_V17\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.Properties.Resources.resources
+C:\Users\masorian\Documents\RMS_Integration_V17\RMS_Integration_V17\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.csproj.GenerateResource.cache
+C:\Users\masorian\Documents\RMS_Integration_V17\RMS_Integration_V17\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.csproj.CoreCompileInputs.cache
+C:\Users\masorian\Documents\RMS_Integration_V17\RMS_Integration_V17\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.csproj.CopyComplete
+C:\Users\masorian\Documents\RMS_Integration_V17\RMS_Integration_V17\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.exe
+C:\Users\masorian\Documents\RMS_Integration_V17\RMS_Integration_V17\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.pdb
+C:\Users\Mario Soriano\Documents\RMS_Integration_V18\RMS_Integration_V18\RMS_Integration_V17\RMS_Integration\RMS_Integration\bin\Debug\Series_Database.mdf
+C:\Users\Mario Soriano\Documents\RMS_Integration_V18\RMS_Integration_V18\RMS_Integration_V17\RMS_Integration\RMS_Integration\bin\Debug\Series_Database_log.ldf
+C:\Users\Mario Soriano\Documents\RMS_Integration_V18\RMS_Integration_V18\RMS_Integration_V17\RMS_Integration\RMS_Integration\bin\Debug\RMS_Integration.exe.config
+C:\Users\Mario Soriano\Documents\RMS_Integration_V18\RMS_Integration_V18\RMS_Integration_V17\RMS_Integration\RMS_Integration\bin\Debug\RMS_Integration.exe
+C:\Users\Mario Soriano\Documents\RMS_Integration_V18\RMS_Integration_V18\RMS_Integration_V17\RMS_Integration\RMS_Integration\bin\Debug\RMS_Integration.pdb
+C:\Users\Mario Soriano\Documents\RMS_Integration_V18\RMS_Integration_V18\RMS_Integration_V17\RMS_Integration\RMS_Integration\bin\Debug\CsvHelper.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V18\RMS_Integration_V18\RMS_Integration_V17\RMS_Integration\RMS_Integration\bin\Debug\DiscreteLogics.TeaFiles.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V18\RMS_Integration_V18\RMS_Integration_V17\RMS_Integration\RMS_Integration\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V18\RMS_Integration_V18\RMS_Integration_V17\RMS_Integration\RMS_Integration\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V18\RMS_Integration_V18\RMS_Integration_V17\RMS_Integration\RMS_Integration\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V18\RMS_Integration_V18\RMS_Integration_V17\RMS_Integration\RMS_Integration\bin\Debug\System.ValueTuple.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V18\RMS_Integration_V18\RMS_Integration_V17\RMS_Integration\RMS_Integration\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V18\RMS_Integration_V18\RMS_Integration_V17\RMS_Integration\RMS_Integration\bin\Debug\Microsoft.Build.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V18\RMS_Integration_V18\RMS_Integration_V17\RMS_Integration\RMS_Integration\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V18\RMS_Integration_V18\RMS_Integration_V17\RMS_Integration\RMS_Integration\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V18\RMS_Integration_V18\RMS_Integration_V17\RMS_Integration\RMS_Integration\bin\Debug\System.IO.Compression.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V18\RMS_Integration_V18\RMS_Integration_V17\RMS_Integration\RMS_Integration\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V18\RMS_Integration_V18\RMS_Integration_V17\RMS_Integration\RMS_Integration\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V18\RMS_Integration_V18\RMS_Integration_V17\RMS_Integration\RMS_Integration\bin\Debug\CsvHelper.xml
+C:\Users\Mario Soriano\Documents\RMS_Integration_V18\RMS_Integration_V18\RMS_Integration_V17\RMS_Integration\RMS_Integration\bin\Debug\DiscreteLogics.TeaFiles.xml
+C:\Users\Mario Soriano\Documents\RMS_Integration_V18\RMS_Integration_V18\RMS_Integration_V17\RMS_Integration\RMS_Integration\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Mario Soriano\Documents\RMS_Integration_V18\RMS_Integration_V18\RMS_Integration_V17\RMS_Integration\RMS_Integration\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Mario Soriano\Documents\RMS_Integration_V18\RMS_Integration_V18\RMS_Integration_V17\RMS_Integration\RMS_Integration\bin\Debug\System.ValueTuple.xml
+C:\Users\Mario Soriano\Documents\RMS_Integration_V18\RMS_Integration_V18\RMS_Integration_V17\RMS_Integration\RMS_Integration\bin\Debug\cs\Microsoft.Build.resources.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V18\RMS_Integration_V18\RMS_Integration_V17\RMS_Integration\RMS_Integration\bin\Debug\de\Microsoft.Build.resources.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V18\RMS_Integration_V18\RMS_Integration_V17\RMS_Integration\RMS_Integration\bin\Debug\en\Microsoft.Build.resources.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V18\RMS_Integration_V18\RMS_Integration_V17\RMS_Integration\RMS_Integration\bin\Debug\es\Microsoft.Build.resources.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V18\RMS_Integration_V18\RMS_Integration_V17\RMS_Integration\RMS_Integration\bin\Debug\fr\Microsoft.Build.resources.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V18\RMS_Integration_V18\RMS_Integration_V17\RMS_Integration\RMS_Integration\bin\Debug\it\Microsoft.Build.resources.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V18\RMS_Integration_V18\RMS_Integration_V17\RMS_Integration\RMS_Integration\bin\Debug\ja\Microsoft.Build.resources.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V18\RMS_Integration_V18\RMS_Integration_V17\RMS_Integration\RMS_Integration\bin\Debug\ko\Microsoft.Build.resources.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V18\RMS_Integration_V18\RMS_Integration_V17\RMS_Integration\RMS_Integration\bin\Debug\pl\Microsoft.Build.resources.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V18\RMS_Integration_V18\RMS_Integration_V17\RMS_Integration\RMS_Integration\bin\Debug\pt-BR\Microsoft.Build.resources.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V18\RMS_Integration_V18\RMS_Integration_V17\RMS_Integration\RMS_Integration\bin\Debug\ru\Microsoft.Build.resources.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V18\RMS_Integration_V18\RMS_Integration_V17\RMS_Integration\RMS_Integration\bin\Debug\tr\Microsoft.Build.resources.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V18\RMS_Integration_V18\RMS_Integration_V17\RMS_Integration\RMS_Integration\bin\Debug\zh-Hans\Microsoft.Build.resources.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V18\RMS_Integration_V18\RMS_Integration_V17\RMS_Integration\RMS_Integration\bin\Debug\zh-Hant\Microsoft.Build.resources.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V18\RMS_Integration_V18\RMS_Integration_V17\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.csprojAssemblyReference.cache
+C:\Users\Mario Soriano\Documents\RMS_Integration_V18\RMS_Integration_V18\RMS_Integration_V17\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.RMSApp.resources
+C:\Users\Mario Soriano\Documents\RMS_Integration_V18\RMS_Integration_V18\RMS_Integration_V17\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.Properties.Resources.resources
+C:\Users\Mario Soriano\Documents\RMS_Integration_V18\RMS_Integration_V18\RMS_Integration_V17\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.csproj.GenerateResource.cache
+C:\Users\Mario Soriano\Documents\RMS_Integration_V18\RMS_Integration_V18\RMS_Integration_V17\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.csproj.CoreCompileInputs.cache
+C:\Users\Mario Soriano\Documents\RMS_Integration_V18\RMS_Integration_V18\RMS_Integration_V17\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.csproj.CopyComplete
+C:\Users\Mario Soriano\Documents\RMS_Integration_V18\RMS_Integration_V18\RMS_Integration_V17\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.exe
+C:\Users\Mario Soriano\Documents\RMS_Integration_V18\RMS_Integration_V18\RMS_Integration_V17\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.pdb
+C:\Users\masorian\Documents\RMS_Integration_V19\RMS_Integration_V19\RMS_Integration_V18\RMS_Integration_V17\RMS_Integration\RMS_Integration\bin\Debug\Series_Database.mdf
+C:\Users\masorian\Documents\RMS_Integration_V19\RMS_Integration_V19\RMS_Integration_V18\RMS_Integration_V17\RMS_Integration\RMS_Integration\bin\Debug\Series_Database_log.ldf
+C:\Users\masorian\Documents\RMS_Integration_V19\RMS_Integration_V19\RMS_Integration_V18\RMS_Integration_V17\RMS_Integration\RMS_Integration\bin\Debug\RMS_Integration.exe.config
+C:\Users\masorian\Documents\RMS_Integration_V19\RMS_Integration_V19\RMS_Integration_V18\RMS_Integration_V17\RMS_Integration\RMS_Integration\bin\Debug\RMS_Integration.exe
+C:\Users\masorian\Documents\RMS_Integration_V19\RMS_Integration_V19\RMS_Integration_V18\RMS_Integration_V17\RMS_Integration\RMS_Integration\bin\Debug\RMS_Integration.pdb
+C:\Users\masorian\Documents\RMS_Integration_V19\RMS_Integration_V19\RMS_Integration_V18\RMS_Integration_V17\RMS_Integration\RMS_Integration\bin\Debug\CsvHelper.dll
+C:\Users\masorian\Documents\RMS_Integration_V19\RMS_Integration_V19\RMS_Integration_V18\RMS_Integration_V17\RMS_Integration\RMS_Integration\bin\Debug\DiscreteLogics.TeaFiles.dll
+C:\Users\masorian\Documents\RMS_Integration_V19\RMS_Integration_V19\RMS_Integration_V18\RMS_Integration_V17\RMS_Integration\RMS_Integration\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+C:\Users\masorian\Documents\RMS_Integration_V19\RMS_Integration_V19\RMS_Integration_V18\RMS_Integration_V17\RMS_Integration\RMS_Integration\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter.dll
+C:\Users\masorian\Documents\RMS_Integration_V19\RMS_Integration_V19\RMS_Integration_V18\RMS_Integration_V17\RMS_Integration\RMS_Integration\bin\Debug\Newtonsoft.Json.dll
+C:\Users\masorian\Documents\RMS_Integration_V19\RMS_Integration_V19\RMS_Integration_V18\RMS_Integration_V17\RMS_Integration\RMS_Integration\bin\Debug\System.ValueTuple.dll
+C:\Users\masorian\Documents\RMS_Integration_V19\RMS_Integration_V19\RMS_Integration_V18\RMS_Integration_V17\RMS_Integration\RMS_Integration\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\masorian\Documents\RMS_Integration_V19\RMS_Integration_V19\RMS_Integration_V18\RMS_Integration_V17\RMS_Integration\RMS_Integration\bin\Debug\Microsoft.Build.dll
+C:\Users\masorian\Documents\RMS_Integration_V19\RMS_Integration_V19\RMS_Integration_V18\RMS_Integration_V17\RMS_Integration\RMS_Integration\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\masorian\Documents\RMS_Integration_V19\RMS_Integration_V19\RMS_Integration_V18\RMS_Integration_V17\RMS_Integration\RMS_Integration\bin\Debug\System.Collections.Immutable.dll
+C:\Users\masorian\Documents\RMS_Integration_V19\RMS_Integration_V19\RMS_Integration_V18\RMS_Integration_V17\RMS_Integration\RMS_Integration\bin\Debug\System.IO.Compression.dll
+C:\Users\masorian\Documents\RMS_Integration_V19\RMS_Integration_V19\RMS_Integration_V18\RMS_Integration_V17\RMS_Integration\RMS_Integration\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\masorian\Documents\RMS_Integration_V19\RMS_Integration_V19\RMS_Integration_V18\RMS_Integration_V17\RMS_Integration\RMS_Integration\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\masorian\Documents\RMS_Integration_V19\RMS_Integration_V19\RMS_Integration_V18\RMS_Integration_V17\RMS_Integration\RMS_Integration\bin\Debug\CsvHelper.xml
+C:\Users\masorian\Documents\RMS_Integration_V19\RMS_Integration_V19\RMS_Integration_V18\RMS_Integration_V17\RMS_Integration\RMS_Integration\bin\Debug\DiscreteLogics.TeaFiles.xml
+C:\Users\masorian\Documents\RMS_Integration_V19\RMS_Integration_V19\RMS_Integration_V18\RMS_Integration_V17\RMS_Integration\RMS_Integration\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\masorian\Documents\RMS_Integration_V19\RMS_Integration_V19\RMS_Integration_V18\RMS_Integration_V17\RMS_Integration\RMS_Integration\bin\Debug\Newtonsoft.Json.xml
+C:\Users\masorian\Documents\RMS_Integration_V19\RMS_Integration_V19\RMS_Integration_V18\RMS_Integration_V17\RMS_Integration\RMS_Integration\bin\Debug\System.ValueTuple.xml
+C:\Users\masorian\Documents\RMS_Integration_V19\RMS_Integration_V19\RMS_Integration_V18\RMS_Integration_V17\RMS_Integration\RMS_Integration\bin\Debug\cs\Microsoft.Build.resources.dll
+C:\Users\masorian\Documents\RMS_Integration_V19\RMS_Integration_V19\RMS_Integration_V18\RMS_Integration_V17\RMS_Integration\RMS_Integration\bin\Debug\de\Microsoft.Build.resources.dll
+C:\Users\masorian\Documents\RMS_Integration_V19\RMS_Integration_V19\RMS_Integration_V18\RMS_Integration_V17\RMS_Integration\RMS_Integration\bin\Debug\en\Microsoft.Build.resources.dll
+C:\Users\masorian\Documents\RMS_Integration_V19\RMS_Integration_V19\RMS_Integration_V18\RMS_Integration_V17\RMS_Integration\RMS_Integration\bin\Debug\es\Microsoft.Build.resources.dll
+C:\Users\masorian\Documents\RMS_Integration_V19\RMS_Integration_V19\RMS_Integration_V18\RMS_Integration_V17\RMS_Integration\RMS_Integration\bin\Debug\fr\Microsoft.Build.resources.dll
+C:\Users\masorian\Documents\RMS_Integration_V19\RMS_Integration_V19\RMS_Integration_V18\RMS_Integration_V17\RMS_Integration\RMS_Integration\bin\Debug\it\Microsoft.Build.resources.dll
+C:\Users\masorian\Documents\RMS_Integration_V19\RMS_Integration_V19\RMS_Integration_V18\RMS_Integration_V17\RMS_Integration\RMS_Integration\bin\Debug\ja\Microsoft.Build.resources.dll
+C:\Users\masorian\Documents\RMS_Integration_V19\RMS_Integration_V19\RMS_Integration_V18\RMS_Integration_V17\RMS_Integration\RMS_Integration\bin\Debug\ko\Microsoft.Build.resources.dll
+C:\Users\masorian\Documents\RMS_Integration_V19\RMS_Integration_V19\RMS_Integration_V18\RMS_Integration_V17\RMS_Integration\RMS_Integration\bin\Debug\pl\Microsoft.Build.resources.dll
+C:\Users\masorian\Documents\RMS_Integration_V19\RMS_Integration_V19\RMS_Integration_V18\RMS_Integration_V17\RMS_Integration\RMS_Integration\bin\Debug\pt-BR\Microsoft.Build.resources.dll
+C:\Users\masorian\Documents\RMS_Integration_V19\RMS_Integration_V19\RMS_Integration_V18\RMS_Integration_V17\RMS_Integration\RMS_Integration\bin\Debug\ru\Microsoft.Build.resources.dll
+C:\Users\masorian\Documents\RMS_Integration_V19\RMS_Integration_V19\RMS_Integration_V18\RMS_Integration_V17\RMS_Integration\RMS_Integration\bin\Debug\tr\Microsoft.Build.resources.dll
+C:\Users\masorian\Documents\RMS_Integration_V19\RMS_Integration_V19\RMS_Integration_V18\RMS_Integration_V17\RMS_Integration\RMS_Integration\bin\Debug\zh-Hans\Microsoft.Build.resources.dll
+C:\Users\masorian\Documents\RMS_Integration_V19\RMS_Integration_V19\RMS_Integration_V18\RMS_Integration_V17\RMS_Integration\RMS_Integration\bin\Debug\zh-Hant\Microsoft.Build.resources.dll
+C:\Users\masorian\Documents\RMS_Integration_V19\RMS_Integration_V19\RMS_Integration_V18\RMS_Integration_V17\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.csprojAssemblyReference.cache
+C:\Users\masorian\Documents\RMS_Integration_V19\RMS_Integration_V19\RMS_Integration_V18\RMS_Integration_V17\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.RMSApp.resources
+C:\Users\masorian\Documents\RMS_Integration_V19\RMS_Integration_V19\RMS_Integration_V18\RMS_Integration_V17\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.Properties.Resources.resources
+C:\Users\masorian\Documents\RMS_Integration_V19\RMS_Integration_V19\RMS_Integration_V18\RMS_Integration_V17\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.csproj.GenerateResource.cache
+C:\Users\masorian\Documents\RMS_Integration_V19\RMS_Integration_V19\RMS_Integration_V18\RMS_Integration_V17\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.csproj.CoreCompileInputs.cache
+C:\Users\masorian\Documents\RMS_Integration_V19\RMS_Integration_V19\RMS_Integration_V18\RMS_Integration_V17\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.csproj.CopyComplete
+C:\Users\masorian\Documents\RMS_Integration_V19\RMS_Integration_V19\RMS_Integration_V18\RMS_Integration_V17\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.exe
+C:\Users\masorian\Documents\RMS_Integration_V19\RMS_Integration_V19\RMS_Integration_V18\RMS_Integration_V17\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.pdb
+C:\Users\Mario Soriano\Documents\RMS_Integration_V21\RMS_Integration\RMS_Integration\bin\Debug\RMS_Integration.exe.config
+C:\Users\Mario Soriano\Documents\RMS_Integration_V21\RMS_Integration\RMS_Integration\bin\Debug\RMS_Integration.exe
+C:\Users\Mario Soriano\Documents\RMS_Integration_V21\RMS_Integration\RMS_Integration\bin\Debug\RMS_Integration.pdb
+C:\Users\Mario Soriano\Documents\RMS_Integration_V21\RMS_Integration\RMS_Integration\bin\Debug\CsvHelper.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V21\RMS_Integration\RMS_Integration\bin\Debug\DiscreteLogics.TeaFiles.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V21\RMS_Integration\RMS_Integration\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V21\RMS_Integration\RMS_Integration\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V21\RMS_Integration\RMS_Integration\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V21\RMS_Integration\RMS_Integration\bin\Debug\System.ValueTuple.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V21\RMS_Integration\RMS_Integration\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V21\RMS_Integration\RMS_Integration\bin\Debug\Microsoft.Build.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V21\RMS_Integration\RMS_Integration\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V21\RMS_Integration\RMS_Integration\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V21\RMS_Integration\RMS_Integration\bin\Debug\System.IO.Compression.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V21\RMS_Integration\RMS_Integration\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V21\RMS_Integration\RMS_Integration\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V21\RMS_Integration\RMS_Integration\bin\Debug\CsvHelper.xml
+C:\Users\Mario Soriano\Documents\RMS_Integration_V21\RMS_Integration\RMS_Integration\bin\Debug\DiscreteLogics.TeaFiles.xml
+C:\Users\Mario Soriano\Documents\RMS_Integration_V21\RMS_Integration\RMS_Integration\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Mario Soriano\Documents\RMS_Integration_V21\RMS_Integration\RMS_Integration\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Mario Soriano\Documents\RMS_Integration_V21\RMS_Integration\RMS_Integration\bin\Debug\System.ValueTuple.xml
+C:\Users\Mario Soriano\Documents\RMS_Integration_V21\RMS_Integration\RMS_Integration\bin\Debug\cs\Microsoft.Build.resources.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V21\RMS_Integration\RMS_Integration\bin\Debug\de\Microsoft.Build.resources.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V21\RMS_Integration\RMS_Integration\bin\Debug\en\Microsoft.Build.resources.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V21\RMS_Integration\RMS_Integration\bin\Debug\es\Microsoft.Build.resources.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V21\RMS_Integration\RMS_Integration\bin\Debug\fr\Microsoft.Build.resources.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V21\RMS_Integration\RMS_Integration\bin\Debug\it\Microsoft.Build.resources.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V21\RMS_Integration\RMS_Integration\bin\Debug\ja\Microsoft.Build.resources.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V21\RMS_Integration\RMS_Integration\bin\Debug\ko\Microsoft.Build.resources.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V21\RMS_Integration\RMS_Integration\bin\Debug\pl\Microsoft.Build.resources.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V21\RMS_Integration\RMS_Integration\bin\Debug\pt-BR\Microsoft.Build.resources.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V21\RMS_Integration\RMS_Integration\bin\Debug\ru\Microsoft.Build.resources.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V21\RMS_Integration\RMS_Integration\bin\Debug\tr\Microsoft.Build.resources.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V21\RMS_Integration\RMS_Integration\bin\Debug\zh-Hans\Microsoft.Build.resources.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V21\RMS_Integration\RMS_Integration\bin\Debug\zh-Hant\Microsoft.Build.resources.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V21\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.RMSApp.resources
+C:\Users\Mario Soriano\Documents\RMS_Integration_V21\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.Properties.Resources.resources
+C:\Users\Mario Soriano\Documents\RMS_Integration_V21\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.csproj.GenerateResource.cache
+C:\Users\Mario Soriano\Documents\RMS_Integration_V21\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.csproj.CoreCompileInputs.cache
+C:\Users\Mario Soriano\Documents\RMS_Integration_V21\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.csproj.CopyComplete
+C:\Users\Mario Soriano\Documents\RMS_Integration_V21\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.exe
+C:\Users\Mario Soriano\Documents\RMS_Integration_V21\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.pdb
+C:\Users\Mario Soriano\Documents\RMS_Integration_V21\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.csprojAssemblyReference.cache
+C:\Users\masorian\Music\RMS_Integration_V23\RMS_Integration\RMS_Integration\bin\Debug\RMS_Integration.exe.config
+C:\Users\masorian\Music\RMS_Integration_V23\RMS_Integration\RMS_Integration\bin\Debug\RMS_Integration.exe
+C:\Users\masorian\Music\RMS_Integration_V23\RMS_Integration\RMS_Integration\bin\Debug\RMS_Integration.pdb
+C:\Users\masorian\Music\RMS_Integration_V23\RMS_Integration\RMS_Integration\bin\Debug\CsvHelper.dll
+C:\Users\masorian\Music\RMS_Integration_V23\RMS_Integration\RMS_Integration\bin\Debug\DiscreteLogics.TeaFiles.dll
+C:\Users\masorian\Music\RMS_Integration_V23\RMS_Integration\RMS_Integration\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+C:\Users\masorian\Music\RMS_Integration_V23\RMS_Integration\RMS_Integration\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter.dll
+C:\Users\masorian\Music\RMS_Integration_V23\RMS_Integration\RMS_Integration\bin\Debug\Newtonsoft.Json.dll
+C:\Users\masorian\Music\RMS_Integration_V23\RMS_Integration\RMS_Integration\bin\Debug\System.ValueTuple.dll
+C:\Users\masorian\Music\RMS_Integration_V23\RMS_Integration\RMS_Integration\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\masorian\Music\RMS_Integration_V23\RMS_Integration\RMS_Integration\bin\Debug\Microsoft.Build.dll
+C:\Users\masorian\Music\RMS_Integration_V23\RMS_Integration\RMS_Integration\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\masorian\Music\RMS_Integration_V23\RMS_Integration\RMS_Integration\bin\Debug\System.Collections.Immutable.dll
+C:\Users\masorian\Music\RMS_Integration_V23\RMS_Integration\RMS_Integration\bin\Debug\System.IO.Compression.dll
+C:\Users\masorian\Music\RMS_Integration_V23\RMS_Integration\RMS_Integration\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\masorian\Music\RMS_Integration_V23\RMS_Integration\RMS_Integration\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\masorian\Music\RMS_Integration_V23\RMS_Integration\RMS_Integration\bin\Debug\CsvHelper.xml
+C:\Users\masorian\Music\RMS_Integration_V23\RMS_Integration\RMS_Integration\bin\Debug\DiscreteLogics.TeaFiles.xml
+C:\Users\masorian\Music\RMS_Integration_V23\RMS_Integration\RMS_Integration\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\masorian\Music\RMS_Integration_V23\RMS_Integration\RMS_Integration\bin\Debug\Newtonsoft.Json.xml
+C:\Users\masorian\Music\RMS_Integration_V23\RMS_Integration\RMS_Integration\bin\Debug\System.ValueTuple.xml
+C:\Users\masorian\Music\RMS_Integration_V23\RMS_Integration\RMS_Integration\bin\Debug\cs\Microsoft.Build.resources.dll
+C:\Users\masorian\Music\RMS_Integration_V23\RMS_Integration\RMS_Integration\bin\Debug\de\Microsoft.Build.resources.dll
+C:\Users\masorian\Music\RMS_Integration_V23\RMS_Integration\RMS_Integration\bin\Debug\en\Microsoft.Build.resources.dll
+C:\Users\masorian\Music\RMS_Integration_V23\RMS_Integration\RMS_Integration\bin\Debug\es\Microsoft.Build.resources.dll
+C:\Users\masorian\Music\RMS_Integration_V23\RMS_Integration\RMS_Integration\bin\Debug\fr\Microsoft.Build.resources.dll
+C:\Users\masorian\Music\RMS_Integration_V23\RMS_Integration\RMS_Integration\bin\Debug\it\Microsoft.Build.resources.dll
+C:\Users\masorian\Music\RMS_Integration_V23\RMS_Integration\RMS_Integration\bin\Debug\ja\Microsoft.Build.resources.dll
+C:\Users\masorian\Music\RMS_Integration_V23\RMS_Integration\RMS_Integration\bin\Debug\ko\Microsoft.Build.resources.dll
+C:\Users\masorian\Music\RMS_Integration_V23\RMS_Integration\RMS_Integration\bin\Debug\pl\Microsoft.Build.resources.dll
+C:\Users\masorian\Music\RMS_Integration_V23\RMS_Integration\RMS_Integration\bin\Debug\pt-BR\Microsoft.Build.resources.dll
+C:\Users\masorian\Music\RMS_Integration_V23\RMS_Integration\RMS_Integration\bin\Debug\ru\Microsoft.Build.resources.dll
+C:\Users\masorian\Music\RMS_Integration_V23\RMS_Integration\RMS_Integration\bin\Debug\tr\Microsoft.Build.resources.dll
+C:\Users\masorian\Music\RMS_Integration_V23\RMS_Integration\RMS_Integration\bin\Debug\zh-Hans\Microsoft.Build.resources.dll
+C:\Users\masorian\Music\RMS_Integration_V23\RMS_Integration\RMS_Integration\bin\Debug\zh-Hant\Microsoft.Build.resources.dll
+C:\Users\masorian\Music\RMS_Integration_V23\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.csprojAssemblyReference.cache
+C:\Users\masorian\Music\RMS_Integration_V23\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.RMSApp.resources
+C:\Users\masorian\Music\RMS_Integration_V23\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.Properties.Resources.resources
+C:\Users\masorian\Music\RMS_Integration_V23\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.csproj.GenerateResource.cache
+C:\Users\masorian\Music\RMS_Integration_V23\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.csproj.CoreCompileInputs.cache
+C:\Users\masorian\Music\RMS_Integration_V23\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.csproj.CopyComplete
+C:\Users\masorian\Music\RMS_Integration_V23\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.exe
+C:\Users\masorian\Music\RMS_Integration_V23\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.pdb
+C:\Users\Mario Soriano\Documents\RMS_Integration_V25\RMS_Integration_V24\RMS_Integration\RMS_Integration\bin\Debug\RMS_Integration.exe.config
+C:\Users\Mario Soriano\Documents\RMS_Integration_V25\RMS_Integration_V24\RMS_Integration\RMS_Integration\bin\Debug\RMS_Integration.exe
+C:\Users\Mario Soriano\Documents\RMS_Integration_V25\RMS_Integration_V24\RMS_Integration\RMS_Integration\bin\Debug\RMS_Integration.pdb
+C:\Users\Mario Soriano\Documents\RMS_Integration_V25\RMS_Integration_V24\RMS_Integration\RMS_Integration\bin\Debug\CsvHelper.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V25\RMS_Integration_V24\RMS_Integration\RMS_Integration\bin\Debug\DiscreteLogics.TeaFiles.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V25\RMS_Integration_V24\RMS_Integration\RMS_Integration\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V25\RMS_Integration_V24\RMS_Integration\RMS_Integration\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V25\RMS_Integration_V24\RMS_Integration\RMS_Integration\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V25\RMS_Integration_V24\RMS_Integration\RMS_Integration\bin\Debug\System.ValueTuple.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V25\RMS_Integration_V24\RMS_Integration\RMS_Integration\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V25\RMS_Integration_V24\RMS_Integration\RMS_Integration\bin\Debug\Microsoft.Build.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V25\RMS_Integration_V24\RMS_Integration\RMS_Integration\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V25\RMS_Integration_V24\RMS_Integration\RMS_Integration\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V25\RMS_Integration_V24\RMS_Integration\RMS_Integration\bin\Debug\System.IO.Compression.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V25\RMS_Integration_V24\RMS_Integration\RMS_Integration\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V25\RMS_Integration_V24\RMS_Integration\RMS_Integration\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V25\RMS_Integration_V24\RMS_Integration\RMS_Integration\bin\Debug\CsvHelper.xml
+C:\Users\Mario Soriano\Documents\RMS_Integration_V25\RMS_Integration_V24\RMS_Integration\RMS_Integration\bin\Debug\DiscreteLogics.TeaFiles.xml
+C:\Users\Mario Soriano\Documents\RMS_Integration_V25\RMS_Integration_V24\RMS_Integration\RMS_Integration\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Mario Soriano\Documents\RMS_Integration_V25\RMS_Integration_V24\RMS_Integration\RMS_Integration\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Mario Soriano\Documents\RMS_Integration_V25\RMS_Integration_V24\RMS_Integration\RMS_Integration\bin\Debug\System.ValueTuple.xml
+C:\Users\Mario Soriano\Documents\RMS_Integration_V25\RMS_Integration_V24\RMS_Integration\RMS_Integration\bin\Debug\cs\Microsoft.Build.resources.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V25\RMS_Integration_V24\RMS_Integration\RMS_Integration\bin\Debug\de\Microsoft.Build.resources.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V25\RMS_Integration_V24\RMS_Integration\RMS_Integration\bin\Debug\en\Microsoft.Build.resources.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V25\RMS_Integration_V24\RMS_Integration\RMS_Integration\bin\Debug\es\Microsoft.Build.resources.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V25\RMS_Integration_V24\RMS_Integration\RMS_Integration\bin\Debug\fr\Microsoft.Build.resources.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V25\RMS_Integration_V24\RMS_Integration\RMS_Integration\bin\Debug\it\Microsoft.Build.resources.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V25\RMS_Integration_V24\RMS_Integration\RMS_Integration\bin\Debug\ja\Microsoft.Build.resources.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V25\RMS_Integration_V24\RMS_Integration\RMS_Integration\bin\Debug\ko\Microsoft.Build.resources.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V25\RMS_Integration_V24\RMS_Integration\RMS_Integration\bin\Debug\pl\Microsoft.Build.resources.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V25\RMS_Integration_V24\RMS_Integration\RMS_Integration\bin\Debug\pt-BR\Microsoft.Build.resources.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V25\RMS_Integration_V24\RMS_Integration\RMS_Integration\bin\Debug\ru\Microsoft.Build.resources.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V25\RMS_Integration_V24\RMS_Integration\RMS_Integration\bin\Debug\tr\Microsoft.Build.resources.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V25\RMS_Integration_V24\RMS_Integration\RMS_Integration\bin\Debug\zh-Hans\Microsoft.Build.resources.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V25\RMS_Integration_V24\RMS_Integration\RMS_Integration\bin\Debug\zh-Hant\Microsoft.Build.resources.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V25\RMS_Integration_V24\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.csprojAssemblyReference.cache
+C:\Users\Mario Soriano\Documents\RMS_Integration_V25\RMS_Integration_V24\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.RMSApp.resources
+C:\Users\Mario Soriano\Documents\RMS_Integration_V25\RMS_Integration_V24\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.Properties.Resources.resources
+C:\Users\Mario Soriano\Documents\RMS_Integration_V25\RMS_Integration_V24\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.csproj.GenerateResource.cache
+C:\Users\Mario Soriano\Documents\RMS_Integration_V25\RMS_Integration_V24\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.csproj.CoreCompileInputs.cache
+C:\Users\Mario Soriano\Documents\RMS_Integration_V25\RMS_Integration_V24\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.csproj.CopyComplete
+C:\Users\Mario Soriano\Documents\RMS_Integration_V25\RMS_Integration_V24\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.exe
+C:\Users\Mario Soriano\Documents\RMS_Integration_V25\RMS_Integration_V24\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.pdb
+C:\Users\Mario Soriano\Documents\RMS_Integration_V26\RMS_Integration\RMS_Integration\bin\Debug\RMS_Integration.exe.config
+C:\Users\Mario Soriano\Documents\RMS_Integration_V26\RMS_Integration\RMS_Integration\bin\Debug\RMS_Integration.exe
+C:\Users\Mario Soriano\Documents\RMS_Integration_V26\RMS_Integration\RMS_Integration\bin\Debug\RMS_Integration.pdb
+C:\Users\Mario Soriano\Documents\RMS_Integration_V26\RMS_Integration\RMS_Integration\bin\Debug\CsvHelper.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V26\RMS_Integration\RMS_Integration\bin\Debug\DiscreteLogics.TeaFiles.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V26\RMS_Integration\RMS_Integration\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V26\RMS_Integration\RMS_Integration\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V26\RMS_Integration\RMS_Integration\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V26\RMS_Integration\RMS_Integration\bin\Debug\System.ValueTuple.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V26\RMS_Integration\RMS_Integration\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V26\RMS_Integration\RMS_Integration\bin\Debug\Microsoft.Build.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V26\RMS_Integration\RMS_Integration\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V26\RMS_Integration\RMS_Integration\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V26\RMS_Integration\RMS_Integration\bin\Debug\System.IO.Compression.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V26\RMS_Integration\RMS_Integration\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V26\RMS_Integration\RMS_Integration\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V26\RMS_Integration\RMS_Integration\bin\Debug\CsvHelper.xml
+C:\Users\Mario Soriano\Documents\RMS_Integration_V26\RMS_Integration\RMS_Integration\bin\Debug\DiscreteLogics.TeaFiles.xml
+C:\Users\Mario Soriano\Documents\RMS_Integration_V26\RMS_Integration\RMS_Integration\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Mario Soriano\Documents\RMS_Integration_V26\RMS_Integration\RMS_Integration\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Mario Soriano\Documents\RMS_Integration_V26\RMS_Integration\RMS_Integration\bin\Debug\System.ValueTuple.xml
+C:\Users\Mario Soriano\Documents\RMS_Integration_V26\RMS_Integration\RMS_Integration\bin\Debug\cs\Microsoft.Build.resources.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V26\RMS_Integration\RMS_Integration\bin\Debug\de\Microsoft.Build.resources.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V26\RMS_Integration\RMS_Integration\bin\Debug\en\Microsoft.Build.resources.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V26\RMS_Integration\RMS_Integration\bin\Debug\es\Microsoft.Build.resources.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V26\RMS_Integration\RMS_Integration\bin\Debug\fr\Microsoft.Build.resources.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V26\RMS_Integration\RMS_Integration\bin\Debug\it\Microsoft.Build.resources.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V26\RMS_Integration\RMS_Integration\bin\Debug\ja\Microsoft.Build.resources.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V26\RMS_Integration\RMS_Integration\bin\Debug\ko\Microsoft.Build.resources.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V26\RMS_Integration\RMS_Integration\bin\Debug\pl\Microsoft.Build.resources.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V26\RMS_Integration\RMS_Integration\bin\Debug\pt-BR\Microsoft.Build.resources.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V26\RMS_Integration\RMS_Integration\bin\Debug\ru\Microsoft.Build.resources.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V26\RMS_Integration\RMS_Integration\bin\Debug\tr\Microsoft.Build.resources.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V26\RMS_Integration\RMS_Integration\bin\Debug\zh-Hans\Microsoft.Build.resources.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V26\RMS_Integration\RMS_Integration\bin\Debug\zh-Hant\Microsoft.Build.resources.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V26\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.csprojAssemblyReference.cache
+C:\Users\Mario Soriano\Documents\RMS_Integration_V26\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.RMSApp.resources
+C:\Users\Mario Soriano\Documents\RMS_Integration_V26\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.Properties.Resources.resources
+C:\Users\Mario Soriano\Documents\RMS_Integration_V26\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.csproj.GenerateResource.cache
+C:\Users\Mario Soriano\Documents\RMS_Integration_V26\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.csproj.CoreCompileInputs.cache
+C:\Users\Mario Soriano\Documents\RMS_Integration_V26\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.csproj.CopyComplete
+C:\Users\Mario Soriano\Documents\RMS_Integration_V26\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.exe
+C:\Users\Mario Soriano\Documents\RMS_Integration_V26\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.pdb
+Y:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V27\RMS_Integration\RMS_Integration\bin\Debug\RMS_Integration.exe.config
+Y:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V27\RMS_Integration\RMS_Integration\bin\Debug\RMS_Integration.exe
+Y:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V27\RMS_Integration\RMS_Integration\bin\Debug\RMS_Integration.pdb
+Y:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V27\RMS_Integration\RMS_Integration\bin\Debug\CsvHelper.dll
+Y:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V27\RMS_Integration\RMS_Integration\bin\Debug\DiscreteLogics.TeaFiles.dll
+Y:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V27\RMS_Integration\RMS_Integration\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+Y:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V27\RMS_Integration\RMS_Integration\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter.dll
+Y:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V27\RMS_Integration\RMS_Integration\bin\Debug\Newtonsoft.Json.dll
+Y:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V27\RMS_Integration\RMS_Integration\bin\Debug\System.ValueTuple.dll
+Y:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V27\RMS_Integration\RMS_Integration\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+Y:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V27\RMS_Integration\RMS_Integration\bin\Debug\Microsoft.Build.dll
+Y:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V27\RMS_Integration\RMS_Integration\bin\Debug\Microsoft.Build.Framework.dll
+Y:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V27\RMS_Integration\RMS_Integration\bin\Debug\System.Collections.Immutable.dll
+Y:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V27\RMS_Integration\RMS_Integration\bin\Debug\System.IO.Compression.dll
+Y:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V27\RMS_Integration\RMS_Integration\bin\Debug\System.Threading.Tasks.Dataflow.dll
+Y:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V27\RMS_Integration\RMS_Integration\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+Y:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V27\RMS_Integration\RMS_Integration\bin\Debug\CsvHelper.xml
+Y:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V27\RMS_Integration\RMS_Integration\bin\Debug\DiscreteLogics.TeaFiles.xml
+Y:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V27\RMS_Integration\RMS_Integration\bin\Debug\Newtonsoft.Json.pdb
+Y:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V27\RMS_Integration\RMS_Integration\bin\Debug\Newtonsoft.Json.xml
+Y:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V27\RMS_Integration\RMS_Integration\bin\Debug\System.ValueTuple.xml
+Y:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V27\RMS_Integration\RMS_Integration\bin\Debug\cs\Microsoft.Build.resources.dll
+Y:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V27\RMS_Integration\RMS_Integration\bin\Debug\de\Microsoft.Build.resources.dll
+Y:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V27\RMS_Integration\RMS_Integration\bin\Debug\en\Microsoft.Build.resources.dll
+Y:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V27\RMS_Integration\RMS_Integration\bin\Debug\es\Microsoft.Build.resources.dll
+Y:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V27\RMS_Integration\RMS_Integration\bin\Debug\fr\Microsoft.Build.resources.dll
+Y:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V27\RMS_Integration\RMS_Integration\bin\Debug\it\Microsoft.Build.resources.dll
+Y:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V27\RMS_Integration\RMS_Integration\bin\Debug\ja\Microsoft.Build.resources.dll
+Y:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V27\RMS_Integration\RMS_Integration\bin\Debug\ko\Microsoft.Build.resources.dll
+Y:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V27\RMS_Integration\RMS_Integration\bin\Debug\pl\Microsoft.Build.resources.dll
+Y:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V27\RMS_Integration\RMS_Integration\bin\Debug\pt-BR\Microsoft.Build.resources.dll
+Y:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V27\RMS_Integration\RMS_Integration\bin\Debug\ru\Microsoft.Build.resources.dll
+Y:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V27\RMS_Integration\RMS_Integration\bin\Debug\tr\Microsoft.Build.resources.dll
+Y:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V27\RMS_Integration\RMS_Integration\bin\Debug\zh-Hans\Microsoft.Build.resources.dll
+Y:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V27\RMS_Integration\RMS_Integration\bin\Debug\zh-Hant\Microsoft.Build.resources.dll
+Y:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V27\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.RMSApp.resources
+Y:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V27\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.Properties.Resources.resources
+Y:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V27\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.csproj.GenerateResource.cache
+Y:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V27\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.csproj.CoreCompileInputs.cache
+Y:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V27\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.csproj.CopyComplete
+Y:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V27\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.exe
+Y:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V27\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.pdb
+C:\Users\Mario Soriano\Desktop\RMS_Integration_V27\RMS_Integration\RMS_Integration\bin\Debug\RMS_Integration.exe.config
+C:\Users\Mario Soriano\Desktop\RMS_Integration_V27\RMS_Integration\RMS_Integration\bin\Debug\RMS_Integration.exe
+C:\Users\Mario Soriano\Desktop\RMS_Integration_V27\RMS_Integration\RMS_Integration\bin\Debug\RMS_Integration.pdb
+C:\Users\Mario Soriano\Desktop\RMS_Integration_V27\RMS_Integration\RMS_Integration\bin\Debug\CsvHelper.dll
+C:\Users\Mario Soriano\Desktop\RMS_Integration_V27\RMS_Integration\RMS_Integration\bin\Debug\DiscreteLogics.TeaFiles.dll
+C:\Users\Mario Soriano\Desktop\RMS_Integration_V27\RMS_Integration\RMS_Integration\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+C:\Users\Mario Soriano\Desktop\RMS_Integration_V27\RMS_Integration\RMS_Integration\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter.dll
+C:\Users\Mario Soriano\Desktop\RMS_Integration_V27\RMS_Integration\RMS_Integration\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Mario Soriano\Desktop\RMS_Integration_V27\RMS_Integration\RMS_Integration\bin\Debug\System.ValueTuple.dll
+C:\Users\Mario Soriano\Desktop\RMS_Integration_V27\RMS_Integration\RMS_Integration\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Mario Soriano\Desktop\RMS_Integration_V27\RMS_Integration\RMS_Integration\bin\Debug\Microsoft.Build.dll
+C:\Users\Mario Soriano\Desktop\RMS_Integration_V27\RMS_Integration\RMS_Integration\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\Mario Soriano\Desktop\RMS_Integration_V27\RMS_Integration\RMS_Integration\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Mario Soriano\Desktop\RMS_Integration_V27\RMS_Integration\RMS_Integration\bin\Debug\System.IO.Compression.dll
+C:\Users\Mario Soriano\Desktop\RMS_Integration_V27\RMS_Integration\RMS_Integration\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\Mario Soriano\Desktop\RMS_Integration_V27\RMS_Integration\RMS_Integration\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Mario Soriano\Desktop\RMS_Integration_V27\RMS_Integration\RMS_Integration\bin\Debug\CsvHelper.xml
+C:\Users\Mario Soriano\Desktop\RMS_Integration_V27\RMS_Integration\RMS_Integration\bin\Debug\DiscreteLogics.TeaFiles.xml
+C:\Users\Mario Soriano\Desktop\RMS_Integration_V27\RMS_Integration\RMS_Integration\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Mario Soriano\Desktop\RMS_Integration_V27\RMS_Integration\RMS_Integration\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Mario Soriano\Desktop\RMS_Integration_V27\RMS_Integration\RMS_Integration\bin\Debug\System.ValueTuple.xml
+C:\Users\Mario Soriano\Desktop\RMS_Integration_V27\RMS_Integration\RMS_Integration\bin\Debug\cs\Microsoft.Build.resources.dll
+C:\Users\Mario Soriano\Desktop\RMS_Integration_V27\RMS_Integration\RMS_Integration\bin\Debug\de\Microsoft.Build.resources.dll
+C:\Users\Mario Soriano\Desktop\RMS_Integration_V27\RMS_Integration\RMS_Integration\bin\Debug\en\Microsoft.Build.resources.dll
+C:\Users\Mario Soriano\Desktop\RMS_Integration_V27\RMS_Integration\RMS_Integration\bin\Debug\es\Microsoft.Build.resources.dll
+C:\Users\Mario Soriano\Desktop\RMS_Integration_V27\RMS_Integration\RMS_Integration\bin\Debug\fr\Microsoft.Build.resources.dll
+C:\Users\Mario Soriano\Desktop\RMS_Integration_V27\RMS_Integration\RMS_Integration\bin\Debug\it\Microsoft.Build.resources.dll
+C:\Users\Mario Soriano\Desktop\RMS_Integration_V27\RMS_Integration\RMS_Integration\bin\Debug\ja\Microsoft.Build.resources.dll
+C:\Users\Mario Soriano\Desktop\RMS_Integration_V27\RMS_Integration\RMS_Integration\bin\Debug\ko\Microsoft.Build.resources.dll
+C:\Users\Mario Soriano\Desktop\RMS_Integration_V27\RMS_Integration\RMS_Integration\bin\Debug\pl\Microsoft.Build.resources.dll
+C:\Users\Mario Soriano\Desktop\RMS_Integration_V27\RMS_Integration\RMS_Integration\bin\Debug\pt-BR\Microsoft.Build.resources.dll
+C:\Users\Mario Soriano\Desktop\RMS_Integration_V27\RMS_Integration\RMS_Integration\bin\Debug\ru\Microsoft.Build.resources.dll
+C:\Users\Mario Soriano\Desktop\RMS_Integration_V27\RMS_Integration\RMS_Integration\bin\Debug\tr\Microsoft.Build.resources.dll
+C:\Users\Mario Soriano\Desktop\RMS_Integration_V27\RMS_Integration\RMS_Integration\bin\Debug\zh-Hans\Microsoft.Build.resources.dll
+C:\Users\Mario Soriano\Desktop\RMS_Integration_V27\RMS_Integration\RMS_Integration\bin\Debug\zh-Hant\Microsoft.Build.resources.dll
+C:\Users\Mario Soriano\Desktop\RMS_Integration_V27\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.csprojAssemblyReference.cache
+C:\Users\Mario Soriano\Desktop\RMS_Integration_V27\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.RMSApp.resources
+C:\Users\Mario Soriano\Desktop\RMS_Integration_V27\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.Properties.Resources.resources
+C:\Users\Mario Soriano\Desktop\RMS_Integration_V27\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.csproj.GenerateResource.cache
+C:\Users\Mario Soriano\Desktop\RMS_Integration_V27\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.csproj.CoreCompileInputs.cache
+C:\Users\Mario Soriano\Desktop\RMS_Integration_V27\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.csproj.CopyComplete
+C:\Users\Mario Soriano\Desktop\RMS_Integration_V27\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.exe
+C:\Users\Mario Soriano\Desktop\RMS_Integration_V27\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.pdb
+C:\Users\masorian\Documents\RMS_Integration_V29\RMS_Integration\RMS_Integration\bin\Debug\RMS_Integration.exe.config
+C:\Users\masorian\Documents\RMS_Integration_V29\RMS_Integration\RMS_Integration\bin\Debug\RMS_Integration.exe
+C:\Users\masorian\Documents\RMS_Integration_V29\RMS_Integration\RMS_Integration\bin\Debug\RMS_Integration.pdb
+C:\Users\masorian\Documents\RMS_Integration_V29\RMS_Integration\RMS_Integration\bin\Debug\CsvHelper.dll
+C:\Users\masorian\Documents\RMS_Integration_V29\RMS_Integration\RMS_Integration\bin\Debug\DiscreteLogics.TeaFiles.dll
+C:\Users\masorian\Documents\RMS_Integration_V29\RMS_Integration\RMS_Integration\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+C:\Users\masorian\Documents\RMS_Integration_V29\RMS_Integration\RMS_Integration\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter.dll
+C:\Users\masorian\Documents\RMS_Integration_V29\RMS_Integration\RMS_Integration\bin\Debug\Newtonsoft.Json.dll
+C:\Users\masorian\Documents\RMS_Integration_V29\RMS_Integration\RMS_Integration\bin\Debug\System.ValueTuple.dll
+C:\Users\masorian\Documents\RMS_Integration_V29\RMS_Integration\RMS_Integration\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\masorian\Documents\RMS_Integration_V29\RMS_Integration\RMS_Integration\bin\Debug\Microsoft.Build.dll
+C:\Users\masorian\Documents\RMS_Integration_V29\RMS_Integration\RMS_Integration\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\masorian\Documents\RMS_Integration_V29\RMS_Integration\RMS_Integration\bin\Debug\System.Collections.Immutable.dll
+C:\Users\masorian\Documents\RMS_Integration_V29\RMS_Integration\RMS_Integration\bin\Debug\System.IO.Compression.dll
+C:\Users\masorian\Documents\RMS_Integration_V29\RMS_Integration\RMS_Integration\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\masorian\Documents\RMS_Integration_V29\RMS_Integration\RMS_Integration\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\masorian\Documents\RMS_Integration_V29\RMS_Integration\RMS_Integration\bin\Debug\CsvHelper.xml
+C:\Users\masorian\Documents\RMS_Integration_V29\RMS_Integration\RMS_Integration\bin\Debug\DiscreteLogics.TeaFiles.xml
+C:\Users\masorian\Documents\RMS_Integration_V29\RMS_Integration\RMS_Integration\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\masorian\Documents\RMS_Integration_V29\RMS_Integration\RMS_Integration\bin\Debug\Newtonsoft.Json.xml
+C:\Users\masorian\Documents\RMS_Integration_V29\RMS_Integration\RMS_Integration\bin\Debug\System.ValueTuple.xml
+C:\Users\masorian\Documents\RMS_Integration_V29\RMS_Integration\RMS_Integration\bin\Debug\cs\Microsoft.Build.resources.dll
+C:\Users\masorian\Documents\RMS_Integration_V29\RMS_Integration\RMS_Integration\bin\Debug\de\Microsoft.Build.resources.dll
+C:\Users\masorian\Documents\RMS_Integration_V29\RMS_Integration\RMS_Integration\bin\Debug\en\Microsoft.Build.resources.dll
+C:\Users\masorian\Documents\RMS_Integration_V29\RMS_Integration\RMS_Integration\bin\Debug\es\Microsoft.Build.resources.dll
+C:\Users\masorian\Documents\RMS_Integration_V29\RMS_Integration\RMS_Integration\bin\Debug\fr\Microsoft.Build.resources.dll
+C:\Users\masorian\Documents\RMS_Integration_V29\RMS_Integration\RMS_Integration\bin\Debug\it\Microsoft.Build.resources.dll
+C:\Users\masorian\Documents\RMS_Integration_V29\RMS_Integration\RMS_Integration\bin\Debug\ja\Microsoft.Build.resources.dll
+C:\Users\masorian\Documents\RMS_Integration_V29\RMS_Integration\RMS_Integration\bin\Debug\ko\Microsoft.Build.resources.dll
+C:\Users\masorian\Documents\RMS_Integration_V29\RMS_Integration\RMS_Integration\bin\Debug\pl\Microsoft.Build.resources.dll
+C:\Users\masorian\Documents\RMS_Integration_V29\RMS_Integration\RMS_Integration\bin\Debug\pt-BR\Microsoft.Build.resources.dll
+C:\Users\masorian\Documents\RMS_Integration_V29\RMS_Integration\RMS_Integration\bin\Debug\ru\Microsoft.Build.resources.dll
+C:\Users\masorian\Documents\RMS_Integration_V29\RMS_Integration\RMS_Integration\bin\Debug\tr\Microsoft.Build.resources.dll
+C:\Users\masorian\Documents\RMS_Integration_V29\RMS_Integration\RMS_Integration\bin\Debug\zh-Hans\Microsoft.Build.resources.dll
+C:\Users\masorian\Documents\RMS_Integration_V29\RMS_Integration\RMS_Integration\bin\Debug\zh-Hant\Microsoft.Build.resources.dll
+C:\Users\masorian\Documents\RMS_Integration_V29\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.RMSApp.resources
+C:\Users\masorian\Documents\RMS_Integration_V29\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.Properties.Resources.resources
+C:\Users\masorian\Documents\RMS_Integration_V29\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.csproj.GenerateResource.cache
+C:\Users\masorian\Documents\RMS_Integration_V29\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.csproj.CoreCompileInputs.cache
+C:\Users\masorian\Documents\RMS_Integration_V29\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.csproj.CopyComplete
+C:\Users\masorian\Documents\RMS_Integration_V29\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.exe
+C:\Users\masorian\Documents\RMS_Integration_V29\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.pdb
+C:\Users\masorian\Documents\RMS_Integration_V29\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.Selection.resources
+G:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V31\RMS_Integration\RMS_Integration\bin\Debug\RMS_Integration.exe.config
+G:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V31\RMS_Integration\RMS_Integration\bin\Debug\RMS_Integration.exe
+G:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V31\RMS_Integration\RMS_Integration\bin\Debug\RMS_Integration.pdb
+G:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V31\RMS_Integration\RMS_Integration\bin\Debug\CsvHelper.dll
+G:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V31\RMS_Integration\RMS_Integration\bin\Debug\DiscreteLogics.TeaFiles.dll
+G:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V31\RMS_Integration\RMS_Integration\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+G:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V31\RMS_Integration\RMS_Integration\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter.dll
+G:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V31\RMS_Integration\RMS_Integration\bin\Debug\Newtonsoft.Json.dll
+G:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V31\RMS_Integration\RMS_Integration\bin\Debug\System.ValueTuple.dll
+G:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V31\RMS_Integration\RMS_Integration\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+G:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V31\RMS_Integration\RMS_Integration\bin\Debug\Microsoft.Build.dll
+G:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V31\RMS_Integration\RMS_Integration\bin\Debug\Microsoft.Build.Framework.dll
+G:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V31\RMS_Integration\RMS_Integration\bin\Debug\System.Collections.Immutable.dll
+G:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V31\RMS_Integration\RMS_Integration\bin\Debug\System.IO.Compression.dll
+G:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V31\RMS_Integration\RMS_Integration\bin\Debug\System.Threading.Tasks.Dataflow.dll
+G:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V31\RMS_Integration\RMS_Integration\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+G:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V31\RMS_Integration\RMS_Integration\bin\Debug\CsvHelper.xml
+G:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V31\RMS_Integration\RMS_Integration\bin\Debug\DiscreteLogics.TeaFiles.xml
+G:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V31\RMS_Integration\RMS_Integration\bin\Debug\Newtonsoft.Json.pdb
+G:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V31\RMS_Integration\RMS_Integration\bin\Debug\Newtonsoft.Json.xml
+G:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V31\RMS_Integration\RMS_Integration\bin\Debug\System.ValueTuple.xml
+G:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V31\RMS_Integration\RMS_Integration\bin\Debug\cs\Microsoft.Build.resources.dll
+G:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V31\RMS_Integration\RMS_Integration\bin\Debug\de\Microsoft.Build.resources.dll
+G:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V31\RMS_Integration\RMS_Integration\bin\Debug\en\Microsoft.Build.resources.dll
+G:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V31\RMS_Integration\RMS_Integration\bin\Debug\es\Microsoft.Build.resources.dll
+G:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V31\RMS_Integration\RMS_Integration\bin\Debug\fr\Microsoft.Build.resources.dll
+G:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V31\RMS_Integration\RMS_Integration\bin\Debug\it\Microsoft.Build.resources.dll
+G:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V31\RMS_Integration\RMS_Integration\bin\Debug\ja\Microsoft.Build.resources.dll
+G:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V31\RMS_Integration\RMS_Integration\bin\Debug\ko\Microsoft.Build.resources.dll
+G:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V31\RMS_Integration\RMS_Integration\bin\Debug\pl\Microsoft.Build.resources.dll
+G:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V31\RMS_Integration\RMS_Integration\bin\Debug\pt-BR\Microsoft.Build.resources.dll
+G:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V31\RMS_Integration\RMS_Integration\bin\Debug\ru\Microsoft.Build.resources.dll
+G:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V31\RMS_Integration\RMS_Integration\bin\Debug\tr\Microsoft.Build.resources.dll
+G:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V31\RMS_Integration\RMS_Integration\bin\Debug\zh-Hans\Microsoft.Build.resources.dll
+G:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V31\RMS_Integration\RMS_Integration\bin\Debug\zh-Hant\Microsoft.Build.resources.dll
+G:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V31\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.csprojAssemblyReference.cache
+G:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V31\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.RMSApp.resources
+G:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V31\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.Pressure.resources
+G:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V31\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.Properties.Resources.resources
+G:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V31\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.Selection.resources
+G:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V31\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.csproj.GenerateResource.cache
+G:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V31\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.csproj.CoreCompileInputs.cache
+G:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V31\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.csproj.CopyComplete
+G:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V31\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.exe
+G:\My Drive\MSc Mario Soriano Documents\VS_Code\RMS_Integration_V31\RMS_Integration\RMS_Integration\obj\Debug\RMS_Integration.pdb

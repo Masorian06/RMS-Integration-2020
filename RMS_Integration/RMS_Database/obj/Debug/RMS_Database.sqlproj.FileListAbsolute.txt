@@ -1,0 +1,16 @@
+C:\Users\Mario Soriano\Documents\RMS_Integration_V16\RMS_Integration\RMS_Database\bin\Debug\RMS_Database.dacpac
+C:\Users\Mario Soriano\Documents\RMS_Integration_V16\RMS_Integration\RMS_Database\bin\Debug\RMS_Database.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V16\RMS_Integration\RMS_Database\bin\Debug\RMS_Database.pdb
+C:\Users\Mario Soriano\Documents\RMS_Integration_V16\RMS_Integration\RMS_Database\obj\Debug\RMS_Database.dll
+C:\Users\Mario Soriano\Documents\RMS_Integration_V16\RMS_Integration\RMS_Database\obj\Debug\RMS_Database.pdb
+C:\Users\Mario Soriano\Documents\RMS_Integration_V16\RMS_Integration\RMS_Database\obj\Debug\RMS_Database.sqlprojAssemblyReference.cache
+C:\Users\masorian\Documents\RMS_Integration_V17\RMS_Integration_V17\RMS_Integration\RMS_Database\bin\Debug\RMS_Database.dacpac
+C:\Users\masorian\Documents\RMS_Integration_V17\RMS_Integration_V17\RMS_Integration\RMS_Database\bin\Debug\RMS_Database.dll
+C:\Users\masorian\Documents\RMS_Integration_V17\RMS_Integration_V17\RMS_Integration\RMS_Database\bin\Debug\RMS_Database.pdb
+C:\Users\masorian\Documents\RMS_Integration_V17\RMS_Integration_V17\RMS_Integration\RMS_Database\obj\Debug\RMS_Database.sqlprojAssemblyReference.cache
+C:\Users\masorian\Documents\RMS_Integration_V17\RMS_Integration_V17\RMS_Integration\RMS_Database\obj\Debug\Model.xml
+C:\Users\masorian\Documents\RMS_Integration_V17\RMS_Integration_V17\RMS_Integration\RMS_Database\obj\Debug\refactor.xml
+C:\Users\masorian\Documents\RMS_Integration_V17\RMS_Integration_V17\RMS_Integration\RMS_Database\obj\Debug\postdeploy.sql
+C:\Users\masorian\Documents\RMS_Integration_V17\RMS_Integration_V17\RMS_Integration\RMS_Database\obj\Debug\predeploy.sql
+C:\Users\masorian\Documents\RMS_Integration_V17\RMS_Integration_V17\RMS_Integration\RMS_Database\obj\Debug\RMS_Database.dll
+C:\Users\masorian\Documents\RMS_Integration_V17\RMS_Integration_V17\RMS_Integration\RMS_Database\obj\Debug\RMS_Database.pdb
